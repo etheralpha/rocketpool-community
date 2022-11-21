@@ -107,7 +107,7 @@ permalink: /videos/
       </div>
       <div class="modal-footer">
         <span id="modalRandom">
-          <a class="btn btn-dark" onclick="showRandom()">Random</a>
+          <!-- <a class="btn btn-dark" onclick="showRandom()">Random</a> -->
         </span>
         <a class="btn btn-outline-dark" data-bs-dismiss="modal">Close</a>
       </div>

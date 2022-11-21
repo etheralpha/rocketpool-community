@@ -11,7 +11,6 @@ function updateLinkTargets() {
       links[link].target = "_blank";
     }
     // if current domain, use same tab
-    // if (/^(https?:\/\/rocketpool\.community)/.test(links[link].href)) {
     if (anchorLink != undefined && anchorLink.includes("{{site_url}}")) {
       links[link].target = "_self";
     }
