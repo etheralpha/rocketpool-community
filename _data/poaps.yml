@@ -1,0 +1,2020 @@
+# # id = poap id - for poap art it's the painted pixels (comma removed)
+# # link = use the poap.gallery link
+# # date = dd-Mon-yyyy (e.g. 23-Jan-2022), use the date of the event not the date it was created or distributed
+# # supply = poap supply - for poap art it's the painted pixels (comma removed)
+# # creator = poap artist, use "unknown" if not known - for poap art it's "POAP Art Canvas"
+# # type options = community, official, ethstaker, poap, other (less used: reddit, rari capital, balance, madison, sushi, bankless, daily gwei, zapper)
+# # filesize = image file size - only used for large files (image won't load if present)
+
+# Template to copy for new entries
+# - id: 
+#   link: 
+#   img_url: 
+#   title: 
+#   description: 
+#   desc_url: 
+#   date: 
+#   supply: 
+#   creator: 
+#   type: community
+#   filesize: 
+
+
+# Post new entries at the top of the list
+- id: 84325
+  link: https://poap.gallery/event/84325
+  img_url: https://assets.poap.xyz/rocket-pool-celebrates-one-year-on-mainnet-2022-logo-1668907383272.png
+  title: Rocket Pool celebrates One Year on mainnet
+  description: Rocket Pool launched on November 8, 2021 after several years of development and exhaustive audits. A year later, Rocket Pool is still the only open source, trustless, decentralized, open source, and permissionless staking platform available in the Ethereum ecosystem. Rocket Pool is widely regarded as the fractional staking platform that is most closely aligned with the core values of Ethereum and we're all looking forward to a successful future! POAP image by designatum.eth#8180 through popapathon.com, poap developed by superphiz. Recipients of this POAP are known Rocket Pool community members who contributed $5 to the Rocket Pool Grants and Bounties management committee.
+  desc_url: https://medium.com/rocket-pool/rocket-pool-our-first-birthday-8c40e12240c4
+  date: 08-Nov-2022
+  supply: 30
+  creator: designatum.eth
+  type: community
+- id: 139862
+  link: https://app.poap.art/happy-birthday-ens-dao-paint-party/
+  img_url: /assets/img/poaps/art/happy-birthday-ens-dao-paint-party.png
+  title: Happy Birthday ENS DAO Paint Party
+  description: A painting party held in honor of ENS DAO's first birthday.
+  desc_url: 
+  date: 08-Nov-2022
+  supply: 139862
+  creator: POAP Art Canvas
+  type: ens
+- id: 81111
+  link: https://poap.gallery/event/81111
+  img_url: https://assets.poap.xyz/lookingforowls-makes-a-triumphant-return-to-rp-23trading-community-2022-logo-1667435285090.png
+  title: "LookingForOwls makes a triumphant return to RP #trading community"
+  description: After a hard week and the first truly contentious vote in the RP community, which included losing a well liked member, we all needed a reminder of who we are and what we're about. Just when we needed a hero, instead LookingForOwls returned to remind us to be excellent to each other and not take some of these things too personally or seriously, like we were in the olden days before launch.
+  desc_url: 
+  date: 01-Nov-2022
+  supply: 57
+  creator: DrDoofus
+  type: community
+- id: 73812
+  link: https://poap.gallery/event/73812
+  img_url: https://assets.poap.xyz/bring-out-your-nodes-anyone-can-be-a-node-operator-2022-logo-1665303435512.png
+  title: Bring out your nodes - Anyone can be a node operator
+  description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
+  desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
+  date: 08-Oct-2022
+  supply: 0
+  creator: mao
+  type: community
+- id: 73811
+  link: https://poap.gallery/event/73811
+  img_url: https://assets.poap.xyz/bring-out-your-nodes-node-is-the-goat-2022-logo-1665303391118.png
+  title: Bring out your nodes - Node is the G.O.A.T.
+  description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
+  desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
+  date: 08-Oct-2022
+  supply: 0
+  creator: mao
+  type: community
+- id: 73810
+  link: https://poap.gallery/event/73810
+  img_url: https://assets.poap.xyz/bring-out-your-nodes-its-just-meh-2022-logo-1665303343431.png
+  title: Bring out your nodes - It's just meh...
+  description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
+  desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
+  date: 08-Oct-2022
+  supply: 0
+  creator: mao
+  type: community
+- id: 73809
+  link: https://poap.gallery/event/73809
+  img_url: https://assets.poap.xyz/bring-out-your-nodes-extreme-offgrid-node-ing-2022-logo-1665303290809.png
+  title: Bring out your nodes - Extreme offgrid node-ing
+  description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
+  desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
+  date: 08-Oct-2022
+  supply: 0
+  creator: mao
+  type: community
+- id: 73808
+  link: https://poap.gallery/event/73808
+  img_url: https://assets.poap.xyz/bring-out-your-nodes-node-has-more-lights-than-a-discotheque-2022-logo-1665303231283.png
+  title: Bring out your nodes - Node has more lights than a discotheque
+  description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
+  desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
+  date: 08-Oct-2022
+  supply: 0
+  creator: mao
+  type: community
+- id: 73807
+  link: https://poap.gallery/event/73807
+  img_url: https://assets.poap.xyz/bring-out-your-nodes-node-looks-older-than-the-pyramids-2022-logo-1665303168897.png
+  title: Bring out your nodes - Node looks older than the Pyramids
+  description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
+  desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
+  date: 08-Oct-2022
+  supply: 0
+  creator: mao
+  type: community
+- id: 73806
+  link: https://poap.gallery/event/73806
+  img_url: https://assets.poap.xyz/bring-out-your-nodes-node-macgyver-would-be-proud-of-2022-logo-1665303096602.png
+  title: Bring out your nodes - Node MacGyver would be proud of
+  description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
+  desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
+  date: 08-Oct-2022
+  supply: 0
+  creator: mao
+  type: community
+- id: 73803
+  link: https://poap.gallery/event/73803
+  img_url: https://assets.poap.xyz/bring-out-your-nodes-node-most-likely-to-start-a-fire-2022-logo-1665301828883.png
+  title: Bring out your nodes - Node most likely to start a fire
+  description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
+  desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
+  date: 08-Oct-2022
+  supply: 0
+  creator: mao
+  type: community
+- id: 70517
+  link: https://poap.gallery/event/70517
+  img_url: https://assets.poap.xyz/rocket-fuel-smashing-that-like-button-undefined-logo-1664458004798.png
+  title: Rocket Fuel smashing that like button!
+  description: "waqwaqattack has always been hesitant to say 'smash that like button' during his videos. However, the community responded with over a hundred Rocket Fuel emojis and got him to utter those famous words!"
+  desc_url: https://www.youtube.com/c/RocketFuel-RPL
+  date: 29-Sep-2022
+  supply: 102
+  creator: unknown
+  type: community
+- id: 68626
+  link: https://poap.gallery/event/68626
+  img_url: https://assets.poap.xyz/100eth-smoothing-pool-milestone-2022-logo-1664266272871.png
+  title: 100ETH Smoothing Pool Milestone
+  description: The Fabulous Rocket Pool Smoothing Pool reached 100ETH for the first time after his release
+  desc_url: 
+  date: 29-Sep-2022
+  supply: 67
+  creator: unknown
+  type: community
+- id: 67269
+  link: https://poap.gallery/event/67269
+  img_url: https://assets.poap.xyz/a-rocket-pool-community-voted-on-rocket-fuel-to-get-a-new-thumbnail-on-youtube-2022-logo-1664205897236.png
+  title: New Rocket Fuel thumbnail
+  description: waqwaqattack said they would never change the thumbnail for Rocket Fuel. Bawcey made a new thumbnail for the channel. waqwaqattack said that they would use it for Rocket Fuel if Trading gave it 50 rocket and fuel-pump emojis. Trading stepped up and gave it more than that.
+  desc_url: https://www.youtube.com/c/RocketFuel-RPL
+  date: 26-Sep-2022
+  supply: 55
+  creator: unknown
+  type: community
+- id: 65958
+  link: https://poap.gallery/event/65958
+  img_url: https://assets.poap.xyz/support-of-rocket-fuel-2022-logo-1663589411116.png
+  title: Support of Rocket Fuel
+  description: Rocket Fuel, a YouTube channel by the Rocket Pool community for the Rocket Pool community, has been running for a month. In that time, holders of this POAP have shown support for Rocket Fuel by joining the discord thread for the channel, providing feedback, or just being awesome.
+  desc_url: https://www.youtube.com/c/RocketFuel-RPL
+  date: 20-Sep-2022
+  supply: 81
+  creator: Sleety.eth
+  type: community
+- id: 366388
+  link: https://app.poap.art/mainnet-merge/
+  img_url: /assets/img/poaps/art/mainnet-merge.png
+  title: Mainnet Merge Paint Party
+  description: Mainnet Merge party hosted by EthStaker
+  desc_url: 
+  date: 15-Sep-2022
+  supply: 366388
+  creator: POAP Art Canvas
+  type: ethstaker
+- id: 64942
+  link: https://poap.gallery/event/64942
+  img_url: https://assets.poap.xyz/ken-and-marceau-on-rocket-pool-bankless-bullcast-2022-logo-1663093195119.png
+  title: Ken and Marceau on Rocket Pool Bankless Bullcast
+  description: "This POAP is to commemorate Rocket Pool's feature on the Bankless Bullcast and show appreciation to Ken and Marceau for their excellent work explaining and hyping rETH and RPL to the masses. It is distributed to those who watched the stream live and participated in the real-time hype in #trading or YT chat or who expressed their gratitude to Ken and Marceau.<br><br>Art by Sleety.eth<br><br>'The Bull Case for Rocket Pool with Marceau & Ken Smith' - <a href='https://www.youtube.com/watch?v=bQK9Yr1BpQw'>https://www.youtube.com/watch?v=bQK9Yr1BpQw</a>"
+  desc_url: https://www.youtube.com/watch?v=bQK9Yr1BpQw
+  date: 02-Sep-2022
+  supply: 42
+  creator: Sleety.eth
+  type: community
+- id: 62754
+  link: https://poap.gallery/event/62754
+  img_url: https://assets.poap.xyz/rocket-pool-launches-smoothing-pool-2022-logo-1661854611957.png
+  title: Rocket Pool launches Smoothing Pool
+  description: This POAP is for all the node operators that jumped into the Smoothing Pool within 24 hours after launch.<br><br>The Smoothing Pool allows Rocket Pool node operators to share block rewards for a more constant income.
+  desc_url: https://stake.rocketpool.net/
+  date: 29-Aug-2022
+  supply: 78
+  creator: mao
+  type: community
+- id: 76455
+  link: https://app.poap.art/poap-paint-party-2022
+  img_url: /assets/img/poaps/art/poap-paint-party-2022.png
+  title: POAP Employee Paint Party 2022
+  description: On this day, and over the course of the week, the POAP Art team invited the POAP employees to paint till their hearts were content. The POAP Art canvas is for everyone, and because of this we wanted to kick off our next adventures with those closest to us. Please feel free to leave your mark on our POAP canvas. We wouldn't be us without you. 🎨❤️🎖
+  desc_url: 
+  date: 22-Aug-2022
+  supply: 76455
+  creator: POAP Art Canvas
+  type: poap
+- id: 58261
+  link: https://poap.gallery/event/58261
+  img_url: https://assets.poap.xyz/i-prevented-mentoreth-being-doxed-2022-logo-1659704329195.png
+  title: I prevented mentor.eth being doxed
+  description: Rocket Pool is launching its glorious delegates portal. To help mentor.eth to become a delegate without doxing his Rocketpool node, I set him as my delegate.<br><br>Mentor is grateful, I got a POAP. The scales of the universe tip ever so slightly to the light.
+  desc_url: https://twitter.com/ActuallyMentor
+  date: 05-Aug-2022
+  supply: 8
+  creator: mentor.eth
+  type: community
+- id: 57741
+  link: https://poap.gallery/event/57741
+  img_url: https://assets.poap.xyz/rocket-pool-trading-observes-016-rpleth-2022-logo-1659517135664.png
+  title: "Rocket Pool #Trading Observes 0.016 RPL/ETH"
+  description: "Rocket Pool #trading watched as RPL token adoption skyrocketed and the RPL/ETH ratio hit a significant new milestone at 0.016. The POAP was made collaboratively, and features community members present at the time of the event."
+  desc_url: 
+  date: 03-Aug-2022
+  supply: 64
+  creator: unknown
+  type: community
+- id: 57661
+  link: https://poap.gallery/event/57661
+  img_url: https://assets.poap.xyz/thomasg-buys-out-the-rpl-liquidity-wall-2022-logo-1659477324512.png
+  title: Thomasg buys out the RPL liquidity wall
+  description: "This POAP is for everyone who was active in #trading channel of the Rocket Pool discord on the day that Thomasg bought up all RPL liquidity in the range 0.013 - 0.015, with a 197k RPL market buy, worth 2850 ETH. With that, he cemented his status as a Rocket Pool wall-wrecking legend. He then converted the old RPL bought to the new RPL token and added them as single-sided liquidity at a higher price range: 0.015 - 0.025"
+  desc_url: 
+  date: 01-Aug-2022
+  supply: 81
+  creator: Sleety.eth
+  type: community
+- id: 57373
+  link: https://poap.gallery/event/57373
+  img_url: https://assets.poap.xyz/the-july-2022-pumpening-of-rpl-2022-logo-1659288336073.png
+  title: The July 2022 Pumpening of RPL
+  description: "On July 31, 2022 RPL liquidity got tight and the price began to climb. Holders of this POAP were active in the Rocket Pool #Trading discord during the pump."
+  desc_url: https://discord.gg/rocketpool
+  date: 31-Jul-2022
+  supply: 94
+  creator: Dondochaka
+  type: community  
+- id: 59757
+  link: https://poap.gallery/event/59757
+  img_url: https://assets.poap.xyz/rocket-pool-welcomes-maverick-2022-logo-1660267799253.png
+  title: Rocket Pool Welcomes Maverick
+  description: This POAP welcomes Maverick (Nick Ashley) to the Rocket Pool team as the community manger. After careful vetting by the community Maverick has passed the test and is now regarded as a Rocket Pooler. Holders of this POAP are established members of the Rocket Pool community who welcomed Maverick in his first weeks. Some codes were delivered manually, while others were awarded using POAP.delivery. Art by Sleety.eth
+  desc_url: https://rocketpool.net
+  date: 04-Jul-2022
+  supply: 45
+  creator: Sleety.eth
+  type: community
+- id: 56643
+  link: https://poap.gallery/event/56643
+  img_url: https://assets.poap.xyz/gitpoap-2022-rocket-pool-contributor-2022-logo-1658862522906.png
+  title: "GitPOAP: 2022 Rocket Pool Contributor"
+  description: You made at least one contribution to the Rocket Pool project in 2022. Your contributions are greatly appreciated!
+  desc_url: https://github.com/rocket-pool/rocketpool
+  date: 01-Jan-2022
+  supply: 19
+  creator: unknown 
+  type: gitpoap
+- id: 56642
+  link: https://poap.gallery/event/56642
+  img_url: https://assets.poap.xyz/gitpoap-2021-rocket-pool-contributor-2021-logo-1658862518776.png
+  title: "GitPOAP: 2021 Rocket Pool Contributor"
+  description: You made at least one contribution to the Rocket Pool project in 2021. Your contributions are greatly appreciated!
+  desc_url: https://github.com/rocket-pool/rocketpool
+  date: 01-Jan-2022
+  supply: 10
+  creator: unknown 
+  type: gitpoap
+- id: 56641
+  link: https://poap.gallery/event/56641
+  img_url: https://assets.poap.xyz/gitpoap-2020-rocket-pool-contributor-2020-logo-1658862514941.png
+  title: "GitPOAP: 2020 Rocket Pool Contributor"
+  description: You made at least one contribution to the Rocket Pool project in 2020. Your contributions are greatly appreciated!
+  desc_url: https://github.com/rocket-pool/rocketpool
+  date: 01-Jan-2022
+  supply: 1
+  creator: unknown 
+  type: gitpoap
+- id: 56640
+  link: https://poap.gallery/event/56640
+  img_url: https://assets.poap.xyz/gitpoap-2019-rocket-pool-contributor-2019-logo-1658862509847.png
+  title: "GitPOAP: 2019 Rocket Pool Contributor"
+  description: You made at least one contribution to the Rocket Pool project in 2019. Your contributions are greatly appreciated!
+  desc_url: https://github.com/rocket-pool/rocketpool
+  date: 01-Jan-2022
+  supply: 0
+  creator: unknown
+  type: gitpoap
+- id: 56639
+  link: https://poap.gallery/event/56639
+  img_url: https://assets.poap.xyz/gitpoap-2018-rocket-pool-contributor-2018-logo-1658862506290.png
+  title: "GitPOAP: 2018 Rocket Pool Contributor"
+  description: You made at least one contribution to the Rocket Pool project in 2018. Your contributions are greatly appreciated!
+  desc_url: https://github.com/rocket-pool/rocketpool
+  date: 01-Jan-2022
+  supply: 1
+  creator: unknown 
+  type: gitpoap
+- id: 56638
+  link: https://poap.gallery/event/56638
+  img_url: https://assets.poap.xyz/gitpoap-2017-rocket-pool-contributor-2017-logo-1658862503167.png
+  title: "GitPOAP: 2017 Rocket Pool Contributor"
+  description: You made at least one contribution to the Rocket Pool project in 2017. Your contributions are greatly appreciated!
+  desc_url: https://github.com/rocket-pool/rocketpool
+  date: 01-Jan-2022
+  supply: 0
+  creator: unknown
+  type: gitpoap
+- id: 52683
+  link: https://poap.gallery/event/52683
+  img_url: https://assets.poap.xyz/rocketpool-node-operator-constipation-got-released-2022-logo-1656511603581.png
+  title: Rocketpool Node Operator Constipation got released
+  description: "The large build up of new Minipools in the Rocketpool Protocol in June 2022 got finally flushed out on June 29th with large Eth deposits. To celebrate this, the poap is claimable via manual distribution in the rocketpool #trading discord channel from June 29th to June 30th."
+  desc_url: https://rocketpool.net/
+  date: 29-Jun-2022
+  supply: 67
+  creator: mao
+  type: community
+- id: 44226
+  link: https://poap.gallery/event/44226
+  img_url: https://assets.poap.xyz/rocket-pool-minipool-staking-rewards-distributed-during-the-luna-meltdown-2022-logo-1652451489510.png
+  title: Rocket Pool minipool staking rewards distributed during the Luna meltdown
+  description: "The night of May 11, 2022 was an exciting time for Rocket Pool minipool operators - it was the monthly Rocket Pool rewards distribution, while hanging out in Rocket Pool #Trading, we were watching a ~20% across the board market drop as the Luna stable coin lost its peg and melted down. Holders of this POAP were in the room or closely related to the event in Rocket Pool. POAP development by Superphiz, data collection by Jasper the Friendly Ghost, POAP design by kavishsethi#2327 through the POAPathon discord."
+  desc_url: https://discord.gg/rocketpool
+  date: 11-May-2022
+  supply: 56
+  creator: unknown
+  type: community
+- id: 50301
+  link: https://poap.gallery/event/50301
+  img_url: https://assets.poap.xyz/the-meltdown-2022-logo-1655390810644.png
+  title: The Meltdown
+  description: Ethereum prices has been falling for a record 10 weeks straight with no relief in sight. The POAP is for those who witnessed and felt the effects of the downward price movements through the month of June 2022.
+  desc_url: 
+  date: 16-Jun-2022
+  supply: 60
+  creator: woh
+  type: community
+- id: 49472
+  link: https://poap.gallery/event/49472
+  img_url: https://assets.poap.xyz/celsius-sunday-with-rocket-pool-trading-2022-logo-1655092218038.png
+  title: "Celsius Sunday With Rocket Pool #trading"
+  description: 
+  desc_url: https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6
+  date: 12-Jun-2022
+  supply: 51
+  creator: Dondochaka
+  type: community
+- id: 43577
+  link: https://poap.gallery/event/43577
+  img_url: https://assets.poap.xyz/terra-loses-its-peg-2022-logo-1652152134930.png
+  title: Terra Loses Its Peg
+  description: On the day of May 9th, 2022, the cryptocurrency markets were heading south and the stable coin UST was in trouble. Algorithmic stable coins are supposed to be stable by tracking the price of fiat currencies, however, on this day UST's price went as low at .60 - 40% below the peg.
+  desc_url: 
+  date: 09-May-2022
+  supply: 78
+  creator: woh
+  type: community
+- id: 43435
+  link: https://poap.gallery/event/43435
+  img_url: https://assets.poap.xyz/tally-ho-community-cal-may-6th-2022-logo-1652086331345.png
+  title: Tally Ho Community Call May 6th!
+  description: "Thank you for joining the Tally Ho Community Call on May 6th 2022! We had Rocketpool joining us, discussed product updates and went through the Flow of Funds forum post. If you haven't yet, be sure to check that out!<br><br><a href='https://gov.tally.cash/t/tally-ho-dao-flow-of-funds/789'>https://gov.tally.cash/t/tally-ho-dao-flow-of-funds/789</a><br><br>Hope to see you next week, woof!"
+  desc_url: http://tally.cash
+  date: 06-May-2022
+  supply: 831
+  creator: unknown
+  type: tally
+- id: 42553
+  link: https://poap.gallery/event/42553
+  img_url: https://assets.poap.xyz/rocket-pool-developers-announce-all-the-things-weve-been-waiting-for-2022-logo-1651632922242.png
+  title: Rocket Pool Developers announce all the things we've been waiting for
+  description: "On May 3, 2022, in a Twitter Space hosted by Ken, a 5 week long famine ended with Langers serving a feast of bread. The loaves stacked high on platters right from the beginning as he summarized the Devconnect trip. DVT remains a loaf in the oven and MEV was hotly debated. The team participated in several panels. Just as the space went live Dave announced that the oDAO bootstrap was to be disabled this month. All mouths watered though as Ken prodded about the 10x node operator proposal Dave had put forward. The team was proposing a change to the EJECTION_BALANCE that will hopefully reduce the ETH requirement. trading was already feeling bread induced inebriation. In parallel, the Rocket Pool team are working on introducing a new Staking as a Service layer based on a node wallet smart contract. In theory, this may allow node operators to provide only RPL and stake ETH. The business applications were appreciated as the Node Operator Association was referenced in helping provide the proper dough recipe. Faced with copious carboloading, Langers pulled back the throttle as discussion shifted to governance. Snapshot is still being set up by Nick while multiple voting strategies are explored. While the pDAO matures, the oDAO will be looking to expand soon. As a parting loaf, Langers revealed that the team will be posting a job listing for two positions. A full time community manager and a part-time community evangelist. POAP development: superphiz, POAP distribution: Kairy Hiwis, POAP design: sleety.eth, descriptive text: jasperthefriendlyghost.eth and friends."
+  desc_url: https://www.youtube.com/watch?v=NRdejidLJMo
+  date: 03-May-2022
+  supply: 54
+  creator: Sleety.eth
+  type: community
+- id: 42214
+  link: https://app.poap.art/gitpoap-launch-party/
+  img_url: /assets/img/poaps/art/gitpoap-launch-party.png
+  title: GitPOAP Launch Party
+  description: 
+  desc_url: 
+  date: 09-Apr-2022
+  supply: 42214
+  creator: POAP Art Canvas
+  type: gitpoap
+- id: 41364
+  link: https://poap.gallery/event/41364
+  img_url: https://assets.poap.xyz/buttachain-in-the-ping-server-2022-logo-1651012517385.png
+  title: Buttacha.in in the ping server
+  description: Butta got a new profile picture, and the RPL ping server community had some fun making a chain of emojis and laughing way too hard about it. Holders of this POAP participated, for some reason.
+  desc_url: https://rocketpool.net/
+  date: 21-Apr-2022
+  supply: 21
+  creator: unknown
+  type: community
+- id: 40059
+  link: https://poap.gallery/event/40059
+  img_url: https://assets.poap.xyz/rocket-pool-meetup-at-devconnect-amsterdam-2022-logo-1650405971800.png
+  title: Rocket Pool meetup at DevConnect Amsterdam
+  description: On wednesday April 20, the Rocket Pool community did a meetup at Waterkant, Amsterdam during DevConnect.<br><br>Attendees of this meetup where offered this POAP via the magic QR dispenser throughout the evening.
+  desc_url: https://www.rocketpool.net/
+  date: 20-Apr-2022
+  supply: 19
+  creator: Luukiemans
+  type: community
+- id: 39236
+  link: https://poap.gallery/event/39236
+  img_url: https://assets.poap.xyz/you-met-the-rocket-pool-team-at-devconnect-2022-2022-logo-1649986911020.png
+  title: You met the Rocket Pool team at Devconnect 2022!Y
+  description: Holders of this POAP attended Devconnect 2022 in person and met the Rocket Pool team at the EthStaker Staking Gathering.
+  desc_url: https://rocketpool.net/
+  date: 19-Apr-2022
+  supply: 71
+  creator: Unvetica.eth
+  type: community
+- id: 39798
+  link: https://poap.gallery/event/39798
+  img_url: https://assets.poap.xyz/rocket-pool-first-1000-nodes-2022-logo-1650324596813.png
+  title: Rocket Pool First 1000 Nodes
+  description: Launching on November 8th 2021, Rocket Pool has officially crossed the 1000 node threshold.
+  desc_url: https://www.rocketpool.net/
+  date: 18-Apr-2022
+  supply: 0
+  creator: unknown
+  type: community
+- id: 38784
+  link: https://poap.gallery/event/38784
+  img_url: https://assets.poap.xyz/8thwondereth-is-back-in-the-rpl-game-2022-logo-1649837265183.png
+  title: 8thwonder.eth is back in the RPL game
+  description: "On this day 8thwonder.eth decided he couldn't miss #trading and bought all the RPL he sold a few months prior back.<br><br>A whopping $500k buy order triggered a lot of bots but most of all the degens in #trading that where active at the time.<br><br>Eligible people where hand picked based on activity during the buy order, so that only true #trading people can mint this POAP."
+  desc_url: https://rocketpool.net/
+  date: 12-Apr-2022
+  supply: 30
+  creator: Sleety.eth
+  type: community
+- id: 32821
+  link: https://poap.gallery/event/32821
+  img_url: https://assets.poap.xyz/jaspers-curve-pool-2022-logo-1647021439943.png
+  title: Jasper's Curve Pool
+  description: To memorialize Jasper's (jasperthefriendlyghost.eth) efforts in setting up the Curve rETH/wstETH pool. Midnight saw this pool go live and with it, a huge influx of deposits, which triggered a spree of over $20 million TVL in the Curve pool and the creation of 236 minipools. This is a POAP for everyone who commented on the Rocket Pool discord on March 10th, 2022. This day will be remembered as a key catalyst in the growth of the Rocket Pool protocol. Thanks Jasper!
+  desc_url: 
+  date: 10-Mar-2022
+  supply: 80
+  creator: Sleety.eth
+  type: community
+- id: 29146
+  link: https://poap.gallery/event/29146
+  img_url: https://assets.poap.xyz/rocket-pool-meetup-ethdenver-2022-logo-1645202721084.png
+  title: Rocket Pool Meetup ETH
+  description: Unofficial Rocket Pool meetup at 4th floor Art Hotel @ ETHDenver.
+  desc_url: 
+  date: 19-Feb-2022
+  supply: 10
+  creator: unknown
+  type: community
+- id: 27890
+  link: https://poap.gallery/event/27890
+  img_url: https://assets.poap.xyz/trading-tweets-about-reth-2022-logo-1644766699840.png
+  title: "#Trading tweets about rEth"
+  description: "rEth is the liquidity token provided by Rocket Pool for those who exchange Ether for rEth and stake passively. In an attempt to increase awareness of the rEth token, members from the Rocket Pool #trading community shared tweets about rEth in February 2022. The image for this POAP was developed by Magdelena (@komosotweets) with the support of poapathon.com"
+  desc_url: https://stake.rocketpool.net/
+  date: 01-Feb-2022
+  supply: 25 
+  creator: POAPathon
+  type: community
+- id: 25200
+  link: https://poap.gallery/event/25200
+  img_url: https://assets.poap.xyz/bancor-snapshot-proposal-0019-onboard-reth-with-250k-trading-liquidity-2022-logo-1643464333326.png
+  title: "Bancor Snapshot Proposal #0019 - Onboard rETH with 250K trading liquidity"
+  description: "This POAP was distributed to voters on the proposal:<br><br>Onboard rETH with 250K trading liquidity<br><br>#01 POAP Collection"
+  desc_url: https://bancor.network
+  date: 30-Jan-2022
+  supply: 29
+  creator: unknown
+  type: bancor
+- id: 22901
+  link: https://poap.gallery/event/22901
+  img_url: https://assets.poap.xyz/trading-tetranode-uponly-2022-logo-1642196583634.png
+  title: "#trading tetranode uponly"
+  description: "#trading listens to tetranode on uponly - 13.01.2022"
+  desc_url: https://www.twitch.tv/videos/1262580689
+  date: 13-Jan-2022
+  supply: 35
+  creator: unknown
+  type: community
+# - id: 24288
+#   link: https://poap.gallery/event/24288
+#   img_url: https://assets.poap.xyz/ethereum-cryptocurrency-crash-fire-2022-logo-1642969187498.png
+#   title: Ethereum Cryptocurrency Crash Fire
+#   description: The events of January 2022 were bleak and many were losing hope. This AI generated artwork captures the mood of cryptocurrency downtrend and is gifted to the "survivors" who hodl steady in face of large red candles.
+#   desc_url: 
+#   date: 23-Jan-2022
+#   supply: 58
+#   creator: woh
+#   type: community
+- id: 21693
+  link: https://poap.gallery/event/21693
+  img_url: https://assets.poap.xyz/cryptexs-space-invaders-episode-13-2022-logo-1641488044512.png
+  title: Cryptex's Space Invaders Episode 13
+  description: This POAP was awarded for being a part of the Twitter Spaces for the 13th episode of Cryptex's Space Invaders series. This episode featured a conversation between host BFresh and Darren from RocketPool!
+  desc_url: https://cryptex.finance/
+  date: 06-Jan-2022
+  supply: 18
+  creator: unknown
+  type: cryptex
+- id: 21531
+  link: https://poap.gallery/r/event/21531
+  img_url: https://assets.poap.xyz/jcrtp-blasts-off-2022-logo-1641393316429.png
+  title: JCRTP Blasts Off!
+  description: "This POAP was issued on January 7th 2022 (Epoch timestamp: 1641560400) in commemoration of Joe Clapis becoming a full-time employee of Rocket Pool. Joe started his journey in 2021 as one of us, the degens in #trading. Because in part of his outstanding work on adapting the RP smart stack for use on ARM based processors including the humble Raspberry Pi, Joe became an employee of Rocket Pool on 4/20. https://discord.com/channels/405159462932971535/405163979141545995/834277560959500308 On 12/3/21 Joe announced to #trading that he tendered his resignation to his day-time IRL fiat mining job and would work full-time for Rocket Pool. https://discord.com/channels/405159462932971535/405163713063288832/916468166174072832 The advancement of quantum computing was dealt a severe loss of intellect with Joe’s departure for that field of study. This POAP was distributed to all those that congratulated Joe in celebration of his first full day on the job. We hope this means he will be able to use both hemispheres of his brain on all things Ethereum."
+  desc_url: 
+  date: 06-Jan-2022
+  supply: 90
+  creator: woh
+  type: community
+- id: 20433
+  link: https://poap.gallery/event/20433
+  img_url: https://assets.poap.xyz/rocket-pool-celebrates-christmass-2021-logo-1640710769367.png
+  title: Rocket Pool celebrates Christmas!
+  description: Even though we are supposed to spend Christmas with family, the Rocket Pool server stays active to whish each other happy holidays. Because after all this time, we feel like one big family!<br><br>This POAP includes some of the Christmas trees in the homes of RP members.<br><br>The mass in Christmass in the poap is a reference to the massive amount of people in chat, totally not a type
+  desc_url: https://rocketpool.net/
+  date: 25-Dec-2021
+  supply: 60
+  creator: Kevster.eth
+  type: community
+- id: 19383
+  link: https://poap.gallery/event/19383
+  img_url: https://assets.poap.xyz/trading-participates-in-the-poapathon-holiday-extravaganza-2021-logo-1640117840339.png
+  title: "#Trading participates in the POAPathon holiday extravaganza"
+  description: This POAP is for everyone who participated in the Quiz hosted by Kevster.eth and MountainBas during the livestream.<br><br>In the quiz all participants went through some Rocket Pool history together.
+  desc_url: 
+  date: 22-Dec-2021
+  supply: 78
+  creator: astoneta
+  type: community
+- id: 27134
+  link: https://app.poap.art/poapathon-holiday-special
+  img_url: /assets/img/poaps/art/poapathon-holiday-special.png
+  title: POAPathon Holiday Special Painting Party 2021
+  description: A canvas to celebrate the POAPathon Holiday extravaganza! We're making art together.
+  desc_url: 
+  date: 21-Dec-2021
+  supply: 27134
+  creator: POAP Art Canvas
+  type: poap
+- id: 19267
+  link: https://poap.gallery/event/19267
+  img_url: https://assets.poap.xyz/poap-recruits-rp-to-recruit-a-recruiter-2021-logo-1640065002415.png
+  title: POAP Recruits RP to Recruit a Recruiter
+  description: "On the 16th of December in the year of the Rocket Launch, dearest team members of POAP including Patricio and Isabel came deep into the #trading den of Rocket Pool to announce to the good discord-folk a series of openings that POAP wanted to fill with crypto natives. In this spirit, a bounty of 1k RPL was announced for anyone who could refer to POAP the person that would fill their head of culture. Eyes and fingers across the world perked up and DMs filled with resumes and POAP collections were soon sent spinning up connections to further the web3 dream. This POAP commemorates those who were there in chat to witness and participate."
+  desc_url: 
+  date: 16-Dec-2021
+  supply: 58
+  creator: Kevster.eth
+  type: community
+- id: 16822
+  link: https://poap.gallery/event/16822
+  img_url: https://assets.poap.xyz/marceau-casts-his-die-2021-logo-1638810817931.png
+  title: Marceau Casts his Die
+  description: "Marceau splashed onto the scene November 22, 2021 and quickly integrated to the Rocket Pool #trading channel. All watched in amazement as he started registering triple digit validators."
+  desc_url: 
+  date: 06-Dec-2021
+  supply: 65
+  creator: woh
+  type: community
+# - id: 
+#   link: 
+#   img_url: 
+#   title: 
+#   description: 
+#   desc_url: 
+#   date: 30-Nov-2021
+#   supply: 
+#   creator: Antoine
+#   type: community
+- id: 15990
+  link: https://poap.gallery/event/15990
+  img_url: https://assets.poap.xyz/waiting-for-the-bankless-feat-rocketpool-stream-2021-logo-1638307858540.png
+  title: Waiting for the Bankless feat RocketPool stream
+  description: The time was poorly indicated leading viewers to wait 2:30 before the start of the Bankless-RocketPool stream. This poap rewards their patience.
+  desc_url: 
+  date: 30-Nov-2021
+  supply: 30
+  creator: Antoine # and sleety.eth
+  type: community
+- id: 15843
+  link: https://poap.gallery/event/15843
+  img_url: https://assets.poap.xyz/yinandyang-stakes-3000eth-with-rocket-pool-2021-logo-1638227892572.png
+  title: Yinandyang stakes 3000ETH with Rocket Pool
+  description: "On this day Yinandyang decided to stake his 3000ETH in the Rocket Pool protocol.<br><br>Even though there where some issues with MetaMask, #trading solved these for the new friendly whale."
+  desc_url: https://rocketpool.net/
+  date: 29-Nov-2021
+  supply: 150
+  creator: Kevster.eth
+  type: community
+- id: 15550
+  link: https://poap.gallery/event/15550
+  img_url: https://assets.poap.xyz/no-longer-dog-days-in-rp-discord-5th-edition-2021-logo-1638039150644.png
+  title: (No Longer) Dog Days in RP Discord (5th Edition)
+  description: With the 5th edition of this POAP (Proof of Adorable Pets), 6 new perfect pooches and 1 fantastic feline join us to celebrate the successful, full launch of Rocket Pool as Stage 4 is here and the first period has come to an issue-free completion.
+  desc_url: 
+  date: 27-Nov-2021
+  supply: 54
+  creator: DaserDog.eth
+  type: community
+- id: 15411
+  link: https://poap.gallery/event/15411
+  img_url: https://assets.poap.xyz/rethgolf-i-voted-2021-logo-1637926549074.png
+  title: "#rEthGolf : I voted"
+  description: "This POAP rewards all those who took the time to vote on poap.vote to choose the best proposal that explains how to acquire rETH and that meets the following criteria :<br><br>1. Acquire rEth in the fewest number of steps possible for the least cost.<br><br>2. The solution must fit in a tweet.<br><br>3. Must be legal and widely available.<br><br>4. Must begin as USD with a credit/debit card<br><br>This competition was supervised by Superphiz and named #rEthGolf"
+  desc_url: 
+  date: 25-Nov-2021
+  supply: 25
+  creator: unknown
+  type: community
+- id: 33232
+  link: https://app.poap.art/poapathon-2021-painting-party
+  img_url: /assets/img/poaps/art/poapathon-2021-painting-party.png
+  title: POAPathon’s 2021 Painting Party
+  description: 
+  desc_url: 
+  date: 24-Nov-2021
+  supply: 33232
+  creator: POAP Art Canvas
+  type: poap
+- id: 14812
+  link: https://poap.gallery/event/14812
+  img_url: https://assets.poap.xyz/0xace-launches-a-rocketpool-minipool-not-2021-logo-1637591749011.png
+  title: 0xAce Launches a Rocketpool Minipool... NOT!
+  description: "On 11/21/2021 Rocketpool Stage 4 went live, allowing for unlimited minipool creation.<br>Rocketpool Discord trading noticed an address (now know as 0xAce) continually failing transactions to register a node and costing substantial costs in ETH. For approximately 70 minutes, the Discord rode an emotional rollercoaster of amusement, to pain and then panic as Rocketpool members tried to investigate who this user could be and protect him from losing all of the 18 ETH from his wallet.<br><br>At the time of writing the above account, 0xAce is still unknown.<br><br>Rocketpool Discord salutes you, 0xAce."
+  desc_url: https://rocketpool.net/
+  date: 21-Nov-2021
+  supply: 109
+  creator: RPLgrime
+  type: community
+- id: 14662
+  link: https://poap.gallery/event/14662
+  img_url: https://assets.poap.xyz/no-longer-dog-days-in-rp-discord-4th-edition-2021-logo-1637457689525.png
+  title: (No Longer) Dog Days in RP Discord (4th Edition)
+  description: "The 4th appearance of this POAP (Proof of Adorable Pups) comes at a time where the series name no longer fits; gone are the dog days! Rocket Pool has now successfully launched and is nearing its final, open stage. Joining us on this rocket are eight more fluffy friends (including one odd-looking 'dog', Sparky...)"
+  desc_url: 
+  date: 20-Nov-2021
+  supply: 67
+  creator: DaserDog.eth
+  type: community
+- id: 13989
+  link: https://poap.gallery/event/13989
+  img_url: https://assets.poap.xyz/rocket-pool-stage-3-time-travel-2021-logo-1637038900329.png
+  title: Rocket Pool Stage 3 Time Travel
+  description: You had your node registered and your RPL tokens staked. All that was left to do was rocketpool node deposit, but somehow your transaction occurred both before and after the global minipool limit was increased. How does this happen? Ask Doc Brown.
+  desc_url: 
+  date: 16-Nov-2021
+  supply: 8
+  creator: woh
+  type: community
+  filesize: 
+- id: 13961
+  link: https://poap.gallery/event/13961
+  img_url: https://assets.poap.xyz/logicbeacheth-presents-how-to-stake-on-rocket-pool-2021-logo-1637016371608.png
+  title: LogicBeach.eth presents How to Stake on Rocket Pool
+  description: Bonus POAP for the first 100 people to see the video on YouTube!
+  desc_url: https://stake.rocketpool.net
+  date: 15-Nov-2021
+  supply: 0
+  creator: logicbeach.eth
+  type: community
+- id: 13512
+  link: https://poap.gallery/event/13512
+  img_url: https://assets.poap.xyz/rocket-pool-launch-stage-1-node-operator-2021-logo-1636640645718.png
+  title: Rocket Pool Launch First 24 hours Node Operator
+  description: The Rocket Pool Launch Day 1 Node Operator POAP is awarded to each address that created a minipool for Stage 1 on the Rocket Pool Launch date, November 9th, 2021.
+  desc_url: 
+  date: 09-Nov-2021
+  supply: 7
+  creator: woh
+  type: community
+- id: 13334
+  link: https://poap.gallery/event/13334
+  img_url: https://assets.poap.xyz/rocket-pool-day-1-reth-holder-2021-logo-1636552885010.png
+  title: Rocket Pool Day 1 rETH Holder
+  description: Rocket Pool is live! This POAP commemorates all holders of rETH within the first 24 hours.
+  desc_url: https://stake.rocketpool.net/
+  date: 08-Nov-2021
+  supply: 47
+  creator: Xirynx
+  type: community
+- id: 13203
+  link: https://poap.gallery/event/13203
+  img_url: https://assets.poap.xyz/rocket-pool-launch-party-pixel-placer-2021-logo-1636467756741.png
+  title: Rocket Pool Launch Party - Pixel Placer
+  description: You hung out and dropped some pixels on the POAP.art canvas to celebrate the Rocket Pool launch!
+  desc_url: https://rocketpool.net/
+  date: 08-Nov-2021
+  supply: 353
+  creator: logicbeach.eth
+  type: community
+- id: 27616
+  link: https://poap.gallery/event/27616
+  img_url: https://assets.poap.xyz/ethstaker-presents-rocket-pool-mainnet-launch-2022-logo-1644608349954.png
+  title: "EthStaker Presents: Rocket Pool Mainnet Launch"
+  description: Over 4 years ago Rocket Pool was born as an idea for the first ever decentralized staking project for Ethereum. Today we're extremely excited to announce... again, decentralized staking will be a reality on mainnet from 9th November, 2021 00:00 UTC
+  desc_url: https://www.youtube.com/watch?v=CM1decziXkQ
+  date: 08-Nov-2021
+  supply: 262
+  creator: Unvetica.eth
+  type: community
+- id: 12980
+  link: https://poap.gallery/event/12980
+  img_url: https://assets.poap.xyz/supporter-of-the-rp-metrics-dashboard-by-vgr-2021-logo-1636303538846.png
+  title: Supporter of the RP-Metrics-Dashboard by VGR
+  description: "This POAP is a token of gratitude for support of the the RP Metrics Dashboard created by Rocket Pool's community member VGR: https://www.rp-metrics-dashboard.com/. Thanks to people like you for making this community great and encouraging the incredible work it does.<br><br>Donation address: rp-metrics-dashboard.eth (0x2E662d3Ad2F95f8D9168B2c738c8CB82eB204f43)"
+  desc_url: https://www.rp-metrics-dashboard.com/
+  date: 07-Nov-2021
+  supply: 26
+  creator: DaserDog.eth
+  type: community
+- id: 12858
+  link: https://poap.gallery/event/12858
+  img_url: https://assets.poap.xyz/ethstaker-presents-rocket-pool-pre-launch-poapart-painting-party-2021-logo-1636134062399.png
+  title: "EthStaker Presents: Rocket Pool Pre-Launch POAP.art Painting Party"
+  description: "To celebrate the Mainnet launch of Rocket Pool the EthStaker crew is hosting a livestream event leading up to the official launch. Prior to the official livestream there will be a Rocket Pool-themed POAP.art Painting Party. There are 13 eligible POAPs which allow you access to participate in the painting party.<br><br>If you don’t have any of the 13 eligible, that’s ok! You can claim the ‘Rocket Pool Mainnet Launch POAP.art Pixel Dropper’ POAP which will grant you access to the Painting Party.<br><br>full details:<br>https://ethstaker.cc/rocket-pool-pre-launch-poap-art-painting-party/?yp_rand=551685"
+  desc_url: https://www.youtube.com/watch?v=CM1decziXkQ
+  date: 07-Nov-2021
+  supply: 1502
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 127964
+  link: https://app.poap.art/rocket-pool-launch-party/
+  img_url: /assets/img/poaps/art/rocket-pool-launch-party.png
+  title: Rocket Pool Launch Party
+  description: POAP.art paint party in celebration of the Rocket Pool Main-Net launch!
+  desc_url: 
+  date: 8-Nov-2021
+  supply: 127964
+  creator: POAP Art Canvas
+  type: community
+- id: 12857
+  link: https://poap.gallery/event/12857
+  img_url: https://assets.poap.xyz/ethstaker-presents-official-rocket-pool-mainnet-launch-2021-logo-1636133883152.png
+  title: "EthStaker Presents: Official Rocket Pool Mainnet Launch"
+  description: "Over 4 years ago Rocket Pool was born as an idea for the first ever decentralized staking project for Ethereum. Today we're extremely excited to announce... again, decentralized staking will be a reality on mainnet from 9th November, 2021 00:00 UTC*, just 4 days away! Front end deposits for rETH will open first, then node registrations will be opened about 5m after.<br><br>We've pioneered a solution to the very esoteric exploit that was raised just a day before our initial planned launch date. This exploit not only affected us, but several other live staking platforms as well. The solution has been verified by Sigma Prime and we have upgraded our initial mainnet deployment of Rocket Pool smart contracts and also our smart node stack to bring it inline with these changes. The full report for that can be found here https://rocketpool.net/files/SigmaPri...<br><br>To say this launch is huge milestone for the team... again, and our beloved community would be an epic understatement. Rocket Pool isn't just a standard Ethereum project anymore, it really has become a collective of devs and community combined that have helped craft a once good idea, into a great one."
+  desc_url: https://www.youtube.com/watch?v=CM1decziXkQ
+  date: 07-Nov-2021
+  supply: 1493
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 13138
+  link: https://poap.gallery/event/13138
+  img_url: https://assets.poap.xyz/kron-appreciation-poap-bysleetyeth60521st-place-2021-logo-1636408605044.png
+  title: Kron Appreciation POAP By:sleety.eth#6052 1st Place!
+  description: "In recognition of Kron as the moderator of the Rocket Pool Discord server. Kron, our beloved mod, has been protecting the community from bots, spam, and malicious behavior for years. This POAP was presented to Kron on the day of the Rocket Pool mainnet launch (Nov, 9 2021) to thank him for his steadfast service to and love of the Rocket Pool community.<br><br>In celebration of Kron's contribution to community building, the RP community's artists got together for a friendly competition to see who could create the best commemorative POAP design. This POAP is a set of 4 independent designs that were selected by #trading. The wining design was used as a community shared POAP claimable by all those present at the launch. The remaining three top designs were each a single (1 of 1) POAP mint gifted to Kron. The artist of this design was sleety.eth#6052<br><br>Review the designs at https://github.com/rel0aded/kron-appreciation-poap-contest/blob/main/README.md<br><br>Poll Results: https://poap.vote/poll/144"
+  desc_url: https://poap.vote/poll/144
+  date: 08-Nov-2021
+  supply: 121
+  creator: Sleety.eth
+  type: community
+- id: 13008
+  link: https://poap.gallery/event/13008
+  img_url: https://assets.poap.xyz/rocket-pool-launch-v2-lb-2021-logo-1636323891439.png
+  title: Rocket Pool Launch V2 - LB
+  description: 2nd time is the charm, and we are so excited!!! RP is launching and it's time to celebrate!
+  desc_url: https://www.youtube.com/watch?v=CM1decziXkQ
+  date: 08-Nov-2021
+  supply: 996
+  creator: logicbeach.eth
+  type: community
+- id: 12831
+  link: https://poap.gallery/event/12831
+  img_url: https://assets.poap.xyz/rocket-pool-launch-25-raffles-of-worthmas-2021-logo-1636119364865.png
+  title: Rocket Pool Launch - 25 Raffles of Worthmas
+  description: Rocket Pool is hitting mainnet on November 9th after 4 years of development time! As such, the Rocket Pool community has organized a series of POAPs and raffles honoring communities that share a similar ethos to Rocket Pool. This is a thanks for all the people who participated in these raffles and spread the word that Rocket Pool was ready to launch while recognizing Patricio Worthalter for his contributions and donations to the raffles.
+  desc_url: 
+  date: 09-Nov-2021
+  supply: 173
+  creator: woh
+  type: community
+- id: 12945
+  link: https://poap.gallery/event/12945
+  img_url: https://assets.poap.xyz/supporter-of-rocket-watch-bot-by-invisiblesymbol-2021-logo-1636249849156.png
+  title: Supporter of Rocket Watch Bot by InvisibleSymbol
+  description: "This POAP is a token of gratitude for support of the the Rocket Watch bot on Rocket Pool's discord server created by community member InvisibleSymbol. Thanks to people like you for making this community great and encouraging the incredible work it does.<br><br>Donation address: 0xf0138d2e4037957d7b37de312a16a88a7f83a32a"
+  desc_url: https://etherscan.io/address/0xf0138d2e4037957d7b37de312a16a88a7f83a32a
+  date: 06-Nov-2021
+  supply: 25
+  creator: DaserDog.eth
+  type: community
+- id: 12926
+  link: https://poap.gallery/event/12926
+  img_url: https://assets.poap.xyz/rocket-pool-voters-poap-2021-logo-1636220744095.png
+  title: Rocket Pool Voters POAP
+  description: This POAP will be used to vote on polls created within the Rocket Pool server.
+  desc_url: https://rocketpool.net/
+  date: 06-Nov-2021
+  supply: 112
+  creator: Kevster.eth
+  type: community
+- id: 12867
+  link: https://poap.gallery/event/12867
+  img_url: https://assets.poap.xyz/the-rocket-pool-golden-record-2021-logo-1636138820722.png
+  title: The Rocket Pool Golden Record
+  description: "Inspired by the Voyager Golden Record, this unique POAP is made to thank the numerous contributors for their help in improving Rocket Pool and serve as a proof-of-contribution token. It’s imagery includes some of the most important aspects of Rocket Pool: decentralization, protocol architecture from the whitepaper, a blueprint of a Rasberry Pi with a banana for scale, the rETH:ETH pair, and of course the POAPs."
+  desc_url: https://rocketpool.net/
+  date: 05-Nov-2021
+  supply: 71
+  creator: jasko
+  type: community
+- id: 12614
+  link: https://poap.gallery/event/12614
+  img_url: https://assets.poap.xyz/tkstranodks-apes-into-rocket-pool-2021-logo-1635894364676.png
+  title: TΞtranodΞ apes into Rocket Pool
+  description: TΞtranodΞ showed us what he's made of by aping into RPL with a whopping 180,000 RPL buy worth 1,803.59 ETH!<br>Rocket Pool's discord welcomes our newest whale with what we do best, a POAP!<br>https://rocketpool.net/
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/905196081581805598
+  date: 03-Nov-2021
+  supply: 139
+  creator: Xirynx
+  type: community
+- id: 12103
+  link: https://poap.gallery/event/12103
+  img_url: https://assets.poap.xyz/rocket-pool-horror-picture-show-2021-logo-1635519354991.png
+  title: Rocket Pool Horror Picture Show
+  description: Congratulations! You've made it to Halloween and yet Rocket Pool has not launched yet. Where will the ratio go???
+  desc_url: 
+  date: 31-Oct-2021
+  supply: 108
+  creator: woh
+  type: community
+- id: 12215
+  link: https://poap.gallery/event/12215
+  img_url: https://assets.poap.xyz/rocketeer-nft-launch-2021-logo-1635593720542.png
+  title: Rocketeer NFT launch
+  description: "Moon boots touch the earth.<br>Visored faces tilt upward.<br>Their sole thought is wen.<br><br>Thank you everyone for joining the launch ❤️."
+  desc_url: https://rocketeer.fans/
+  date: 30-Oct-2021
+  supply: 33
+  creator: Unvetica.eth
+  type: community
+- id: 81341
+  link: https://app.poap.art/altair-protocol-upgrade/
+  img_url: /assets/img/poaps/art/altair-protocol-upgrade.png
+  title: Altair Protocol Upgrade
+  description: Zoom party by ETHStaker
+  desc_url: 
+  date: 27-Oct-2021
+  supply: 81341
+  creator: POAP Art Canvas
+  type: ethstaker
+- id: 9518
+  link: https://poap.gallery/event/9518
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-proof-of-worthalter-appreciation-2021-logo-1633409626332.png
+  title: Rocket Pool Proof of Worthalter Appreciation
+  description: While the wonderful world of POAP continues to flourish, Rocket Pool shares this token of gratitude to Patricio Worthalter. As the founder of POAP, he has helped to enrich our lives through the preservation of memories, using technology which continues to amaze. His contributions to POAP and Rocket Pool have sown the seeds to a bright web3 future ahead.
+  desc_url: 
+  date: 14-Oct-2021
+  supply: 159
+  creator: CVJoint
+  type: community
+- id: 9652
+  link: https://poap.gallery/event/9652
+  img_url: https://assets.poap.xyz/bot-supporters-2021-logo-1633505010959.png
+  title: Bot Supporters
+  description: "This POAP is a token of gratitude for your donation to support the development of the bot in Rocket Pool discord! It's because of people like you that #trading is such a great place to hang.<br><br>Designed by DaserDog.eth"
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832
+  date: 06-Oct-2021
+  supply: 10
+  creator: DaserDog.eth
+  type: community
+- id: 9633
+  link: https://poap.gallery/event/9633
+  img_url: https://storage.googleapis.com/poapmedia/stakewise-saves-rocket-pool-2021-logo-1633487971893.png
+  title: StakeWise Saves Rocket Pool
+  description: "The night of October 4th around 7PM UTC, StakeWise founder Dmitri Tsumak discovered a severe vulnerability in Rocket Pool that could have led to the theft of users’ funds if exploited. Dmitri initially decided to report the vulnerability anonymously and by 11PM UTC, Dmitri had written Rocket Pool a detailed report and made contact with their core team under the /latebird/ alias. Rocket Pool soon confirmed the validity of the exploit and by 7AM UTC charted the appropriate course of action to ensure the safety of users’ funds.<br><br>With this act the StakeWise team showed its commitment to fair competition and security of the whole Ethereum ecosystem.<br>This POAP is a fun way to show gratitude from the Rocket Pool to the StakeWise community."
+  desc_url: https://discord.com/channels/613394789882134529/731198985460514886
+  date: 05-Oct-2021
+  supply: 4278
+  creator: odapnut
+  type: community
+- id: 9998
+  link: https://poap.gallery/event/9998
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-poap-collector-2021-logo-1633735418087.png
+  title: Rocket Pool POAP Collector
+  description: A celebration of the Rocket Pool community POAP collectors. Maybe you have one, perhaps six or seven, or even eighty. The question is, do you even POAP? Well, now you can have them all. Magnifying glass not included. AYAYA!!
+  desc_url: https://rocketpool.net
+  date: 08-Oct-2021
+  supply: 1137
+  creator: ziv
+  type: community
+- id: 9870
+  link: https://poap.gallery/event/9870
+  img_url: https://storage.googleapis.com/poapmedia/cryptohoots-origins-2021-logo-1633654923973.png
+  title: CryptoHoots Origins
+  description: "Tis was the 23rd evening of July. #trading was stirring and ideas were brewing. A dash of creativity and a pinch of opportunity.<br><br>The 3 Wise Owls created CryptoHoots and offered everyone a way to escape their daily misery called work.<br><br><a href='https://discord.com/channels/405159462932971535/405163713063288832/868305298128007219'>https://discord.com/channels/405159462932971535/405163713063288832/868305298128007219</a>"
+  desc_url: https://cryptohoots.com
+  date: 08-Oct-2021
+  supply: 126
+  creator: hanniabu
+  type: community
+- id: 9733
+  link: https://poap.gallery/event/9733
+  img_url: https://storage.googleapis.com/poapmedia/soon-2021-logo-1633563105882.png
+  title: "soon™"
+  description: "Right when we thought launch was nigh, it was ripped from us by a whitehat guy. When will our time come? We shall see, per diem. How long will it be? Soon™."
+  desc_url: 
+  date: 06-Oct-2021
+  supply: 122
+  creator: hanniabu
+  type: community
+- id: 9564
+  link: https://poap.gallery/event/9564
+  img_url: https://storage.googleapis.com/poapmedia/trading-we-have-a-problem-2021-logo-1633444955588.png
+  title: "Rocket Pool: #trading, we have a problem"
+  description: On 4th of October a white hat (who chose to remain anonymous) revealed a potential critical exploit in the node side of protocol that could allow an operator to submit previously made withdrawal credentials for a minipool. In the matter of hours the Rocket Pool team examined the sophisticated node exploit and designed a fix for it.
+  desc_url: https://discord.com/channels/405159462932971535/405163979141545995
+  date: 04-Oct-2021
+  supply: 1980
+  creator: odapnut
+  type: community
+- id: 9517
+  link: https://poap.gallery/event/9517
+  img_url: https://storage.googleapis.com/poapmedia/blood-on-the-launch-pad-2021-logo-1633408664886.png
+  title: Blood on the Launch Pad
+  description: "With less than 24hrs to launch, the jubilance is high and mainnet is nigh. A ping signals and #announcements has a notification. Finally the contracts are ready! <em>*eagerly reads message*</em><br><br>''We’ve just been alerted to a potential critical exploit....''<br><br>Mixed emotions arise, happy to find before mainnet but sad about the delay. The first sells start pouring in. ''This is fine'' you tell yourself and others. Then the sells start accelerating. You’re getting weak in the knees questioning your life choices, then the ground starts to firm up. You see thomasg, looking as strong and chad as ever, holding back the sells and protecting the faithful. <br><br>The panic subsides and the market calms. We await to see what comes henceforth, but we’re confident in the future."
+  desc_url: https://discord.com/channels/405159462932971535/405163979141545995/894769328858226728
+  date: 05-Oct-2021
+  supply: 100
+  creator: hanniabu
+  type: community
+- id: 9329
+  link: https://poap.gallery/event/9329
+  img_url: https://storage.googleapis.com/poapmedia/zapper-and-rocket-pool-crossover-2021-logo-1633272352461.png
+  title: Zapper and Rocket Pool Crossover
+  description: Rocket Pool is launching on October 6 and is celebrating with a series of community crossover events. Here Rocket Pool joins up with Zapper, much beloved by the RP community, for a poap + raffle. Hopefully RP and Zapper will be able to team up for more events and who knows what else, in the future?
+  desc_url: 
+  date: 02-Oct-2021
+  supply: 10761
+  creator: Oops
+  type: zapper
+- id: 9170
+  link: https://poap.gallery/event/9170
+  img_url: https://storage.googleapis.com/poapmedia/dybstopian-dreams-dybsy-gets-liquidated-2021-logo-1633076350603.png
+  title: Dybstopian Dreams - Dybsy Gets Liquidated
+  description: "dybsy | the real, esq. — Today at 3:01 AM<br>ok i'm doing it. going to sleep with this 20x long[sic] open, already down 20%. go big or go home. liq 44684.48<br><br>dybsy | the real, esq. — Today at 3:30 AM<br>I shouldn’t have woke up<br><br>Not half an hour after announcing he was going to bed after watching a BTC short for most of the day, Dybsy was promptly liquidated. Let this be a lesson for all...nightmares are scary but liquidations are scarier!"
+  desc_url: 
+  date: 01-Oct-2021
+  supply: 85
+  creator: jasper_the_friendly_ghost
+  type: community
+- id: 9214
+  link: https://poap.gallery/event/9214
+  img_url: https://storage.googleapis.com/poapmedia/eu30-per-rpl-celebration-2021-logo-1633111987203.png
+  title: €30 per RPL celebration
+  description: This is a poap to celebrate the €30 per RPL milestone. Just one day after the Team Europe movement got traction.
+  desc_url: https://www.rocketpool.net/
+  date: 30-Sep-2021
+  supply: 78
+  creator: Kevster.eth
+  type: community
+- id: 8979
+  link: https://poap.gallery/event/8979
+  img_url: https://storage.googleapis.com/poapmedia/poap-x-rocket-pool-crossover-celebration-2021-logo-1632935445130.png
+  title: "POAP x Rocket Pool: Crossover Celebration"
+  description: Rocket Pool is hitting mainnet on October 6th after 4 years of development time! As such, the Rocket Pool community has organized a series of POAPs and raffles honoring communities that share a similar ethos to Rocket Pool. Many of us in the Rocket Pool community have seen the potential of POAP and have embraced it fully into commemorating both large and small events that shape Rocket Pool's past, present, and future. A special thank you to Patricio Worthalter for supporting the Rocket Pool community and providing such a great tool as Proof of Attendance Protocol.
+  desc_url: 
+  date: 30-Sep-2021
+  supply: 21382
+  creator: woh
+  type: poap
+- id: 8903
+  link: https://poap.gallery/event/8903
+  img_url: https://storage.googleapis.com/poapmedia/sushi-x-rocket-pool-crossover-celebration-2021-logo-1632874451780.png
+  title: "Sushi x Rocket Pool: Crossover Celebration"
+  description: Rocket Pool is hitting mainnet on October 6th after 4 years of development time! As such, the Rocket Pool community has organized a series of POAPs and raffles honoring communities that share a similar ethos to Rocket Pool. The Sushi community has been incredibly important for Rocket Pool as a DEX, but also shares our ethos of pushing permissionless decentralization to its limits. May this POAP be a sign of a fruitful future for both communities.
+  desc_url: 
+  date: 29-Sep-2021
+  supply: 1541
+  creator: RPLgrime
+  type: sushi
+- id: 8924
+  link: https://poap.gallery/event/8924
+  img_url: https://storage.googleapis.com/poapmedia/the-daily-gwei-x-rocket-pool-unfarmed-2021-logo-1632889364250.png
+  title: "The Daily Gwei X Rocket Pool: Unfarmed"
+  description: Rocket Pool is hitting mainnet on October 6th after 4 years of development time! As such, the Rocket Pool community has organized a series of POAPs and raffles honoring communities that share a similar ethos to Rocket Pool. The folks over at The Daily Gwei are especially important to us given how kind Anthony Sassano has been by advocating for Rocket Pool and decentralization writ large. We are, after all, decentralization maxis at heart.<br><br>V2.0 - beware of POAP farmers!
+  desc_url: 
+  date: 30-Sep-2021
+  supply: 2572
+  creator: jasper_the_friendly_ghost
+  type: daily gwei
+- id: 8906
+  link: https://poap.gallery/event/8906
+  img_url: https://storage.googleapis.com/poapmedia/ethstaker-presents-rocket-pool-team-ama-2021-logo-1632876041881.png
+  title: "EthStaker Presents: Rocket Pool Team AMA"
+  description: "With the impending mainnet launch for Rocket Pool, the EthStaker crew is hosting a livestream with members of the Rocket Pool team. The EthStaker crew will be posing question to the Rocket Pool team to showcase why their platform is a great option for solicit as a Staking Pool provider.<br><br>During the livestream POAP 5 of 8 will be distributed, as we lead up to the October 6th Mainnet launch. Full details can be found here:"
+  desc_url: https://youtu.be/aONP0jnpJI0
+  date: 29-Sep-2021
+  supply: 2100
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 8989
+  link: https://poap.gallery/event/8989
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-x-rari-capital-2021-logo-1632939657827.png
+  title: Rocket Pool X Rari Capital
+  description: "Rocket Pool is hitting mainnet on October 6th after 4 years of development time! As such, the Rocket Pool community has organized a series of POAPs and raffles honoring communities that share a similar ethos to Rocket Pool. Rocket Pool hopes to use Rari post launch to create Fuse pools and members of the Rari community have shared in the #trading degeneracy."
+  desc_url: 
+  date: 30-Sep-2021
+  supply: 7790
+  creator: DaserDog.eth
+  type: rari capital
+- id: 8902
+  link: https://poap.gallery/event/8902
+  img_url: https://storage.googleapis.com/poapmedia/reddit-rocket-pool-crossover-celebration-2021-logo-1632873934932.png
+  title: Reddit / Rocket Pool Crossover Celebration
+  description: Rocket Pool is hitting mainnet on October 6th after 4 years of development time! As such, the Rocket Pool community has organized a series of POAPs and raffles honoring communities that share a similar ethos to Rocket Pool. Many of us in the Rocket Pool community owe it to Reddit for the first step. This is thanks for being wonderful hubs of information about the decentralized future. A special thank you to the moderators of these subs for being forgiving to us RPL fanatics and an even more special thank you to everyone that has helped spread knowledge about decentralized staking.<br><br>Thank you r/ethfinance, r/rocketpool, r/ethereum, and r/ethstaker.
+  desc_url: 
+  date: 29-Sep-2021
+  supply: 16962
+  creator: DaserDog.eth
+  type: reddit
+- id: 8790
+  link: https://poap.gallery/event/8790
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-bankless-crossover-event-2021-logo-1632801893174.png
+  title: Rocket Pool / Bankless Crossover event
+  description: Rocket Pool Invites Bankless to celebrate the Launch of RP on MainNet!
+  desc_url: 
+  date: 27-Sep-2021
+  supply: 2704
+  creator: logicbeach.eth
+  type: bankless
+- id: 8898
+  link: https://poap.gallery/event/8898
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-balancer-crossover-2021-logo-1632870918314.png
+  title: Rocket Pool + Balancer Crossover
+  description: In celebration of Rocket Pool's mainnet launch on the 6 October 2021, the Rocket Pool discord has partnered up with Balancer to do a giveaway for both communities. This POAP is your ticket to enter!
+  desc_url: https://discord.gg/XapxVbGQQF
+  date: 29-Sep-2021
+  supply: 6792
+  creator: Xirynx
+  type: balancer
+  filesize: 18.1 MB
+- id: 8805
+  link: https://poap.gallery/event/8805
+  img_url: https://storage.googleapis.com/poapmedia/rockpoolxmadison-2021-logo-1632817298535.png
+  title: RockpoolxMadison
+  description: As Rocketpool preps for launch the Madison crew cheers! This POAP was create for the passionate RP community members and those seeking a decentralized future. Come talk crypto!
+  desc_url: https://discord.gg/t7SemQur
+  date: 28-Sep-2022
+  supply: 201
+  creator: AMIIC
+  type: madison
+- id: 8563
+  link: https://poap.gallery/event/8563
+  img_url: https://storage.googleapis.com/poapmedia/rocketpool-discord-breaks-poap-yet-again-2021-logo-1632518848902.png
+  title: Rocketpool Discord Breaks POAP - YET AGAIN
+  description: "With 12 days till Rocket Pool launch the theme for the raffle was Stress testing poap.fun <br>The raffle with ALL the POAPs took down the front end of POAP.fun, however the raffle still completed!"
+  desc_url: https://poap.fun/raffle/634
+  date: 24-Sep-2021
+  supply: 60
+  creator: woh
+  type: community
+- id: 8396
+  link: https://poap.gallery/event/8396
+  img_url: https://storage.googleapis.com/poapmedia/2021-a-decentralised-odyssey-2021-logo-1632406934953.png
+  title: "2021: A DECENTRALISED ODYSSEY"
+  description: "This POAP comes with a youtube video which celebrates Rocket Pool Mainnet and the hope of a decentralization solution for Ethereum staking."
+  desc_url: https://youtu.be/3BlpyClqM7w
+  date: 23-Sep-2021
+  supply: 50
+  creator: Antoine
+  type: community
+# - id: 8363 # fake misprint? why printed after the original?
+#   link: https://poap.gallery/event/8363
+#   img_url: https://storage.googleapis.com/poapmedia/rocketpool-discord-fixes-poapfun-2021-logo-1632259307666.png
+#   title: Rocketpool Discod Fixes POAP.fun
+#   description: "Thanks to the geniuses of Rocketpool #Trading, Invis' code update merged with POAP.fun to improve the raffle performance and fairness"
+#   desc_url: 
+#   date: 21-Sep-2021
+#   supply: 54
+#   creator: woh
+#   type: community
+- id: 8206
+  link: https://poap.gallery/event/8206
+  img_url: https://storage.googleapis.com/poapmedia/rocketpool-discord-fixes-poapfun-2021-logo-1632259307666.png
+  title: Rocketpool Discord Fixes POAP.fun
+  description: "Thanks to the geniuses of Rocketpool #Trading, Invis' code update merged with POAP.fun to improve the raffle performance and fairness"
+  desc_url: 
+  date: 21-Sep-2021
+  supply: 103
+  creator: woh
+  type: community
+- id: 8148
+  link: https://poap.gallery/event/8148
+  img_url: https://storage.googleapis.com/poapmedia/gridrp-2021-logo-1632198661980.png
+  title: Grid+RP
+  description: The team at Grid+ have graced RocketPool trading with their presence and all were enriched.
+  desc_url: https://gridplus.io/
+  date: 20-Sep-2021
+  supply: 122
+  creator: logicbeach.eth
+  type: community
+- id: 8126
+  link: https://poap.gallery/event/8126
+  img_url: https://storage.googleapis.com/poapmedia/rocketpool-jtnichol-arrives-in-trading-2021-logo-1632182991663.png
+  title: "Rocketpool - jtnichol arrives in #trading"
+  description: "Superphiz invited jtnichol to #trading on Rocketpool Discord.<br><br>Things will never be the same for him again..."
+  desc_url: https://discord.gg/6WqTSPYn
+  date: 20-Sep-2021
+  supply: 98
+  creator: RPLgrime
+  type: community
+- id: 7978
+  link: https://poap.gallery/event/7978
+  img_url: https://storage.googleapis.com/poapmedia/thomasg-series-45-symbiosis-2021-logo-1632015087594.png
+  title: "Thomasg Series (4/5): Symbiosis"
+  description: "We were in awe while being lifted into the atmosphere, but there was still further to go. The 0.01 ratio was in sight and the stage was set. Our newfound whale friend turned and looked at us. 'Hop on', he said. No other words were needed, we knew what time it was. He pulled a precision buy and into the stratosphere we went. This. Is. Ecstasy."
+  desc_url: https://etherscan.io/tx/0x0eaa40afd4b9e63fe1928004f5ef4475eacc5a80b3bffa43e3edbb53c0fd1ea2
+  date: 18-Sep-2021
+  supply: 60
+  creator: hanniabu
+  type: community
+- id: 7976
+  link: https://poap.gallery/event/7976
+  img_url: https://storage.googleapis.com/poapmedia/trading-hangs-out-with-squishchaos-2021-logo-1632007244544.png
+  title: "RP discord hangs out with @SquishChaos"
+  description: "@SquishChaos joined us in the #trading channel to talk about Rocket Pool, its Mainnet release, and where Rocket Pool is headed moving forward."
+  desc_url: https://discord.com/invite/tCRG54c
+  date: 19-Sep-2021
+  supply: 2376
+  creator: Xirynx
+  type: community
+  filesize: 50.8 MB
+- id: 7928
+  link: https://poap.gallery/event/7928
+  img_url: https://storage.googleapis.com/poapmedia/ethstaker-presents-securing-your-rocket-pool-node-w-mentor-2021-logo-1631934631612.png
+  title: "EthStaker Presents: Securing Your Rocket Pool Node w/ Mentor"
+  description: "With the impending mainnet launch for Rocket Pool, the EthStaker crew is hosting a livestream on the basics of the security model of being a Rocketpool node operator. We'll start with a short description of the attack surfaces, and progress to a walkthrough of setting up a VPS server as a staking machine with the most essential security precautions. The tutorial will use a macbook client with a Ubuntu server hosted at a VPS provider. 'Mentor' will be presenting during this livestream as he wrote most of the security documentation for Rocket Pool. If you'd like to download the slides you can do so here, in addition to setting a calendar reminder:<br><br>Event Slides + Calendar Reminder<br>https://ethstaker.cc/events/securing-your-rocket-pool-node-livestream/"
+  desc_url: https://youtu.be/ZqIS0LUdhZ4
+  date: 18-Sep-2021
+  supply: 2258
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 7725
+  link: https://poap.gallery/event/7725
+  img_url: https://storage.googleapis.com/poapmedia/g7-summit-at-rp-trading-2021-logo-1631736750784.png
+  title: "G7 Summit at RP #trading"
+  description: "A spontaneous G7 Summit took place at channel #trading of Rocketpool discord including some of the most prominent figures such as: Azalea, thomasg, zwit, LookingForOwls, jcrtp, Pieter, Bawcey, gator, stcention and more. The discussion involved themes such as climate change, deforestation, nuclear energy, aneutronic fusion, chemical warfare, CRISPR terrorism etc."
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832
+  date: 15-Sep-2021
+  supply: 30
+  creator: jasko
+  type: community
+- id: 7822
+  link: https://poap.gallery/event/7822
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-celebrates-13k-holders-troll-edition-2021-logo-1631814416605.png
+  title: Rocket Pool Celebrates 13k Holders - Troll Edition
+  description: Troll POAP for Everyone 1 RPL = 1 BTC
+  desc_url: https://discord.gg/SU57Z4eQ
+  date: 16-Sep-2021
+  supply: 679
+  creator: Sezgin
+  type: community
+- id: 7812
+  link: https://poap.gallery/event/7812
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-celebrates-13k-holders-2021-logo-1631810918000.png
+  title: Rocket Pool Celebrates 13k Holders
+  description: A POAP given out to all holders of Rocket Pool's token, as we hit 13k total holders
+  desc_url: https://rocketpool.net/
+  date: 16-Sep-2021
+  supply: 1233
+  creator: Xirynx
+  type: community
+  filesize: 19.4 MB
+- id: 7805
+  link: https://poap.gallery/event/7805
+  img_url: https://storage.googleapis.com/poapmedia/rocketpool-discord-breaks-poap-again-2021-logo-1631805654493.png
+  title: Rocketpool Discord Breaks POAP - AGAIN
+  description: Rocketpool and POAP go hand in hand, but sometimes things just go... wrong!
+  desc_url: 
+  date: 16-Sep-2021
+  supply: 148
+  creator: woh
+  type: community
+- id: 7712
+  link: https://poap.gallery/event/7712
+  img_url: https://storage.googleapis.com/poapmedia/rocketpool-discord-poap-farms-2021-logo-1631730738380.png
+  title: Rocketpool Discord POAP Farms
+  description: This POAP recognizes the hard work for all the Rocketpool trading chat POAP farmers.
+  desc_url: 
+  date: 15-Sep-2021
+  supply: 790
+  creator: woh
+  type: community
+- id: 7605
+  link: https://poap.gallery/event/7605
+  img_url: https://storage.googleapis.com/poapmedia/mclovin-certified-degen-2021-logo-1631630155704.png
+  title: McLovin Certified Degen
+  description: "This POAP certifies™ that you are a #trading degen, or that you at least know simple info about Rocketpool. To get it, find McLovin#1981 on the Rocketpool discord and ask for your trial."
+  desc_url: https://discord.gg/YD5Sf6ZZth
+  date: 14-Sep-2021
+  supply: 107
+  creator: McLovin
+  type: community
+- id: 7603
+  link: https://poap.gallery/event/7603
+  img_url: https://storage.googleapis.com/poapmedia/superphizeth-vs-logicbeacheth-poap-smackdown-2021-logo-1631628926284.png
+  title: superphiz.eth VS logicbeach.eth POAP Smackdown
+  description: "Rocket Pool's #trading channel gathered to cheer for esteemed members Superphiz and Logicbeach. The two came head-to-head in a POAP raffle smackdown, at the end of the second POAP raffle in the 25 Days of RPL giveaway series. It was a close match, but Superphiz managed to come out on top with his glorious #341742 POAP."
+  desc_url: https://discord.gg/yQhUK7Ghwt
+  date: 14-Sep-2021
+  supply: 2194
+  creator: Xirynx
+  type: community
+  filesize: 37.5 MB
+- id: 7588
+  link: https://poap.gallery/event/7588
+  img_url: https://storage.googleapis.com/poapmedia/nuking-the-eu-bot-2021-logo-1631610724101.png
+  title: Nuking the EU bot
+  description: After winning the fight against the sell wall, Rocketpool discord has overwhelmed the bot with /wall commands leading to its demise, then 6 hours later came the Europeans to s(t)eal the victory.
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832
+  date: 13-Sep-2021
+  supply: 75
+  creator: jasko
+  type: community
+- id: 7576
+  link: https://poap.gallery/event/7576
+  img_url: https://storage.googleapis.com/poapmedia/0x25-the-fall-of-the-wall-2021-logo-1631592400470.png
+  title: 0x25 - The Fall of the Wall
+  description: 0x25 was a whale being tracked by the RPL trading community who set up a 350k RPL sell wall between the prices of 0.0061 and 0.0095 ETH in 0.0001 increments. The wall fell entirely on 2021-09-13. Holders of this POAP were present in the Rocket Pool discord to witness the event.
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/887176024532586556
+  date: 13-Sep-2021
+  supply: 435
+  creator: danolovescomedy
+  type: community
+- id: 7427
+  link: https://poap.gallery/event/7427
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-pre-launch-systems-check-the-great-sell-wall-2021-logo-1631409615902.png
+  title: "Rocket Pool Pre-Launch Systems Check: The Great Sell Wall"
+  description: The current whale is holding the RPL/ETH ratio down due to 10k RPL sell walls at every 0.001 increment starting from 0.0061 all the way to 0.0095. When this wall is eventually breached down, this POAP will be claimable.
+  desc_url: https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-4-2635c44e4f7e
+  date: 14-Sep-2021
+  supply: 5912
+  creator: Unvetica.eth
+  type: ethstaker
+# - id: 7426
+#   link: https://poap.gallery/event/7426
+#   img_url: https://assets.poap.xyz/rocket-pool-bot-catcher-poap-2021-logo-1631405468958.png
+#   title: Rocket Pool Bot Catcher POAP
+#   description: "This POAP was poisoned by #trading in the Rocket Pool Discord. Claim at your own peril..."
+#   desc_url: https://www.rocketpool.net/
+#   date: 12-Sep-2021
+#   supply: 1288
+#   creator: McLovin
+#   type: community
+- id: 7536
+  link: https://poap.gallery/event/7536
+  img_url: https://storage.googleapis.com/poapmedia/nuking-the-bot-2021-logo-1631566404862.png
+  title: Nuking the bot
+  description: After winning the fight against the sell wall, Rocketpool discord has overwhelmed the bot with /wall commands leading to its demise.
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832
+  date: 13-Sep-2021
+  supply: 46
+  creator: vacalaranja
+  type: community
+- id: 7512
+  link: https://poap.gallery/event/7512
+  img_url: https://storage.googleapis.com/poapmedia/rocketpool-learns-chinese-2021-logo-1631546676602.png
+  title: Rocketpool Learns Chinese
+  description: This POAP commemorates the great google translatening of the Rocketpool Trading channel
+  desc_url: 
+  date: 13-Sep-2021
+  supply: 758
+  creator: woh
+  type: community
+- id: 7508
+  link: https://poap.gallery/event/7508
+  img_url: https://storage.googleapis.com/poapmedia/to-ch2018-2021-logo-1631544350897.png
+  title: To ch2018
+  description: "I love you more than 1000 POAPs. From the day I met you I knew you were not a bot, even though others doubted. I hope you accept this POAP as a token to our long and prosperous marriage. AYAYAYA 我爱你超过 1000 个 POAP。从我遇见你的那天起，我就知道你不是机器人，尽管其他人对此表示怀疑。我希望你接受这个 POAP 作为我们长久而繁荣的婚姻的象征。AYAYAYA"
+  desc_url: 
+  date: 13-Sep-2021
+  supply: 96
+  creator: McLovin
+  type: community
+  filesize: 17.5 MB
+- id: 7459
+  link: https://poap.gallery/event/7459
+  img_url: https://storage.googleapis.com/poapmedia/thomasg-the-rpl-tank-engine-2021-logo-1631473511363.png
+  title: Thomasg the RPL Tank Engine
+  description: "I think I can, I think I can, I think I can... Thomasg rolls into #trading to wreck the wall and caboose't the price to Thesis territory. #trading gets a new whale fren and Thomasg gets his own emoji. 25 days to Launch!"
+  desc_url: https://discord.gg/EdnXW5Tb
+  date: 12-Sep-2021
+  supply: 88
+  creator: RPLgrime
+  type: community
+- id: 7470
+  link: https://poap.gallery/event/7470
+  img_url: https://storage.googleapis.com/poapmedia/logicbeach-rp-explainer-4-video-poap-2021-logo-1631500525110.png 
+  title: "LogicBeach RP explainer #4 Video"
+  description: You watched the final LogicBeach RP explainer video!
+  desc_url: https://youtu.be/Kax5sqF2SKo
+  date: 12-Sep-2021
+  supply: 470
+  creator: logicbeach.eth
+  type: community
+- id: 7498
+  link: https://poap.gallery/event/7498
+  img_url: https://storage.googleapis.com/poapmedia/rp-discord-engages-in-forced-marriage-for-a-poap-2021-logo-1631540028401.png
+  title: RP Discord engages in forced marriage for a POAP
+  description: "McLovin married ch2018, arranged by #trading in the Rocket Pool Discord. This is to certify you were there..."
+  desc_url: https://discord.gg/yQhUK7Ghwt
+  date: 13-Sep-2021
+  supply: 1447
+  creator: Xirynx
+  type: community
+- id: 7483
+  link: https://poap.gallery/event/7483
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-wen-cex-2021-logo-1631519562653.png
+  title: Rocket Pool, wen cex?
+  description: "Those thirsty thots traversing #trading troubled the devs about CEX listings again, shifting the goalposts from 'wen mainnet?' to 'wen cex?' as one ProxyDiscordIndividual pointed out. Cool guy, RP developer Kane wisely noted that we can now ask them and our wives (as if we're married) the same question: wen cex?"
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/886855210230743081
+  date: 13-Sep-2021
+  supply: 92
+  creator: DaserDog.eth # and Silence Dogood, DrDoofus
+  type: community
+- id: 7469
+  link: https://poap.gallery/event/7469
+  img_url: https://storage.googleapis.com/poapmedia/destinationmoon-2021-logo-1631499544147.png
+  title: DestinationMoon
+  description: This POAP was created for those who find love on their destination to the moon!
+  desc_url: 
+  date: 12-Sep-2021
+  supply: 68
+  creator: woh 
+  type: community
+- id: 7431
+  link: https://poap.gallery/event/7431
+  img_url: https://storage.googleapis.com/poapmedia/thomasg-series-35-close-encounter-2021-logo-1631418343062.png
+  title: "Thomasg Series (3/5): Close Encounter"
+  description: "Alas, we learn this whale is a friend! A modest young lad with honest beginnings that likes to stay low key irl. Before amassing his blubber, thomasg worked as a developer for a startup. He began his journey in crypto in 2013 with BTC, grew most of his funds with option trading stocks in '19-'20, then fell in love with Ethereum as DeFi took off. He's in it for the long haul, and of course does his taxes. Moving forward he's thinking about starting a DAO to fund research relating to eVTOLs/flying cars (battery tech mostly)."
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/886238276913102889
+  date: 11-Sep-2021
+  supply: 89
+  creator: hanniabu
+  type: community
+- id: 7430
+  link: https://poap.gallery/event/7430
+  img_url: https://storage.googleapis.com/poapmedia/thomasg-series-25-rising-tides-2021-logo-1631416607647.png
+  title: "Thomasg Series (2/5): Rising Tides"
+  description: "Something is happening. This isn't something new - it started a few days ago. There was a slightly different feeling in the air, like something might be happening, but we weren't entirely sure. Now we're positive. Now we know. The whale's lifting the tide and taking us all with him! Lots of questions remain though: Is this the real deal? How far will we go? Is this whale friend or foe?"
+  desc_url: 
+  date: 11-Sep-2021
+  supply: 89
+  creator: hanniabu
+  type: community
+- id: 7429
+  link: https://poap.gallery/event/7429
+  img_url: https://storage.googleapis.com/poapmedia/thomasg-series-15-whale-sighting-2021-logo-1631416190368.png
+  title: "Thomasg Series (1/5): Whale Sighting"
+  description: "On this momentous day we learn the new whale that's been buying RPL is thomasg. He leaps from superphiz's Twitter straight into #trading and The Gang™ helps him feel right at home. We share 'the dybsy video' and have a laugh. It's strange - to have a connection with this person we've never met before, to feel so familiar yet we know nothing about him, to have so much control over us and didn't even know he existed before this day. Is this what it feels like to be in the presence of a whale?"
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/886072885012205609
+  date: 10-Sep-2021
+  supply: 88
+  creator: hanniabu
+  type: community
+- id: 7420
+  link: https://poap.gallery/event/7420
+  img_url: https://storage.googleapis.com/poapmedia/jeighterbomb-0008-2021-logo-1631401492787.png
+  title: Jeighterbomb 0.008
+  description: "This POAP is to commemorate the coming together of the #Trading community on Rocketpool discord over a celebratory Jagerbomb (or other beverage of choice!) The event was triggered by the ratio of 0.008 RPL/ETH shortly after the mainnet launch announcement. Jagerbombs were chosen due to member MrSlothy's ineptitude at sharing a 'My New Haircut' gif on Discord."
+  desc_url: 
+  date: 12-Sep-2021
+  supply: 272
+  creator: mrslothy
+  type: community
+- id: 7419
+  link: https://poap.gallery/event/7419
+  img_url: https://storage.googleapis.com/poapmedia/kron-the-peace-keeper-2021-logo-1631400871554.png
+  title: Kron the Peace Keeper
+  description: Speak softly, carry big hammer
+  desc_url: 
+  date: 11-Sep-2021
+  supply: 147
+  creator: hanniabu
+  type: community
+- id: 7312
+  link: https://poap.gallery/event/7312
+  img_url: https://storage.googleapis.com/poapmedia/the-smoigel-show-2021-logo-1631249339084.png
+  title: The Smoigel Show
+  description: The Smoigel Prophecy has been fulfilled! The fateful !ratio in the RP discord trading channel - RPL/ETH has crashed down to 0.0017, oh no! But wait, not all is as it seems in Smoigel's world...
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/885643653765292033
+  date: 09-Sep-2021
+  supply: 76
+  creator: DaserDog.eth
+  type: community
+- id: 7307
+  link: https://poap.gallery/event/7307
+  img_url: https://storage.googleapis.com/poapmedia/rpl-night-owls-2021-logo-1631249035444.png
+  title: RPL Night Owls
+  description: "We are the night shift keeping #trading alive when the others have gone."
+  desc_url: 
+  date: 10-Sep-2021
+  supply: 39
+  creator: hanniabu
+  type: community
+- id: 7250
+  link: https://poap.gallery/event/7250
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-pre-launch-systems-check-trail-of-bits-audit-completed-2021-logo-1631211652996.png
+  title: "Rocket Pool Pre-Launch Systems Check: Trail of Bits Audit Completed"
+  description: Rocket Pool released their final article announcing the Trail of Bits Audit has completed!
+  desc_url: https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-4-2635c44e4f7e
+  date: 09-Sep-2021
+  supply: 3059
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 7249
+  link: https://poap.gallery/event/7249
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-pre-launch-systems-check-final-article-released-2021-logo-1631211590332.png
+  title: "Rocket Pool Pre-Launch Systems Check: Final Article Released"
+  description: Rocket Pool released their final article announcing the Ethereum Mainnet Launch Date!
+  desc_url: https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-4-2635c44e4f7e
+  date: 09-Sep-2021
+  supply: 2779
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 7209
+  link: https://poap.gallery/event/7209
+  img_url: https://storage.googleapis.com/poapmedia/joes-cat-is-okay-oh-yeah-and-rp-mainnet-launch-is-on-october-6th-2021-logo-1631162562381.png
+  title: Joe's cat is okay! oh yeah, and RP Mainnet launch is on October 6th...
+  description: Joe's cat is okay! oh yeah, and RP Main-net launch is on October 6th...
+  desc_url: https://youtu.be/uytfJlMfdyc
+  date: 08-Sep-2021
+  supply: 443
+  creator: Lamboshi aka Nolan
+  type: community
+  filesize: 4.8 MB
+- id: 7188
+  link: https://poap.gallery/event/7188
+  img_url: https://storage.googleapis.com/poapmedia/the-rocketpool-doldrums-pt-2-2021-logo-1631143393252.png
+  title: The RocketPool Doldrums pt. 2
+  description: "Things are starting to look brighter in the land of RP- audits are wrapping up, whales are selling out, and there is a sense that mainnet launch is just around the corner. However, patience is wearing thin in the #trading district where the peasants are creating clouds of doubt while anticipating THE announcement. Will it come tonight? Tomorrow? Ever??? We were promised all will be revealed this week...but some feel the day may never come. Launch is imminent my friends!"
+  desc_url: 
+  date: 08-Sep-2021
+  supply: 286
+  creator: takezo
+  type: community
+- id: 7205
+  link: https://poap.gallery/event/7205
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-kitty-2021-logo-1631159308480.png
+  title: Rocket Pool Kitty
+  description: A little ham did the trick. Joe's cat is feeling better.
+  desc_url: 
+  date: 07-Sep-2021
+  supply: 331
+  creator: jcrtp
+  type: community
+- id: 7184
+  link: https://poap.gallery/event/7184
+  img_url: https://storage.googleapis.com/poapmedia/rocket-story-4-2021-logo-1631142516596.png
+  title: Rocket Story 4
+  description: This isn't flying, this is falling with style!
+  desc_url: https://rocketpool.net
+  date: 08-Sep-2021
+  supply: 500
+  creator: hanniabu
+  type: community
+- id: 7088
+  link: https://poap.gallery/event/7088
+  img_url: https://storage.googleapis.com/poapmedia/rocketpool-discord-mclovin-and-the-gang-discover-tts-2021-logo-1631061128642.png
+  title: Rocketpool Discord - McLovin and the Gang Discover tts
+  description: This POAP was given to people who were present in Rocketpool Discord server for their PC speakers to start shouting annoying tts at them. Kron tried not to short circuit, but this only shows the shortcomings of the humans as a species.
+  desc_url: https://discord.gg/t7SemQur
+  date: 07-Sep-2021
+  supply: 315
+  creator: RPLgrime
+  type: community
+- id: 6934
+  link: https://poap.gallery/event/6934
+  img_url: https://storage.googleapis.com/poapmedia/another-rpl-dumpback-whale-struck-out-0x16-2021-logo-1630770911942.png
+  title: Another RPL Dumpback Whale Struck Out - 0x16
+  description: This POAP marks the day RPL whale 0x16 from Struck Capital was defeated by RPL buyers! <br><br>GreyWizard had a sighting of a Dumpback Whale. <br>Dazer said the whale had a Premature Capitulation. <br>deetoo noticed it Struck Out Looking. <br>Ken called it a Failure Before Launch. Sezgin simply noted, NGMI. <br>hanniabu was there when it Struck Out Last Inning.
+  desc_url: https://discord.gg/t7SemQur
+  date: 04-Sep-2021
+  supply: 312
+  creator: RPLgrime
+  type: community
+- id: 6814
+  link: https://poap.gallery/event/6814
+  img_url: https://storage.googleapis.com/poapmedia/logicbeach-presents-the-millionth-poap-2021-logo-1630617793888.png
+  title: LogicBeach presents the Millionth POAP
+  description: 1,000,000 POAPs!!!
+  desc_url: 
+  date: 02-Sep-2021
+  supply: 110
+  creator: logicbeach.eth
+  type: community
+- id: 6785
+  link: https://poap.gallery/event/6785
+  img_url: https://storage.googleapis.com/poapmedia/trading-goes-for-1m-poap-2021-logo-1630557683581.png
+  title: "#trading goes for 1M POAP"
+  description: "After some alfalfa from the phizziest super, the degens in the depths of #trading assembled to create POAPs faster than ETH can break bear hearts. Hopefully one of these holders is lucky enough to get hold of the one-millionth POAP. Good luck!"
+  desc_url: 
+  date: 02-Sep-2021
+  supply: 32
+  creator: jasper_the_friendly_ghost
+  type: community
+- id: 6780
+  link: https://poap.gallery/event/6780
+  img_url: https://storage.googleapis.com/poapmedia/rp-discord-attempts-to-mint-the-1m-poap-2021-logo-1630557569311.png
+  title: RP Discord Attempts to Mint the 1M
+  description: "The #trading degens have set their eyes on the goal of minting the 1,000,000th POAP. Will this POAP represent victory or a sad reminder of yet another one of our many failures."
+  desc_url: 
+  date: 01-Sep-2021
+  supply: 69
+  creator: DaserDog.eth
+  type: community
+- id: 6646
+  link: https://poap.gallery/event/6646
+  img_url: https://storage.googleapis.com/poapmedia/hot-trading-summer-2021-2021-logo-1630379353179.png
+  title: "Hot #trading Summer 2021"
+  description: Got a whole lot of options 'cause you know a bitch poppin'
+  desc_url: 
+  date: 30-Aug-2021
+  supply: 49
+  creator: Dondochaka
+  type: community
+- id: 6519
+  link: https://poap.gallery/event/6519
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-pre-launch-systems-check-rc7-validator-workshop-2021-logo-1630156267796.png
+  title: "Rocket Pool Pre-Launch Systems Check: RC7 Validator Workshop"
+  description: Joe Clapis (rocket pool senior blockchain engineer) will be going step-by-step building a new Raspberry Pi machine from fresh out of the box to a fully functional validator using the Rocket Pool platform.
+  desc_url: https://ethstaker.cc/rocket-pool-pre-launch-systems-check/
+  date: 28-Aug-2021
+  supply: 3365
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 6518
+  link: https://poap.gallery/event/6518
+  img_url: https://storage.googleapis.com/poapmedia/ethstaker-presents-rocket-pool-rc7-validator-workshop-2021-logo-1630155886554.png
+  title: "EthStaker Presents: Rocket Pool RC7 Validator Workshop"
+  description: One of the main goals of the EthStaker community is to lower the technical barrier of entry into the world of solo staking on the Ethereum network. One of the ways we do this is by hosting workshop events to provide step-by-step instructions on how to get your validator up and running. The EthStaker crew has teamed up with [Rocket Pool](https://www.rocketpool.net/) who have agreed to co-host a livestream workshop wherein Joe Clapis (rocket pool senior blockchain engineer) will literally by going step-by-step building a new Raspberry Pi machine from the box to a fully functional validator using the Rocket Pool platform.
+  desc_url: https://www.youtube.com/watch?v=Id-bW1dxhak
+  date: 28-Aug-2021
+  supply: 1239
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 176403
+  link: https://app.poap.art/sushis-first-birthday-pixel-party/
+  img_url: /assets/img/poaps/art/sushis-first-birthday-pixel-party.png
+  title: Sushi's First Birthday Pixel Party!
+  description: Sushi Community Pixel Party Fri-Sat-Sun to celebrate Sushi's First Birthday! The Canvas will be minted and fractionalized to those who paint 100 pixels or more!
+  desc_url: 
+  date: 27-Aug-2021
+  supply: 176403
+  creator: POAP Art Canvas
+  type: sushi
+- id: 48160
+  link: https://app.poap.art/ethereum-protocol-upgrade-london/
+  img_url: /assets/img/poaps/art/ethereum-protocol-upgrade-london.png
+  title: "Ethereum protocol upgrade: London"
+  description: Painting party hosted by EthStaker to commemorate the long awaited upgrade of the most secure network in existence.
+  desc_url: 
+  date: 05-Aug-2021
+  supply: 48160
+  creator: POAP Art Canvas
+  type: ethstaker
+- id: 4935
+  link: https://poap.gallery/event/4935
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-prater-testnet-launch-call-2021-logo-1627852025217.png
+  title: Rocket Pool Prater Testnet Launch Call
+  description: Rocket Pool is launching their final testnet on Prater before their mainnet launch. The EthStaker crew hosted a livestream event celebrating this milestone.
+  desc_url: https://youtu.be/o_g5Vu4Hbv8
+  date: 01-Aug-2021
+  supply: 473
+  creator: chie # from UNVETICA TEAM
+  type: community
+- id: 4884
+  link: https://poap.gallery/event/4884
+  img_url: https://storage.googleapis.com/poapmedia/contrabandeth-rocketpool-t-shirt-giveaway-2021-logo-1627766041258.png
+  title: Contraband.eth RocketPool T-shirt Giveaway
+  description: Prater Launch Raffle for limited edition Rocketpool Nike T-shirt (Size Large)
+  desc_url: https://testnet.rocketpool.net
+  date: 31-Jul-2021
+  supply: 133
+  creator: RPLgrime
+  type: community
+- id: 4149
+  link: https://poap.gallery/event/4149
+  img_url: https://storage.googleapis.com/poapmedia/david-hoffman-visits-rocketpool-discord-trading-be-we-were-ready-this-time-2021-logo-1626325849572.png
+  title: "David Hoffman visits Rocketpool Discord #trading... but we were ready this time!"
+  description: "David sometimes spends time with the degens of #trading. This time RPLgrime was ready with a Rocketball!"
+  desc_url: 
+  date: 15-Jul-2021
+  supply: 26
+  creator: RPLgrime
+  type: community
+- id: 4129
+  link: https://poap.gallery/event/4129
+  img_url: https://storage.googleapis.com/poapmedia/leedo-staker-2021-logo-1626320761701.png
+  title: LEEDO Staker
+  description: For ETH stakers on the LEEDO platform.
+  desc_url: https://www.youtube.com/watch?v=-YD5cAbatOc
+  date: 14-Jul-2021
+  supply: 36
+  creator: RPLgrime
+  type: community
+- id: 4125
+  link: https://poap.gallery/event/4125
+  img_url: https://storage.googleapis.com/poapmedia/bankless-eth-staking-panel-rocket-pool-coinbase-lido-rp-discord-limited-edition-2021-logo-1626312815639.png
+  title: Rocket Pool, Coinbase, Lido | RP DISCORD LIMITED EDITION
+  description: This POAP is delivered to anyone FROM RP DISCORD who watched the Rocket Pool, Coinbase, and Lido panel hosted by Bankless.
+  desc_url: https://www.youtube.com/watch?v=-YD5cAbatOc
+  date: 14-Jul-2021
+  supply: 86
+  creator: RPLgrime
+  type: community
+- id: 4124
+  link: https://poap.gallery/event/4124
+  img_url: https://storage.googleapis.com/poapmedia/bankless-eth-staking-panel-rocket-pool-coinbase-lido-2021-logo-1626313606633.png
+  title: Bankless ETH Staking Panel | Rocket Pool, Coinbase, Lido
+  description: This POAP is delivered to anyone who watched the Rocket Pool, Coinbase, and Lido panel hosted by Bankless.
+  desc_url: https://www.youtube.com/watch?v=-YD5cAbatOc
+  date: 13-Jul-2021
+  supply: 135
+  creator: junovhs
+  type: bankless
+- id: 4055
+  link: https://poap.gallery/event/4055
+  img_url: https://storage.googleapis.com/poapmedia/dog-days-in-rp-discord-3rd-edition-2021-logo-1626194872641.png
+  title: Dog Days in RP Discord (3rd Edition)
+  description: The last POAP (Proof of Adorable Pups), for now, of everyone's favorite fluffy friends over at the RP Discord server. Now featuring 8 more cute canines getting excited for the ever nearing launch of Rocket Pool!
+  desc_url: 
+  date: 13-Jul-2021
+  supply: 296
+  creator: DaserDog.eth
+  type: community
+- id: 4050
+  link: https://poap.gallery/event/4050
+  img_url: https://storage.googleapis.com/poapmedia/rocketpool-testnet-launchdate-on-prater-2021-logo-1626179001235.png
+  title: Rocketpool Testnet Launchdate on Prater
+  description: This POAP celebrates the highly anticipated announcement of the launchdate on Prater
+  desc_url: https://medium.com/rocket-pool/rocket-pool-prater-testnet-launch-ac2a574c18c7
+  date: 13-Jul-2021
+  supply: 217
+  creator: Kevster.eth
+  type: community
+- id: 5425
+  link: https://poap.gallery/event/5425
+  img_url: https://storage.googleapis.com/poapmedia/rp-discord-takes-on-lyra-trading-competition-2021-logo-1628557766383.png
+  title: RP Discord Takes on Lyra Trading Competition
+  description: The Lyra options trading competition managed to ensnare a fair number of degens over at the RP discord server and forced others to witness their ramblings as new brain wrinkles were attempted to be grown. Shockingly 6 members reached the top 100 with @knoshua even contending for a top 3 spot!
+  desc_url: 
+  date: 12-Jul-2021
+  supply: 50
+  creator: DaserDog.eth
+  type: community
+- id: 4041
+  link: https://poap.gallery/event/4041
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-announces-the-prater-testnet-launch-in-three-weeks-2021-logo-1626151329220.png
+  title: Rocket Pool announces the Prater Testnet launch in three weeks
+  description: Rocket Pool announced the launch of their final testnet in three weeks. It's all good. We're not going anywhere.
+  desc_url: https://discord.com/channels/405159462932971535/405163979141545995/864323359025266688
+  date: 12-Jul-2021
+  supply: 55
+  creator: superphiz
+  type: community
+- id: 3826
+  link: https://poap.gallery/event/3826
+  img_url: https://storage.googleapis.com/poapmedia/rp-carrot-2021-logo-1625598926529.png
+  title: RP Carrot
+  description: "#trading channel at RP discord chasing launch"
+  desc_url: https://www.rocketpool.net/
+  date: 06-Jul-2021
+  supply: 32
+  creator: mao
+  type: community
+- id: 3423
+  link: https://poap.gallery/event/3423
+  img_url: https://storage.googleapis.com/poapmedia/dog-days-in-rp-discord-2nd-edition-2021-logo-1624676815614.png
+  title: Dog Days in RP Discord (2nd Edition)
+  description: 
+  desc_url: The 2nd Edition of the Rocket Pool Discord Dog Days POAP (Proof of Adorable Pup) comes on the heels of the ProjectX announcement and increased confidence in the future of decentralized staking. Despite this, dumping ETH and a depressed ratio continue to dampen moods so let's dispatch another batch of our delightful dogs. This edition spotlights 6 new community canines brining our total to 11 provably adorable pups!
+  date: 26-Jun-2021
+  supply: 192
+  creator: DaserDog.eth
+  type: community
+- id: 3252
+  link: https://poap.gallery/event/3252
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-cool-2021-logo-1624299827329.png
+  title: Rocket Pool Cool
+  description: Rocket Pool community raising money for clean water for those in need.
+  desc_url: https://thewaterproject.org/community/profile/rocket-pool-cool
+  date: 20-Jun-2021
+  supply: 28
+  creator: DrDoofus
+  type: community
+- id: 3145
+  link: https://poap.gallery/event/3145
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-poster-raffle-2021-logo-1623967750982.png
+  title: Rocket Pool Poster Raffle
+  description: "Rocket Pool needs YOU to help decentralize Ethereum staking. This is a High-Resolution 7016px x 9934px (73in x 103in) Rocket Pool inspired poster. The idea of the Rocket Pool Poster was presented by VGR and collaboratively designed by RavenFromIvo and Unvetica.eth. 300 NFT posters will be raffled off via POAP.fun. The remaining 50 NFTs will be sold via rarible. 50% of the profits made in the Rarible Auction will go towards covering the minting and distribution costs, the other 50% will be donated to GitCoin grants."
+  desc_url: https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:616546?tab=owners
+  date: 17-Jun-2021
+  supply: 418
+  creator: Unvetica.eth # and VGR, RavenFromIvo
+  type: community
+- id: 3107
+  link: https://poap.gallery/event/3107
+  img_url: https://storage.googleapis.com/poapmedia/dog-days-in-rp-discord-1st-edition-2021-logo-1623903441984.png
+  title: Dog Days in RP Discord (1st Edition)
+  description: Rough times call for ruff measures. As concerns grow over price drops, MEV, and Steve in the Rocket Pool discord, nothing can help cheer up the mood like a good ol' POAP (Proof of Adorable Pups). This POAP is the first of a set featuring our fluffy friends from the RP discord community.
+  desc_url: 
+  date: 16-Jun-2021
+  supply: 287
+  creator: DaserDog.eth
+  type: community
+- id: 2981
+  link: https://poap.gallery/event/2981
+  img_url: https://storage.googleapis.com/poapmedia/rp-titanic-2021-logo-1623701162156.png
+  title: RP Titanic
+  description: "Everything is just fine here in #trading"
+  desc_url: 
+  date: 14-Jun-2021
+  supply: 73
+  creator: mao
+  type: community
+- id: 2892
+  link: https://poap.gallery/event/2892
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-waiting-game-poap-2021-logo-1623448942827.png
+  title: Rocket Pool Waiting Game POAP
+  description: "Sometimes waiting is difficult. A lot of times it’s the last thing we ever want to do. As #teamrocketpool quietly works with their noses to the grindstone, we can wait patiently knowing that things will be done the right way, turning the dream of decentralized, trustless, and open source staking into a reality."
+  desc_url: https://discord.com/channels/835798383205679104/835798866577981530/853000101697159219
+  date: 11-Jun-2021
+  supply: 311
+  creator: Unvetica.eth
+  type: community
+- id: 2725
+  link: https://poap.gallery/event/2725
+  img_url: https://storage.googleapis.com/poapmedia/39-thumbs-2021-logo-1623029891107.png
+  title: 39 Thumbs
+  description: "Who's got 39 thumbs and likes discussing ETH Withdrawal Methods? #trading does! This POAP commemorates the community efforts to get 0x02 credential prefix to secure the future of decentralized staking on Ethereum 2.0."
+  desc_url: 
+  date: 06-Jun-2021
+  supply: 47
+  creator: Silence Dogood
+  type: community
+- id: 2196
+  link: https://poap.gallery/event/2196
+  img_url: https://storage.googleapis.com/poapmedia/dr-doofus-2021-logo-1623190778610.png
+  title: Rocket Pool Babies
+  description: Celebrating babies born during Rocket Pool creation and the commitment of devs juggling family and such an awesome project.
+  desc_url: 
+  date: 06-Jun-2021
+  supply: 295
+  creator: DrDoofus
+  type: community
+- id: 2658
+  link: https://poap.gallery/event/2658
+  img_url: https://storage.googleapis.com/poapmedia/jcrtp-presents-0x02-2021-logo-1622734462064.png
+  title: Jcrtp presents 0x02
+  description: Jcrtp from Rocket Pool presents 0x02 PR to Ethereum R&D Team
+  desc_url: https://github.com/ethereum/eth2.0-specs/pull/2454
+  date: 03-Jun-2021
+  supply: 75
+  creator: Kevster.eth
+  type: community
+- id: 114090
+  link: https://app.poap.art/road-to-devcon-six
+  img_url: /assets/img/poaps/art/road-to-devcon-six.png
+  title: Road to Devcon Six
+  description: 
+  desc_url: 
+  date: 29-May-2021
+  supply: 114090
+  creator: POAP Art Canvas
+  type: other
+- id: 2502
+  link: https://poap.gallery/event/2502
+  img_url: https://storage.googleapis.com/poapmedia/rocketpool-discord-and-the-goat-jcrtp-save-the-future-of-ethereum-2021-logo-1622211483857.png
+  title: Rocketpool Discord and the GOAT jcrtp save the future of Ethereum!
+  description: On the night of 05/27/2021, @jcrtp came to the Rocketpool Discord to proclaim a 'pool staking' loophole in the Ethereum protocol. He gathered valiant community members @freeb0rn and @poupas to prepare a journey to Eth R&D Discord to offer their decree to the high clergy of Ethereum. As the decree read, the prefix 0x01 was problematic for 'pool staking' protocols like Rocketpool because it allowed node operators the opportunity to funnel part of the minipool's validation rewards to their own wallet without proportionally distributing them to all stakers in the pool. In the words of the survivors, 'a category 5 brainstorm' occured and ETH pope Vitalik Buterin even showed up to calm the tempest. The RP representatives presented the idea of prefix 0x02, a prefix that their grandchildren would remember them by. The future of decentralized staking could be restored!
+  desc_url: 
+  date: 27-May-2021
+  supply: 147
+  creator: RPLgrime
+  type: community
+- id: 2448
+  link: https://poap.gallery/event/2448
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-penguin-shinanigans-2021-logo-1621991878054.png
+  title: Rocket Pool Penguin shinanigans
+  description: "This POAP is to prove to Penguin that POAPs are only distributed when they leave the Discord #trading channel."
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/846906792281767936
+  date: 25-May-2021
+  supply: 147
+  creator: Unvetica.eth
+  type: community
+- id: 2298
+  link: https://poap.gallery/event/2298
+  img_url: https://storage.googleapis.com/poapmedia/the-rpl-astronaut-cat-2021-logo-1621606591720.png
+  title: The RPL Astronaut Cat
+  description: "Let's skyrocket the RPL Cat to the moon. This POAP is linked to a video made by the youtube channel 'The RPL Astronaut Cat' to promote RocketPool the decentralised Ethereum 2.0 staking protocol. This POAP was dropped using a technology inspired by POEP : a drop in four time to ensure that neither Europeans nor Americans are forgotten during distribution."
+  desc_url: https://youtu.be/a9f8rxdpmb0
+  date: 21-May-2021
+  supply: 49
+  creator: Antoine
+  type: community
+- id: 2334
+  link: https://poap.gallery/event/2334
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-moon-mission-crew-patch-2021-logo-1621442317195.png
+  title: Rocket Pool Moon Mission Crew
+  description: The crew is all strapped in, the rocket is laden with fuel, and command has confirmed our mission to secure the Ethereum network from would-be attackers both terrestrial and extraterrestrial alike. The moon mission patch commemorates the crew of the r/rocketpool subreddit and brings good fortune on their imminent mission to expand trustless, decentralized staking on the Ethereum network.
+  desc_url: https://www.reddit.com/r/rocketpool/
+  date: 20-May-2021
+  supply: 373
+  creator: /u/farspeed
+  type: community
+- id: 2273
+  link: https://poap.gallery/event/2273
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-sassano-validator-fix-2021-logo-1621308462408.png
+  title: Rocket Pool Sassano Validator Fix
+  description: On this 17th Day of May, 2021 - Anthony Sassano (@Sassal0x) entered the Rocket Pool Discord to announce his Validator issues had been resolved.
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/844043720487337994
+  date: 17-May-2021
+  supply: 121
+  creator: Unvetica.eth
+  type: community
+- id: 2173
+  link: https://poap.gallery/event/2173
+  img_url: https://storage.googleapis.com/poapmedia/the-rpl-doldrums-2021-logo-1620870368509.png
+  title: The RocketPool Doldrums
+  description: The final beta is over. Audits are still in full swing. The ETH/RPL ratio is getting rekt. And a mainnet release date can only be speculated upon. And yet, we all still love RocketPool :) Here's to what is, and will be, the darkest moments in the history of our beloved protocol. From this point is where our launch begins!
+  desc_url: 
+  date: 12-May-2021
+  supply: 94
+  creator: takezo
+  type: community
+- id: 2162
+  link: https://poap.gallery/event/2162
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-tokenomics-logicbeacheth-video-release-poap-2021-logo-1620774957824.png
+  title: Rocket Pool Tokenomics - LogicBeach.eth video release POAP
+  description: "You came, you watched, you may have learned something, but the important part is: you saw a word underlined in blue! Here's your POAP, have a day."
+  desc_url: 
+  date: 11-May-2021
+  supply: 98
+  creator: logicbeach.eth
+  type: community
+- id: 2092
+  link: https://poap.gallery/event/2092
+  img_url: https://storage.googleapis.com/poapmedia/poep-2021-logo-1620578502227.png
+  title: POEP
+  description: This is a story of hope and equality under the POAP law. As a European, too many times have we awoken to review the day’s happenings, only to realise we have yet again missed out on a POAP due to the US monopolising the entire POAP minting and distribution network. Sure, missing one POAP isn’t so bad, but that one POAP quickly become two, three… four. It’s as if they conspire, night after night, to release the most coveted badges while us Europeans are sleeping soundly. Well, no longer! Ironically employing the artistic skills of an American (credit @RPLgrime) we have minted the world’s first European POAP using revolutionary Proof of European Protocol (POEP) technology. On 9th May 2021 in the Rocket Pool discord server, many were celebrating Europe Day and proving they're awake and pro-European by adding an EU flag ‘Reaction’ to the POAP image between the hours of 07:00 GMT and 11:00 GMT. This is their reward.
+  desc_url: 
+  date: 09-May-2021
+  supply: 64
+  creator: RPLgrime
+  type: community
+- id: 2013
+  link: https://poap.gallery/event/2013
+  img_url: https://storage.googleapis.com/poapmedia/may-the-fourth-be-with-you-2021-2021-logo-1620173713094.png
+  title: May the Fourth be With You 2021
+  description: "On this 4th of May, we mark a transition. For 5 years, Rocketpool has stood as the crowning vision of decentralized staking. We stand on the threshold of a new beginning. In order to ensure a trustless ethereum network, the betas will be reorganized into a testnet, for a safe and secure ecosystem that will last ten-thousand years. Ethereans must do their part. Join our validators, become the node network, and spread the message of decentralization to the TradFi barbarians. We have been tested by the falling ratio, but we have emerged with strong, diamond hands. We move forward as one people: the degens of #trading. We will prevail. Ten thousand years of Rocketpool begins today."
+  desc_url: https://www.poap.fun/202
+  date: 04-May-2021
+  supply: 45
+  creator: RPLgrime
+  type: community
+- id: 1926
+  link: https://poap.gallery/event/1926
+  img_url: https://storage.googleapis.com/poapmedia/jason-kasper-2021-logo-1619811825687.png
+  title: DrDoofus
+  description: Poap for those who were there when DrDoofus was forbidden from ever doing artwork for Rocket Pool again
+  desc_url: 
+  date: 30-Apr-2021
+  supply: 48
+  creator: DrDoofus
+  type: community
+- id: 1818
+  link: https://poap.gallery/event/1818
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-owlbear-2021-logo-1619118685597.png
+  title: Rocket Pool OwlBear
+  description: On this 22nd day of April, 2021 a wild OwlBear was discovered.
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/834858326402531419
+  date: 22-Apr-2021
+  supply: 34
+  creator: Unvetica.eth
+  type: community
+- id: 1769
+  link: https://poap.gallery/event/1769
+  img_url: https://storage.googleapis.com/poapmedia/dybsy-bot-and-blockchain-detective-friends-2021-logo-1618967119789.png
+  title: Dybsy Bot and Blockchain Detective Friends
+  description: "This POAP commemorates the seldom-solicited and oft-uninvited price updates from RPL maxi and #trading degen, Dybsy. Art By: RPLgrime"
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/833486537039675433
+  date: 20-Apr-2021
+  supply: 41
+  creator: RPLgrime
+  type: community
+- id: 1685
+  link: https://poap.gallery/event/1685
+  img_url: https://storage.googleapis.com/poapmedia/berlin-hardfork-poapart-event-2021-logo-1618488486996.png
+  title: RocketPool Berlin POAP.art event
+  description: On April 15 2021, the Ethereum Berlin hardfork successfully took place. It was celebrated far and wide, but especially on berlin.poap.art where netizens asserted artistic dominance -- one pixel at a time -- on a public piece of art. This POAP certifies that the user participated in the RocketPool delegation, and performed their pixel-clicking duties faithfully and effectively.
+  desc_url: 
+  date: 15-Apr-2021
+  supply: 22
+  creator: freeb0rn
+  type: community
+- id: 63297
+  link: https://app.poap.art/Tdr6X5
+  img_url: /assets/img/poaps/art/ethereum-protocol-upgrade-berlin.png
+  title: "Ethereum protocol upgrade: Berlin"
+  description: 
+  desc_url: 
+  date: 15-Apr-2021
+  supply: 63297
+  creator: POAP Art Canvas
+  type: community
+- id: 1656
+  link: https://poap.gallery/event/1656
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-tokenomics-chat-2021-logo-1618359631817.png
+  title: Rocket Pool Tokenomics Chat
+  description: The Rocket Pool Tokenomics post was announced on April 13, 2021. Twelve hours after the release, the community is getting together to talk through the tokenomics to improve understanding. During this event, a poap.fun raffle will distribute 25 RPL to each of five winners.
+  desc_url: https://discord.com/channels/405159462932971535/405163979141545995/831414551810408468
+  date: 13-Apr-2021
+  supply: 65
+  creator: RPLgrime
+  type: community
+- id: 1654
+  link: https://poap.gallery/event/1654
+  img_url: https://storage.googleapis.com/poapmedia/rocket-pool-inb4-20-2021-logo-1618332855846.png
+  title: Rocket Pool inb4 $20
+  description: "Holders of this POAP were active in the Rocket Pool #trading discord when the Rocket Pool token (RPL) crossed over $20 for the first time."
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/831561216262012988
+  date: 13-Apr-2021
+  supply: 109
+  creator: Unvetica.eth
+  type: community
+- id: 1595
+  link: https://poap.gallery/event/1595
+  img_url: https://storage.googleapis.com/poapmedia/bigpoap69-2021-logo-1617942256149.png
+  title: bigPOAP69
+  description: "On April 8, 2021, an anonymous person using the address 0xf0B145a02139f91F998D093F2A12b9eCf2eF5405 sent users on the Rocket Pool discord amounts of RPL token associated with the number '69'. @LookingForOwls received 0 RPL and a message 'BIG Penis'. Persons holding this POAP were in the Rocket Pool discord #trading room enjoying the fun. David Hoffman stopped in to tell #trading that he was going to discuss Rocket Pool on the Bankless Roll up. Darcius mega-trolled a release of the tokenomics post. @JCRTP was playing D&D elsewhere. The POAP design was by @Logic_Beach, the name was suggested by dybsy@discord, and superphiz organized the POAP."
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/829917821621895179
+  date: 08-Apr-2021
+  supply: 34
+  creator: logicbeach.eth
+  type: community
+- id: 1616
+  link: https://poap.gallery/event/1616
+  img_url: https://storage.googleapis.com/poapmedia/the-0x6b-rpl-dumpening-2021-logo-1618107986117.png
+  title: The 0x6b RPL Dumpening
+  description: 0x6b was a POAP whale being tracked by the RPL trading community who emptied their Rocket Pool Token (RPL) holdings and caused a ETH/RPL ratio drop to 0.00651164 on 2021-04-05. Holders of this token were present in the Rocket Pool discord to witness the event.
+  desc_url: 
+  date: 05-Apr-2021
+  supply: 69
+  creator: danolovescomedy
+  type: community
+- id: 1216
+  link: https://poap.gallery/event/1216
+  img_url: https://storage.googleapis.com/poapmedia/eth-staker-community-quiz-show-3-rocket-pool-winner-2021-logo-1615688363698.png
+  title: "ETH Staker Community Quiz Show #3: Rocket Pool - Winner"
+  description: This POAP was granted to the winner of the Rocket Pool Pre-launch protocol mechanics quiz game. Holders of this POAP received a ticket from a poap.fun raffle, and participated in a live quiz game featuring Rocket Pool content. The winner of the Rocket Pool Quiz game used the player alias 'QuizGod1'.
+  desc_url: https://www.youtube.com/watch?v=-YdBslzHGec
+  date: 13-Mar-2021
+  supply: 1
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 1215
+  link: https://poap.gallery/event/1215
+  img_url: https://storage.googleapis.com/poapmedia/eth-staker-community-quiz-show-3-rocket-pool-participant-2021-logo-1615688010594.png
+  title: "ETH Staker Community Quiz Show #3: Rocket Pool - Participant"
+  description: Participants in the Rocket Pool Pre-launch protocol mechanics quiz game. Holders of this POAP received a ticket from a poap.fun raffle, and participated in a live quiz game featuring Rocket Pool content.
+  desc_url: https://www.youtube.com/watch?v=-YdBslzHGec
+  date: 13-Mar-2021
+  supply: 22
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 1214
+  link: https://poap.gallery/event/1214
+  img_url: https://storage.googleapis.com/poapmedia/eth-staker-community-quiz-show-3-rocket-pool-viewer-2021-logo-1615687739589.png
+  title: "ETH Staker Community Quiz Show #3: Rocket Pool - Viewer"
+  description: Viewers of the Rocket Pool Pre-launch protocol mechanics quiz game. Holders of this POAP viewed the live stream and participated in a simul-play using google docs, the first time we attempted this.
+  desc_url: https://www.youtube.com/watch?v=-YdBslzHGec
+  date: 13-Mar-2021
+  supply: 71
+  creator: Unvetica.eth
+  type: ethstaker
+- id: 1161
+  link: https://poap.gallery/event/1161
+  img_url: https://storage.googleapis.com/poapmedia/the-0xcc-rpl-dumpening-2021-logo-1615311569763.png
+  title: The 0xcc RPL Dumpening
+  description: 0xcc was a POAP whale being tracked by the RPL trading community who emptied their Rocket Pool Token (RPL) holdings and caused the lowest ETH/RPL ratio (0.00227) on 2021-02-28. When this dump completed, the price of RPL began to climb quickly. Holders of this token were present in the Rocket Pool discord to witness the event.
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/808550036790313021
+  date: 09-Feb-2021
+  supply: 42
+  creator: danolovescomedy
+  type: community
+- id: 601
+  link: https://poap.gallery/event/601
+  img_url: https://assets.poap.xyz/community-call-14-w-david-rugendyke-2020-logo-1607914168420.png
+  title: "Community Call #14 w/ David Rugendyke"
+  description: The ETHStaker Core Moderators have the privilege of having David Rugendyke the Founder and CTO of Rocket Pool and Ethereum Solidty Developer. Dave joins the rest of the ETHStaker Core Moderators to discuss what withdrawals to smart contracts mean for decentralized staking pools in general.
+  desc_url: https://www.reddit.com/r/ethstaker/comments/kb41gj/three_exciting_ethstaker_calls_coming_now/
+  date: 14-Dec-2020
+  supply: 81
+  creator: unknown
+  type: ethstaker

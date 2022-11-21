@@ -1,0 +1,22 @@
+# Template to copy for new entries
+# - link: 
+#   title: 
+#   description: 
+#   service: 
+#   amount: 
+#   date: 
+
+
+# Post new entries at the top of the list
+- link: https://sharedstake.medium.com/post-mortem-of-the-sharedstake-incident-4625eeacc61f
+  title: SharedStake 16,000 ETH in Jeopardy
+  description: Ex-dev rugged governance token (SGT) and withdrawal keys for 16,000 ETH may also be compromised.
+  service: SharedStake
+  amount: 16,000 ETH
+  date: June 24, 2021
+- link: https://www.fireblocks.com/blog/stakehound-eth-2-0-event/
+  title: Stakehound 38,178 ETH Lost
+  description: Crypto-custody firm FireBlocks lost access to the private keys securing 38,178 ETH.
+  service: Stakehound
+  amount: 38,178 ETH
+  date: June 22, 2021

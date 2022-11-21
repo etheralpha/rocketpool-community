@@ -1,0 +1,220 @@
+# Template to copy for new entries
+# - name: 
+#   img_url: assets/img/pets/
+#   owner: 
+#   sex: 
+#   type: 
+#   breed: 
+
+
+# Post new entries at the top of the list
+- name: Ruby
+  img_url: assets/img/pets/cvjoint-ruby.png
+  owner: CVJoint
+  sex: female
+  type: dog
+  breed: Boxer & Rhodesian Ridgeback
+- name: Luna
+  img_url: assets/img/pets/deetoo-luna.png
+  owner: deetoo.eth
+  sex: female
+  type: dog
+  breed: Mini Goldendoodle
+- name: Otis
+  img_url: assets/img/pets/heurea-otis.png
+  owner: HeuRea
+  sex: male
+  type: cat
+  breed: Street Cat
+- name: Max
+  img_url: assets/img/pets/jasko-max.png
+  owner: jasko
+  sex: 
+  type: dog
+  breed: German & Belgian Shepherd
+- name: Unidog
+  img_url: assets/img/pets/rakowsky-unidog.png
+  owner: rakowsky.eth # Danylostefan
+  sex: female
+  type: dog
+  breed: Schnoodle
+- name: Amber
+  img_url: assets/img/pets/woh-amber.png
+  owner: woh
+  sex: female
+  type: dog
+  breed: Australian Shepherd
+- name: Jingles
+  img_url: assets/img/pets/xirynx-jingles.png
+  owner: Xirynx
+  sex: female
+  type: dog
+  breed: Pomeranian
+- name: Mango
+  img_url: assets/img/pets/wimwam-mango.png
+  owner: wimwam.eth
+  sex: male
+  type: dog
+  breed: Poodle Bichon
+- name: Nori
+  img_url: assets/img/pets/thesquanch-nori.png
+  owner: TheSquanch.eth
+  sex: female
+  type: dog
+  breed: Husky
+- name: Luna
+  img_url: assets/img/pets/thesquanch-luna.png
+  owner: TheSquanch.eth
+  sex: female
+  type: dog
+  breed: Husky
+- name: Rocky
+  img_url: assets/img/pets/jasper-rocky.png
+  owner: jasper_the_friendly_ghost
+  sex: male
+  type: dog
+  breed: Cavalier King Charles Spaniel & Australian Shepherd Mix
+- name: Thor
+  img_url: assets/img/pets/enkriptix-thor-electra.png
+  owner: enkriptix.eth
+  sex: male
+  type: dog
+  breed: Husky
+- name: Electra
+  img_url: assets/img/pets/enkriptix-thor-electra.png
+  owner: enkriptix.eth
+  sex: female
+  type: dog
+  breed: Husky
+- name: unknown
+  img_url: assets/img/pets/bluecoffee.png
+  owner: BlueCoffe.eth
+  sex: male
+  type: dog
+  breed: Chihuahua
+- name: Sparky
+  img_url: assets/img/pets/mclovin-sparky.png
+  owner: McLovin
+  sex: male
+  type: cat
+  breed: Street Cat
+- name: Milkyway
+  img_url: assets/img/pets/daserdog-milkyway.png
+  owner: DaserDog.eth
+  sex: male
+  type: dog
+  breed: Fluffy Mutt
+- name: Luna
+  img_url: assets/img/pets/dondochaka-luna.png
+  owner: Dondochaka
+  sex: female
+  type: dog
+  breed: Catahoula Mix
+- name: Astro
+  img_url: assets/img/pets/dave-dog.png
+  owner: "#trading"
+  sex: male
+  type: dog
+  breed: Dachshund
+- name: Addie
+  img_url: assets/img/pets/boodle-addie.png
+  owner: boodle
+  sex: female
+  type: dog
+  breed: Formoson Mountain Dog
+- name: Thunder Paw & Boulder
+  img_url: assets/img/pets/drdoofus-thunder-paw-boulder.png
+  owner: DrDoofus
+  sex: male
+  type: dog
+  breed: St. Bernards
+- name: Candy
+  img_url: assets/img/pets/omniman-candy.png
+  owner: omniman.eth
+  sex: male
+  type: dog
+  breed: Pit & Cattle Mix
+- name: Dabo
+  img_url: assets/img/pets/ziginger-dabo.png
+  owner: ziginger
+  sex: male
+  type: dog
+  breed: Dutch Shepherd
+- name: Jonah
+  img_url: assets/img/pets/jackfreeman-jonah.png
+  owner: JackFreeman
+  sex: male
+  type: dog
+  breed: American Dingo
+- name: Elliot
+  img_url: assets/img/pets/chicken-mcdougget-elliot.png
+  owner: Chicken McDougget
+  sex: male
+  type: dog
+  breed: Yellow Labrador Retriever
+- name: Bella
+  img_url: assets/img/pets/poapgod-bella.png
+  owner: POAPgod.eth
+  sex: female
+  type: dog
+  breed: Pug
+- name: Sasu
+  img_url: assets/img/pets/vgr-sasu.png
+  owner: VGR
+  sex: male
+  type: dog
+  breed: Finnish Lapphund
+- name: Whisper
+  img_url: assets/img/pets/dybsy-whisper.png
+  owner: dybsy
+  sex: female
+  type: dog
+  breed: Goldendoodle
+- name: Θ (Theta)
+  img_url: assets/img/pets/logicbreach-theta.png
+  owner: logicbreach.eth
+  sex: male
+  type: dog
+  breed: Golden Retriever
+# - name: Skye
+#   img_url: assets/img/pets/skye.png
+#   owner: unknown
+#   sex: male
+#   type: dog
+#   breed: unknown
+- name: Rufina
+  img_url: assets/img/pets/astoneta-rufina.png
+  owner: astoneta
+  sex: female
+  type: dog
+  breed: Labrador Retriever
+# - name: Nellie
+#   img_url: assets/img/pets/bearr-nellie.png
+#   owner: Bearr
+#   sex: female
+#   type: dog
+#   breed: unknown
+- name: Oliver
+  img_url: assets/img/pets/xdenum-oliver.png
+  owner: xDenum
+  sex: male
+  type: dog
+  breed: Maltipoo
+# - name: Lily
+#   img_url: assets/img/pets/mrchin-lily.png
+#   owner: ChinMobilem
+#   sex: female
+#   type: dog
+#   breed: unknown
+- name: Fine
+  img_url: assets/img/pets/plaidy-fine.png
+  owner: Plaidy
+  sex: female
+  type: dog
+  breed: English Cocker Spaniel
+- name: Olive
+  img_url: assets/img/pets/oliver.png
+  owner: (redacted)
+  sex: male
+  type: dog
+  breed: Standard Poodle

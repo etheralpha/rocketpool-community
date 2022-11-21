@@ -1,0 +1,276 @@
+/*
+retro colors
+https://www.schemecolor.com/retro-gradient.php
+https://www.schemecolor.com/sequence-gradient.php
+retro bg
+https://cdn.wallpapersafari.com/91/84/mCPu15.jpg
+*/
+
+:root {
+  --borders: 2px solid !important;
+  --boxshadows: 0 0 3px 0 !important;
+  --neonyellow: #FEFD00;
+  --neonpurple: #B8007F;
+  --neonblue: #10EDF5;
+  --neonwhite: #FFF;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /*align-items: center;*/
+  min-height: 100vh;
+  /*background: #000;*/
+/*   background-image: linear-gradient(to top left, #7723AC, #FEFD00); */
+  /*font-family: Courier;*/
+  position: relative;
+  text-align: center;
+  /*text-shadow: 0 0 3px;*/
+}
+
+/* HEADER */
+header {
+  color: #fff;
+  letter-spacing: 10px;
+  font-size: 22px;
+  padding: 10px 5px;
+}
+
+@media only screen and (min-width: 768px) {
+  header {
+    font-size: 28px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  header {
+    font-size: 32px;
+    padding: 10px;
+  }
+  
+  header h1 {
+    font-weight: 400;
+  }
+}
+
+/* main SECTION */
+.main {
+  background: #000;
+  width: 250px;
+  height: 345px;
+   /*box-shadow: 3px 3px 3px 1px rgba(0,0,0,0.4); */
+  margin: auto;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+@media only screen and (min-width: 768px) {
+  .main {
+    width: 310px;
+    height: 285px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .main {
+    width: 410px;
+    height: 375px;
+  }
+}
+
+.box {
+  background: transparent;
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin: 10px 0 0 10px;
+  color: var(--neonpurple);
+  border: var(--borders);
+  box-shadow: var(--boxshadows);
+  opacity: 0.7;
+  overflow: hidden;
+}
+
+@media only screen and (min-width: 1024px) {
+  .box {
+    width: 70px;
+    height: 70px;
+  }
+}
+
+.box.play {
+  color: var(--neonwhite);
+  border: var(--borders);
+  box-shadow: var(--boxshadows);
+  opacity: 1;
+  cursor: pointer;
+}
+
+.box.play:hover {
+  color: var(--neonyellow);
+  border: var(--borders);
+  box-shadow: var(--boxshadows);
+  /*opacity: 0.7; */
+  cursor: pointer;
+}
+
+.box img {
+  height: 100%;
+  display: block;
+  border: solid 1px transparent;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 50%;*/
+}
+
+
+/* STATUS bar */
+#state {
+  background: #000;
+/*   background-image: linear-gradient(to top left, #9b59b6, #1abc9c); */
+  background-size: 250%;
+  width: 230px;
+  line-height: 25px;
+  float: left;
+  margin: 10px 0 0 10px;
+  padding: 0 10px;
+  color: #fff;
+  font-size: 16px;
+}
+
+@media only screen and (min-width: 768px) {
+  #state {
+    width: 290px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  #state {
+    width: 390px;
+    line-height: 35px;
+  }
+}
+
+#time {
+  float: left;
+}
+
+#time::after {
+  content: " sec";
+}
+
+#score {
+  float: right;
+}
+
+#score::after {
+  content: " points";
+}
+
+
+
+.hidden {
+  display: none !important;
+}
+
+.show {
+  display: block;
+}
+
+/* PRE modal window */
+#pre {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  color: #fff;
+}
+
+#themes {
+  margin: auto;
+  padding: 20px;
+  width: 300px;
+  background: #000;
+  border: var(--borders);
+  box-shadow: var(--boxshadows);
+}
+
+#themes p {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  border: var(--borders);
+  box-shadow: var(--boxshadows);
+}
+
+#pre h2, #post h2 {
+  font-size: 24px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+/* POST modal window */
+#post {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+}
+
+#post > div {
+  width: 300px;
+  padding: 20px 0 40px;
+  background: #000;
+  color: #fff;
+  border: var(--borders);
+  box-shadow: var(--boxshadows);
+}
+
+#post p:first-child, 
+#post #final {
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin: auto;
+  padding: 10px 20px;
+}
+
+#post #again {
+  color: #fff;
+  text-decoration: none;
+  margin: auto;
+  padding: 10px 20px;
+  width: 160px;
+  border: var(--borders);
+  box-shadow: var(--boxshadows);
+}
+
+#post #again:hover {
+  cursor: pointer;
+}

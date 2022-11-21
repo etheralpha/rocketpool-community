@@ -1,0 +1,107 @@
+# # link = use a comment link from the start of the event
+# # img_url = add a screenshot of a highlight to assets/img/bookmarks/
+# # date = dd-Mon-yyyy
+
+# Template to copy for new entries
+# - title: 
+#   link: 
+#   img_url: 
+#   date: 
+
+
+# Post new entries at the top of the list
+- title: Joe Going Full Time Rocket Pool
+  link: https://discord.com/channels/405159462932971535/405163713063288832/916467685670395966
+  img_url: assets/img/bookmarks/joe-full-time.png
+  date: 03-Dec-2021
+- title: Marceau the Wrestler
+  link: https://discord.com/channels/405159462932971535/405163713063288832/915844326070816828
+  img_url: assets/img/bookmarks/marceau-the-wrestler.png
+  date: 02-Dec-2021
+- title: First Minipool On Rocket Pool
+  link: https://discord.com/channels/405159462932971535/894377118828486666/907422505814331474
+  # https://beaconcha.in/validator/B8E4C2B951CAC6DB27DD3DA24CBD36232A28153261DB9C8641AC5BF13A7955456E7CEF5CDB0B89D18671C87413E7DAA1#deposits
+  img_url: assets/img/bookmarks/first-minipool.png
+  date: 09-Nov-2021
+- title: Mainnet Launch Countdown Frenzy
+  link: https://discord.com/channels/405159462932971535/405163713063288832/907419089293684736
+  img_url: assets/img/bookmarks/mainnet-launch-countdown-frenzy.png
+  date: 09-Nov-2021
+- title: Kekked to Death
+  link: https://discord.com/channels/405159462932971535/405163713063288832/905993879650697247
+  img_url: assets/img/bookmarks/kekked-to-death.png
+  date: 05-Nov-2021
+- title: Tetranode 1800 ETH Buy
+  link: https://discord.com/channels/405159462932971535/405163713063288832/905196081581805598
+  img_url: assets/img/bookmarks/tetranode-buy.png
+  date: 03-Nov-2021
+- title: "Joe Admits #trading's Superiority"
+  link: https://discord.com/channels/405159462932971535/405163713063288832/892940032502013982
+  img_url: assets/img/bookmarks/trading-superiority.png
+  date: 29-Sep-2021
+- title: Thomasg Carries Us to 0.01
+  link: https://discord.com/channels/405159462932971535/405163713063288832/888951130376265789
+  # troll buy to 0.00999
+  #   https://discord.com/channels/405159462932971535/405163713063288832/888954520569253900
+  # thomasg buys 5 rpl
+  #   https://discord.com/channels/405159462932971535/405163713063288832/888955114994434139
+  # 5 rpl buy tx
+  #   https://etherscan.io/tx/0x0eaa40afd4b9e63fe1928004f5ef4475eacc5a80b3bffa43e3edbb53c0fd1ea2
+  img_url: assets/img/bookmarks/thomasg-buy-5rpl.png
+  date: 18-Sep-2021
+- title: Superphiz Wins Raffle
+  link: https://discord.com/channels/405159462932971535/405163713063288832/887091484657057844
+  img_url: assets/img/bookmarks/superphiz-wins-raffle.png
+  date: 13-Sep-2021
+- title: The First Great Sell Wall Collapse (0x25)
+  link: https://discord.com/channels/405159462932971535/405163713063288832/887176024532586556
+  img_url: assets/img/bookmarks/0x25-wall-collapse.png
+  date: 13-Sep-2021
+- title: Smoigel Gets Pranked By /ratio
+  link: https://discord.com/channels/405159462932971535/405163713063288832/885643653765292033
+  img_url: assets/img/bookmarks/smoigel-ratio.png
+  date: 09-Sep-2021
+- title: "Article 4 Released :FlushedBread:"
+  link: https://discord.com/channels/405159462932971535/405163713063288832/885374480166322246
+  img_url: assets/img/bookmarks/article-4-released.png
+  date: 09-Sep-2021
+- title: Dysby's Video
+  link: https://discord.com/channels/405159462932971535/405163713063288832/884996482195935274
+  img_url: assets/img/bookmarks/dysbys-video.png
+  date: 07-Sep-2021
+- title: CryptoHoots Inception
+  link: https://discord.com/channels/405159462932971535/405163713063288832/868305298128007219
+  img_url: assets/img/bookmarks/cryptohoots-inception.png
+  date: 07-Jul-2021
+- title: "RPL Wars Episode 69: - The Rise of ETH/RPL"
+  link: https://discord.com/channels/405159462932971535/405163713063288832/839326148327899166
+  # link: https://discord.com/channels/405159462932971535/405163713063288832/839293461801992243
+  img_url: assets/img/bookmarks/rpl-wars.png
+  date: 04-May-2021
+- title: 69 RPL Airdrop
+  link: https://discord.com/channels/405159462932971535/405163713063288832/829917821621895179
+  img_url: assets/img/bookmarks/69-airdrop.png
+  date: 08-Apr-2021
+- title: Breadly Origins
+  link: https://discord.com/channels/405159462932971535/704196071881965589/819735463321010196
+  img_url: assets/img/bookmarks/breadly-origins.png
+  date: 11-Mar-2021
+- title: The Merge of 0x01
+  link: https://discord.com/channels/405159462932971535/704196071881965589/811305953386823770
+  img_url: assets/img/bookmarks/0x01-merge.png
+  date: 16-Feb-2021
+- title: 0xcc Sold Out
+  link: https://discord.com/channels/405159462932971535/405163713063288832/808550036790313021
+  # https://discord.com/channels/405159462932971535/405163713063288832/808555824108535821
+  # comments on the fallen whales account
+  #   https://etherscan.io/address/0xcc4f8dc3a1ee2f3c0b185c0104f64a74162ce636#comment-5259990479
+  # full account of events
+  #   https://discord.com/channels/405159462932971535/405163713063288832/809088353500004453
+  # price movement after Sell
+  #   https://cdn.discordapp.com/attachments/405163713063288832/808923814498140180/Screenshot_20210209-235356_Blockfolio.png
+  img_url: assets/img/bookmarks/0xcc-sold-out.png
+  date: 08-Feb-2021
+- title: Dave Predicts Article 4 Release Date
+  link: https://discord.com/channels/405159462932971535/405159462932971541/474932636431679490
+  img_url: assets/img/bookmarks/dave-prophecy.png
+  date: 03-Aug-2018

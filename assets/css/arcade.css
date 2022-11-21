@@ -1,0 +1,89 @@
+:root {
+  --borders: 2px solid !important;
+  --boxshadows: 0 0 3px 0 !important;
+  --neonyellow: #FEFD00;
+  --neonpurple: #B8007F;
+  --neonblue: #10EDF5;
+  --neonwhite: #FFF;
+}
+nav,
+.bg-light,
+.bg-dark {
+  background-color: transparent !important;
+}
+.nav-link,
+.nav-link:hover,
+.nav-link:focus,
+.dropdown-item,
+.dropdown-item:hover,
+.dropdown-item:focus {
+  color: #fff !important;
+  background-color: #000 !important;
+}
+.dropdown-menu {
+  color: #fff !important;
+  background-color: #000 !important;
+  border: var(--borders);
+  box-shadow: var(--boxshadows);
+  border-radius: 0;
+}
+.navbar-toggler {
+  color: #fff !important;
+  border: 2px solid #fff !important;
+  box-shadow: var(--boxshadows);
+  border-radius: 0 !important;
+}
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23fff' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-outline-primary,
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus,
+.btn-outline-secondary,
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus,
+.btn-outline-thirdary,
+.btn-outline-thirdary:hover,
+.btn-outline-thirdary:focus {
+  background-color: transparent;
+  color: #fff;
+  border: 2px solid #fff !important;
+  border-radius: 0;
+}
+body {
+  background: #000;
+  color: #fff;
+  font-family: Courier;
+  text-shadow: 0 0 3px;
+}
+.card {
+  background-color: #000;
+  color: #fff;
+  border: 2px solid;
+  border-radius: 0;
+}
+#notification {
+  background-color: #000;
+  color: #fff;
+  border-top: 2px solid;
+  box-shadow: var(--boxshadows);
+}
+#notification a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+

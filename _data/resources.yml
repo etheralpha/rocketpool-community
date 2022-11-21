@@ -1,0 +1,405 @@
+# categories: official, community, general, social, analysis, tools, article, guides, info, video, entertainment
+
+# Template to copy for new entries
+# - link: 
+#   title: 
+#   description: 
+#   categories: 
+
+
+- link: "https://www.rocketpool.net"
+  title: Official Website
+  description: The official Rocket Pool website.
+  categories: official, general
+- link: "https://docs.rocketpool.net/"
+  title: Documentation
+  description: The official Rocket Pool documentation
+  categories: official, general, guides
+- link: "https://docs.rocketpool.net/whitepaper/"
+  title: Whitepaper
+  description: The Rocket Pool whitepaper.
+  categories: official, general, analysis
+- link: "https://docs.rocketpool.net/overview/faq/#general"
+  title: FAQ
+  description: A list of frequently asked questions (FAQ) and answers.
+  categories: official, general
+- link: "https://dao.rocketpool.net/"
+  title: DAO Forum
+  description: The official Rocket Pool DAO forum.
+  categories: official, general
+- link: "https://github.com/rocket-pool/rocketpool"
+  title: Rocket Pool Github 
+  description: The Rocket Pool Github and repositories.
+  categories: official, general
+- link: ./../audits
+  title: Rocket Pool Audits
+  description: The results of the Rocket Pool contract audits.
+  categories: official, general
+- link: "https://medium.com/rocket-pool/rocket-pool-rpl-token-upgrade-new-addresses-e96c12c55adf"
+  title: Rocket Pool Contract Addresses
+  description: The official RPL and rETH contract addresses on L1 and L2.
+  categories: official, general
+- link: "https://discord.gg/rocketpool"
+  title: Rocket Pool Discord
+  description: "Official Rocket Pool Discord, home of the infamous #trading."
+  categories: official, social
+- link: "https://twitter.com/Rocket_Pool"
+  title: Rocket Pool Twitter
+  description: Official Rocket Pool Twitter.
+  categories: official, social
+- link: "https://www.reddit.com/r/rocketpool/"
+  title: Rocket Pool Reddit
+  description: Official Rocket Pool Reddit.
+  categories: official, social
+- link: "https://medium.com/rocket-pool"
+  title: Rocket Pool Medium
+  description: Official Rocket Pool Medium.
+  categories: official, social
+- link: "https://t.me/rocketpoolnews"
+  title: Rocket Pool Telegram
+  description: Official Rocket Pool Telegram Announcements channel.
+  categories: official, social
+- link: "https://twitter.com/i/lists/1432213031119904771"
+  title: RP Twitter List 1 (less noise)
+  description: An aggressively curated Twitter list of Rocket Pool advocates with lower noise.
+  categories: community, social
+- link: "https://twitter.com/i/lists/1432415408544440327"
+  title: RP Twitter List 2 (more noise)
+  description: A more inclusive Twitter list of Rocket Pool fans with greater noise.
+  categories: community, social
+- link: "https://www.reddit.com/r/ethfinance/comments/qwbb8w/rocket_pool_investment_thesis_20/"
+  title: RP Investment Thesis - V2
+  description: An updated Rocket Pool investment thesis written by Xer0.
+  categories: community, analysis, article
+- link: "https://tokenomicsexplained.com/rpl/"
+  title: Rocket Pool Tokenomic Analysis
+  description: An analysis of Rocket Pool's tokenomics by LogrisTheBard.
+  categories: community, analysis, article
+- link: "https://www.reddit.com/r/ethfinance/comments/m3pug8/the_rocket_pool_investment_thesis/"
+  title: RP Investment Thesis - Original
+  description: The original Rocket Pool investment thesis written by Xer0.
+  categories: community, analysis, article
+- link: "https://www.reddit.com/r/ethtrader/comments/m43r38/the_rocket_pool_investment_thesis_speculative/"
+  title: RP Investment Thesis - Speculative Edition
+  description: A speculative addition of the Rocket Pool investment thesis written by PSY_TWEAK.
+  categories: community, analysis, article
+- link: "https://www.reddit.com/r/ethfinance/comments/m4jj0i/rocketpool_investment_thesis_round_3/"
+  title: RP Investment Thesis - Price To Earnings Ratio
+  description: A Rocket Pool investment thesis froma price-to-earnings ratio written by boodle.
+  categories: community, analysis, article
+- link: "https://iwo.medium.com/why-will-rocket-pool-win-staking-wars-f87493589d53"
+  title: Why Rocket Pool Will Win Staking Wars
+  description: An article covering the advantages of Rocket Pool and why it will become the dominant staking platform.
+  categories: community, analysis, article
+- link: "http://stake.rocketpool.net/"
+  title: Staking Portal
+  description: Start staking your ETH and receive rETH.
+  categories: official, tools
+- link: "https://stake.rocketpool.net/migrate"
+  title: Migrate Old RPL to New RPL
+  description: Official tool to swap your old RPL for the new RPL.
+  categories: official, tools
+- link: "https://www.coingecko.com/en/coins/rocket-pool"
+  title: CoinGecko
+  description: View Rocket Pool market data, price charts, exchanges, and other info.
+  categories: community, tools
+- link: "https://www.rp-metrics-dashboard.com/dashboard/MAINNET"
+  title: VGR Metrics Dashboard
+  description: A dashboard to monitor network and individual metrics and activity.
+  categories: community, tools
+- link: "https://dune.xyz/greywizard/Rocket-Pool-Overview"
+  title: Rocket Pool Greywizard Dune Dashboard
+  description: A Rocket Pool overview dashboard that tracks and displays various network metrics.
+  categories: community, tools, analysis
+- link: "https://tommw.shinyapps.io/RPL_apy/"
+  title: Node Operator RPL Yield Calculator
+  description: A calculator that plots the Annual Percentage Yield (APY) for RPL staked within Rocket Pool Nodes.
+  categories: community, tools
+- link: "https://docs.google.com/spreadsheets/d/1loB9U8wCIJn73a1DsR-mJJ9PQaYWMlF9asNc7BgM_zc/"
+  title: Ken Gas Estimates Spreadsheet
+  description: A gas estimation spreadsheet for different Rocket Pool operations.
+  categories: community, tools
+- link: "https://www.rocketpooltool.com/"
+  title: Rocket Pool Tool
+  description: A calculator to estimate node operator revenue and compare it to solo staking.
+  categories: community, tools, analysis
+- link: "https://discord.com/channels/405159462932971535/405163713063288832/820009733020844043"
+  title: PSY_TWEAK Moon Math Sheet
+  description: A moon math spreadsheet for RPL price predictions.
+  categories: community, tools, analysis
+- link: "https://rpl-beta-3-leaderboard-frl9u.ondigitalocean.app/"
+  title: Rocket Pool Beta 3 Leaderboard
+  description: A leaderboard for node operator rewards in beta 3.
+  categories: community, tools
+- link: "https://www.rocketratiogang.com/"
+  title: Rocket Ratio Gang
+  description: A fun RPL/ETH ratio tracker on our path to the moon.
+  categories: community, tools
+- link: "https://beaconcha.in/stakingServices"
+  title: Staking Services Comparison List
+  description: A beaconcha.in list of staking services and how they compare.
+  categories: community, tools
+- link: "https://github.com/RomiRand/DecentralizedGraffitiDrawing"
+  title: POAP.art Canvas Bot
+  description: A bot for decentralize graffiti drawing with POAP.art canvases.
+  categories: community, tools
+- link: "https://docs.google.com/spreadsheets/d/1Wl3EukDALcd8nBQQkMhzXr5WfwmEj264YPfch9AJN30/"
+  title: RPL Tokenomics Calculator
+  description: A spreadsheet calculator for RPL tokenomics including inflation, yield, and collateral.
+  categories: official, tools, analysis
+- link: "https://beaconcha.in/pools/rocketpool"
+  title: Rocket Pool Beaconcha.in Dashboard
+  description: View Rocket Pool minipools and validator info.
+  categories: community, tools
+- link: "https://github.com/isidorosp/awesome-rocketpool"
+  title: Awesome Rocket Pool Resource Links
+  description: A collection of Rocket Pool resource links.
+  categories: community, tools
+- link: "https://github.com/miyamoto-takezo/rocketpool-community-resources/blob/main/RocketPool-Resources.md"
+  title: Rocket Pool Resource Links
+  description: A collection of Rocket Pool resource links.
+  categories: community, tools
+- link: "https://dune.xyz/greywizard/RPL-Whale-Watching"
+  title: Greywizard Whale Watching Dashboard
+  description: A dashboard to track RPL whale activity.
+  categories: community, tools
+- link: "https://dune.xyz/queries/148221"
+  title: Whale Watching Dashboard Query
+  description: A Dune query to monitor whale activity.
+  categories: community, tools
+- link: "https://dune.xyz/eliasimos/Eth2-Liquid-Staking"
+  title: Liquid Staking Tracker
+  description: A dashboard to track liquid staking protocols and their marketshare.
+  categories: community, tools
+- link: "https://etherscan.io/token/0xb4efd85c19999d84251304bda99e90b92300bd93#balances"
+  title: RPL Holders List
+  description: A ranked list of RPL holders and balances.
+  categories: community, tools, analysis
+- link: "https://docs.rocketpool.net/guides/"
+  title: Comprehensive Node Operator Guides
+  description: Guides on selecting platform & hardware, running clients efficiently, and securing systems.
+  categories: official, guides
+- link: "https://docs.rocketpool.net/guides/node/local/hardware.html#full-servers-and-pcs"
+  title: Hardware Selection
+  description: A hardware selection guide with different setup options and specs.
+  categories: official, guides
+- link: "https://docs.rocketpool.net/guides/node/securing-your-node.html"
+  title: Securing Your Node
+  description: A list of steps you can take to secure your node against malicious actors.
+  categories: official, guides
+- link: "https://www.howtogeek.com/443156/the-best-ways-to-secure-your-ssh-server/"
+  title: The Best Ways To Secure Your SSH Server
+  description: Secure your Linux system’s SSH connection to protect your system.
+  categories: community, guides
+- link: "https://www.coincashew.com/coins/overview-eth/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node"
+  title: Security Best Practices For Validator
+  description: A complete guide with the best practices to secure your staking validator node.
+  categories: community, guides
+- link: "https://www.reddit.com/r/ethstaker/comments/iqq2tv/home_staking_security_questions/"
+  title: Home Staking Security Questions
+  description: A discussion on security issues when staking from home.
+  categories: community, guides
+- link: "https://gist.github.com/yorickdowne/7fbde369ee1979efa2cfd181259a94e3"
+  title: Netcup Initial Setup For Rocket Pool
+  description: How to setup Netcup for RocketPool or solo staking.
+  categories: community, guides
+- link: "https://www.reddit.com/r/rocketpool/comments/rkgyn8/guide_how_to_seamlessly_access_your_rocket_pool/"
+  title: Remote Node Monitoring
+  description: How to set up your validator too seamlessly access it remotely from anywhere.
+  categories: community, guides
+- link: "https://www.youtube.com/watch?v=TdzfX0df-F0&ab_channel=ETHStaker"
+  title: Decentralized Graffiti Drawing Tool Demo
+  description: How to setup and participate in collaborative graffiti drawing.
+  categories: community, guides, tools, video
+- link: "https://www.youtube.com/watch?v=hHtvCGlPz-o&ab_channel=YorickDowne"
+  title: Ethereum 2.0 Physical and Linux Security
+  description: Validator physical and Linux security, ideas, discussion and demonstration.
+  categories: community, guides, video
+- link: "https://github.com/htimsk/SecureKey"
+  title: Instructions for Using and Aegis Secure Key
+  description: How to set up Apricorn Aegis Secure Key with Rocket Pool.
+  categories: community, guides
+- link: "https://dkderek.medium.com/a-vps-guide-for-rocket-pool-1d0f19855b6d"
+  title: A VPS Guide for Rocket Pool
+  description: Selecting and setting up a virtual private server (VPS) for your node.
+  categories: community, guides
+- link: "https://dkderek.medium.com/netdata-quick-install-config-guide-729b3474a9e4"
+  title: Netdata Quick Install & Config Guide
+  description: A getting started guide for Netdata and your Rocket Pool node.
+  categories: community, guides
+- link: "https://dkderek.medium.com/pruning-geth-on-your-rocket-pool-node-cb781b3558d4"
+  title: Pruning Geth on your Rocket Pool node
+  description: A quick guide to help you configure your node to run a Geth pruning script.
+  categories: community, guides
+- link: "https://github.com/actuallymentor/docs.rocketpool.net/blob/2e1dfcecf05b2f5a7ae6832707999854a1f4555f/src/guides/node/geth-pruning.md"
+  title: Mentor's Script to Prune Geth in RP's Native Docker Setup
+  description: A script to prune Geth on your validator node.
+  categories: community, guides
+- link: "https://eth-docker.net/docs/Usage/Hardware"
+  title: Yorick's ETH2-docker Hardware Guide
+  description: Recommended hardware for your validator.
+  categories: community, guides
+- link: "https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-1-8be4859e5fbd"
+  title: Explainer Series Part 1 - Overview And Users
+  description: Covers Rocket Pool protocol designs, users, rETH, and minipools.
+  categories: official, article, info, analysis
+- link: "https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-2-e0d346911fe1"
+  title: Explainer Series Part 2 - The Oracle Node And Protocol DAO's
+  description: Covers the purpose and function of the Protocol DAO (pDAO) and Oracle DAO (oDAO).
+  categories: official, article, info, analysis
+- link: "https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-3-3029afb57d4c"
+  title: Explainer Series Part 3 - RPL & Tokenomics
+  description: Covers RPL, tokenomics, inflation, rewards, the DAOs, and treasury.
+  categories: official, article, info, analysis
+- link: "https://youtu.be/aONP0jnpJI0"
+  title: Rocket Pool Team AMA w/ EthStaker
+  description: The Rocket Pool team answers questions from EthStaker and the community.
+  categories: official, info, video
+- link: "https://immunefi.com/bounty/rocketpool/"
+  title: Bug Bounty
+  description: Rocket Pool's bug bounty program with Immunify.
+  categories: official, info
+- link: "https://github.com/superphiz/awesome-rocketpool/blob/main/Community%20FAQ.md"
+  title: FAQ
+  description: A collection of answers for frequently asked questions.
+  categories: community, general, info
+- link: "https://medium.com/rocket-pool/rocket-pool-101-faq-ee683af10da9"
+  title: FAQ
+  description: A collection of answers for frequently asked questions.
+  categories: community, general, info
+- link: "https://www.youtube.com/watch?v=uytfJlMfdyc"
+  title: "Rocket Pool Explainer Series: Part One - Logic Beach"
+  description: Covers Rocket Pool protocol designs, users, rETH, and minipools.
+  categories: community, info, analysis, video
+- link: "https://www.youtube.com/watch?v=Vc4rxI9zEis"
+  title: "Rocket Pool Explainer Series: Part Two - Logic Beach"
+  description: Covers the purpose and function of the Protocol DAO (pDAO) and Oracle DAO (oDAO).
+  categories: community, info, analysis, video
+- link: "https://youtu.be/8mvXzu020Is"
+  title: "Rocket Pool Explainer Series: Part Three - Logic Beach"
+  description: Covers RPL, tokenomics, inflation, rewards, the DAOs, and treasury.
+  categories: community, info, analysis, video
+- link: "https://youtu.be/cIXWF512srA?t=53"
+  title: Rocket Pool Tokenomics EthStaker Discussion
+  description: EthSTaker discusses Rocket Pool's tokenomics.
+  categories: community, analysis, video
+- link: "https://www.youtube.com/watch?v=4BoIcZjjaUc&ab_channel=ETHStaker"
+  title: "EthStaker Community Call #3 - All about Rocket Pool"
+  description: The Rocket Pool team joins EthStaker to discuss the project and staking.
+  categories: community, info, video
+- link: "https://youtu.be/uK_ioljAXy0?t=187"
+  title: "EthStaker Community Call #14 - David Rugendyke"
+  description: David Rugendyke joins EthStaker to discuss what withdrawals to smart contracts mean for decentralized staking pools. 
+  categories: community, info, video
+- link: "https://youtu.be/-YdBslzHGec?t=1178"
+  title: Rocket Pool Quiz Game
+  description: An EthStaker quiz stream on Rocket Pool put together by the community.
+  categories: community, entertainment, video
+- link: "https://www.reddit.com/r/ethstaker/comments/ndtz6a/what_or_who_manages_rocketpool_withdrawal_keys/gye0ee2/"
+  title: Who Manages Keys
+  description: jcrtp on who manages the validator withdrawal keys.
+  categories: official, info
+- link: "https://www.reddit.com/r/ethstaker/comments/jtn2tx/examining_security_considerations_for_staking/"
+  title: Examining Security Considerations for Staking
+  description: Covers various threat vectors to secure your validator against.
+  categories: community
+- link: "https://www.reddit.com/r/ethstaker/comments/hmqpdu/staking_and_security/"
+  title: Staking and Security
+  description: Covers how you can secure your validator.
+  categories: community, info
+- link: "https://newsletter.banklesshq.com/p/how-ethereum-can-democratize-eth2"
+  title: Bankless Newsletter - How Ethereum Can Democratize ETH2 Staking
+  description: 
+  categories: community, info, article
+- link: "https://cryptobriefing.com/defi-project-spotlight-rocket-pool-staking-service-ethereum-2-0/"
+  title: Crypto Briefing - Defi Project Spotlight - Rocket Pool, Staking Service for Ethereum 2.0
+  description: 
+  categories: community, info, article
+- link: "https://academy.shrimpy.io/post/what-is-rocket-pool"
+  title: Shrimpy Academy - What Is Rocket Pool?
+  description: 
+  categories: community, info, article
+- link: "https://www.youtube.com/watch?v=cqf6aJCFZn8"
+  title: Bankless - Interview w/ CTO David Rugendyke
+  description: 
+  categories: community, info, video
+- link: "https://www.youtube.com/watch?v=JAatzA-QE10&t=516s"
+  title: Bankless - David Hoffman on RocketPool Mechanics
+  description: 
+  categories: community, info, video
+- link: "https://www.youtube.com/watch?v=8o-_Dw_qSfk&t=2607s"
+  title: EthHub Weekly - Why Rocketpool is Truly Decentralized
+  description: 
+  categories: community, info, video
+- link: "https://twitter.com/waqwaqattack/status/1593623311862358017"
+  title: Rocket Fuel
+  description: A daily summary of all the happenings in the Rocket Pool community.
+  categories: community, info, video
+- link: "https://rocketscan.io/"
+  title: Rocketscan Explorer
+  description: An explorer for minipools, nodes, queue, tvl, proposal snapshots, DAO info, and other stats.
+  categories: community, info, analysis, tools
+- link: "https://github.com/xrchz/rocketarb"
+  title: Rocket Arb
+  description: Arbitrage rETH mint/burn with minipool deposit/withdrawal.
+  categories: community, tools
+- link: "https://thegraph.com/explorer/subgraph?id=S9ihna8D733WTEShJ1KctSTCvY1VJ7gdVwhUujq4Ejo&view=Overview"
+  title: Rocket Pool Subgraph
+  description: Subgraphs to index rETH activity and provide historical rewards for the hourly rETH oracle snapshots.
+  categories: community, tools
+- link: "https://twitter.com/RocketPoolBot"
+  title: Rocket Pool Twitter Bot
+  description: A Twitter bot account that tweets network stats.
+  categories: community, info
+- link: "https://github.com/hitsuzen-eth/zigzag-mm-stable"
+  title: ZigZag rETH/ETH Market Maker Bot
+  description: Market making bot using on-chain rETH ratio to provide liquidity on ZkSync L2 thanks to ZigZag Exchange.
+  categories: community, tools
+- link: "https://www.youtube.com/watch?v=a9f8rxdpmb0"
+  title: The RPL Astronaut Cat by Antoine
+  description: Astronaut cat space meme video by Antoine on 21-May-2021.
+  categories: community, video, entertainment
+- link: "https://youtu.be/AhwRUZa6f5Y"
+  title: "'Twas the night before Rocket Pool"
+  description: Meme video by jtnichol.eth and u/GibsonStyle on 19-Apr-2021.
+  categories: community, video, entertainment
+- link: "https://www.reddit.com/r/ethstaker/comments/mtdggd/a_short_poem_created_for_my_friends_in_the_rocket/"
+  title: Rocket Pool Poem
+  description: 
+  categories: community, entertainment
+- link: "https://www.youtube.com/watch?v=zjK-aeMv8lc"
+  title: I Take Your Stakers
+  description: There Will Be Blood meme video by contraband.eth on 20-Feb-2022.
+  categories: community, video, entertainment
+- link: "https://www.youtube.com/watch?v=ZoojkpQ9bP0"
+  title: One Protocol to Rule Them All
+  description: Lord of the Rings meme video by contraband.eth on 18-Feb-2022.
+  categories: community, video, entertainment
+- link: "https://www.youtube.com/watch?v=5e73Lsdagzw"
+  title: RPL Cat Vibing to Rocket Pool Song
+  description: Meme video by antoine on 15-Nov-2021.
+  categories: community, video, entertainment
+- link: "https://medium.com/@fastcontract1/simplified-rocketpool-node-setup-5702886c8d8c"
+  title: Simplified Rocketpool Node Setup
+  description: Setting up a Rocket Pool node with the most commonly recommended hardware for staking.
+  categories: community, guides
+- link: "https://gm.xyz/c/RocketPool"
+  title: Rocket Pool GM.xyz Community
+  description: 
+  categories: community, general
+- link: "https://dune.xyz/KIV/Rocketpool"
+  title: Rocket Pool KIV Dune Dashboard
+  description: A Rocket Pool overview dashboard that tracks and displays various network metrics.
+  categories: community, tools, analysis
+- link: "http://wagyu.gg/"
+  title: Wagyu Key Generator
+  description: Wagyu is a graphical key generation tool developed by StakeHouse.
+  categories: community, tools
+- link: "https://bignutschannel.medium.com/reth-is-the-new-weth-ef02a62edc59"
+  title: rETH is the new wETH
+  description: Bighands makes a case for rETH to replace wETH in defi.
+  categories: community, article
+- link: "https://mirror.xyz/dabdab.eth/udO6ovzWGglr7KMBSFHS8hy7_q9ORvZReetYvUCh3ho"
+  title: LSD Insurance, Illustrated
+  description: A visual overview of the insurance protection behind popular Liquid Staking Derivatives (LSDs).
+  categories: community, article

@@ -1,0 +1,142 @@
+# # link = link to comment launching the raffle, must be a main channel comment (links to thread comments don't work!)
+# # entries = list the winner as the first entry
+
+# Template to copy for new entries
+# - contest: 
+#   description: 
+#   link: 
+#   date: 
+#   reward: 
+#   results_img: assets/img/contests/
+#   results_url: 
+#   entries: 
+#     - img_url: assets/img/contests/
+#       creator: 
+
+
+# new contest contest
+# https://discord.com/channels/405159462932971535/405163713063288832/898024839716159498
+
+# "WhyIRocketPool" video contest
+# https://discord.com/channels/405159462932971535/405163713063288832/895024828363456533
+
+
+# Post new entries at the top of the list
+- contest: StakeWise + Rocket Pool Disclosure Appreciation POAP Design
+  description: A POAP design contest to show StakeWise our appreciation for being bros and disclosing a vulnerability in Rocket Pool.
+  link: https://discord.com/channels/405159462932971535/405163713063288832/895045863112581141
+  date: 05-Oct-2021
+  reward: 25 RPL
+  results_img: assets/img/contests/stakewise-disclosure-appreciation/results.png
+  results_url: https://discord.com/channels/405159462932971535/895045863112581141/896549123132653570
+  entries: 
+    - img_url: assets/img/contests/stakewise-disclosure-appreciation/odapnut.png
+      creator: odapnut # winner
+    - img_url: assets/img/contests/stakewise-disclosure-appreciation/hanniabu.png
+      creator: hanniabu
+    - img_url: assets/img/contests/stakewise-disclosure-appreciation/woh.png
+      creator: woh
+- contest: Mainnet First 24hr rETH Holders POAP Design
+  description: A POAP design contest for all rETH holders within the first 24hrs of mainnet launch.
+  link: https://discord.com/channels/405159462932971535/405163713063288832/894316414003974224
+  date: 03-Oct-2021
+  reward: 25 RPL
+  results_img: assets/img/contests/first-24hr-reth-holders/first-24hr-reth-holders-results.png
+  results_url: https://discord.com/channels/405159462932971535/894316414003974224/894726939015794809
+  entries: 
+    - img_url: assets/img/contests/first-24hr-reth-holders/first-24hr-reth-holder--Xirynx.png
+      creator: Xirynx # winner
+    - img_url: assets/img/contests/first-24hr-reth-holders/first-24hr-reth-holder--odapnut.gif
+      creator: logicbeach.eth
+    - img_url: assets/img/contests/first-24hr-reth-holders/first-24hr-reth-holder--logicbeach.eth.gif
+      creator: odapnut
+    - img_url: assets/img/contests/first-24hr-reth-holders/first-24hr-reth-holder--DaserDog.eth.png
+      creator: DaserDog.eth
+    - img_url: assets/img/contests/first-24hr-reth-holders/first-24hr-reth-holder--Antoine.jpg
+      creator: Antoine
+    - img_url: assets/img/contests/first-24hr-reth-holders/first-24hr-reth-holder--sleety.png
+      creator: sleety
+- contest: Patricio Worthalter Appreciation POAP Design
+  description: A POAP design contest to show gratitude for Patricio Worthalter's contributions to POAP and Rocket Pool which have sown the seeds to a brighter web3 future.
+  link: https://discord.com/channels/405159462932971535/405163713063288832/890800063385858089
+  date: 23-Sep-2021
+  reward: 25 RPL
+  results_img: assets/img/contests/worthalter-appreciation/worthalter-appreciation-results.png
+  results_url: https://discord.com/channels/405159462932971535/890800063385858089/894726984251346954
+  entries: 
+    - img_url: assets/img/contests/worthalter-appreciation/worthalter-appreciation--CVJoint.png
+      creator: CVJoint # winner
+    - img_url: assets/img/contests/worthalter-appreciation/worthalter-appreciation--woh.png
+      creator: woh
+    - img_url: assets/img/contests/worthalter-appreciation/worthalter-appreciation--DrDoofus.gif
+      creator: DrDoofus
+    - img_url: assets/img/contests/worthalter-appreciation/worthalter-appreciation--Antoine.png
+      creator: Antoine
+# entries pic
+# https://cdn.discordapp.com/attachments/888891692432883712/894311796201099294/nodeop.png
+- contest: Mainnet First 24hr Node Operators POAP Design
+  description: A POAP design contest for all node operators within the first 24hrs of mainnet launch.
+  link: https://discord.com/channels/405159462932971535/405163713063288832/888891692432883712
+  date: 18-Sep-2021
+  reward: 25 RPL
+  results_img: assets/img/contests/first-24hr-node-operators/first-24hr-node-operators-results.png
+  results_url: https://discord.com/channels/405159462932971535/888891692432883712/894311761329655879
+  entries: 
+    - img_url: assets/img/contests/first-24hr-node-operators/first-24hr-node-operators--woh.png
+      creator: woh # winner
+    - img_url: assets/img/contests/first-24hr-node-operators/first-24hr-node-operators--Tellies.eth.gif
+      creator: Tellies.eth
+    - img_url: assets/img/contests/first-24hr-node-operators/first-24hr-node-operators--RPLgrime.gif
+      creator: RPLgrime
+    - img_url: assets/img/contests/first-24hr-node-operators/first-24hr-node-operators--danolovescomedy.png
+      creator: danolovescomedy
+# entries pic
+# https://cdn.discordapp.com/attachments/887098909233660014/887740377958846484/POAP_Submissions.gif
+- contest: Superphiz Wins Raffle POAP Design
+  description: Superphiz (along with Worthalter) started an initiative for a raffle a day until mainnet launch. He won one of the raffles and decided to create a contest to design a POAP showing his victory and will pass along his raffle winnings to the contest winner.
+  link: https://discord.com/channels/405159462932971535/405163713063288832/887092550954020904
+  date: 13-Sep-2021
+  reward: 25 RPL
+  results_img: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle-results.png
+  results_url: https://www.supersurvey.com/results3876588xec7d4631-122#tab-2
+  entries: 
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--Xirynx.png
+      creator: Xirynx # winner
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--RPLgrime.gif
+      creator: RPLgrime
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--danolovescomedy.png
+      creator: danolovescomedy
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--rare_bunny.png
+      creator: rare_bunny
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--BrassLion.png
+      creator: BrassLion
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--a35u.png
+      creator: a35u
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--Dolfin.png
+      creator: Dolfin
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--DaserDog.eth.gif
+      creator: DaserDog.eth
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--HeuRea.png
+      creator: HeuRea
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--Mosson.png
+      creator: Mosson
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--relics.png
+      creator: relics
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--DrDoofus.png
+      creator: DrDoofus
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--logicbeach.eth.png
+      creator: logicbeach.eth
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--brentmw1.png
+      creator: brentmw1
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--Mike-Friend.png
+      creator: Mike Friend
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--woh.png
+      creator: woh
+    - img_url: assets/img/contests/superphiz-wins-raffle/superphiz-wins-raffle--All-Love.png
+      creator: All Love
+
+
+
+
+
+

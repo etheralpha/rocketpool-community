@@ -1,0 +1,109 @@
+# # type options = official, community
+# # date = yyyy-mm-dd
+
+# Template to copy for new entries
+# - link: 
+#   title: 
+#   img_url: 
+#   type: community
+#   creator: 
+#   date: 
+
+
+# Post new entries at the top of the list
+- link: https://opensea.io/assets/ethereum/0x0447433bd197f03be984a6053241ae8d347c5539/22
+  title: "Logic_Bots #046"
+  img_url: https://openseauserdata.com/files/f6c8f571cc5041e88aab9e0487fd8cfc.mp4#t=0.001
+  type: community
+  creator: Logic_Bots (logicbeach)
+  date: 2022-09-10
+- link: https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/1498634130824965807760549356634015713101449331146104764185934655420582854657
+  title: "Logic_Bots #007"
+  img_url: https://i.seadn.io/gae/jI3Vx-WviBFAYz7oBvIuagmpCz_ywVTKZqhgVdixZvaz_2XVoHTYQsast1sWmVLC4HeuZwRx-TOx4jel6EVPXYLGv9H3Fx3LJ6hJQA?auto=format&w=1000
+  type: community
+  creator: Logic_Bots (logicbeach)
+  date: 2022-08-02
+- link: https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/1498634130824965807760549356634015713101449331146104764185934654321071226881
+  title: "Logic_Bots #006"
+  img_url: https://i.seadn.io/gae/muyA-FLagHyLYXJCpUvg-AbdWDw_bEKkLMruYP45xFEgo4LbYpFxAqZzlhMtmQBQg43yRtAV_FYG6LNn1hMH3Vhkqwi4gpzWfyMUSA?auto=format&w=1000
+  type: community
+  creator: Logic_Bots (logicbeach)
+  date: 2022-08-01
+- link: https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/1498634130824965807760549356634015713101449331146104764185934652122047971329
+  title: "Logic_Bots #004"
+  img_url: https://i.seadn.io/gae/x-kcxd9XskuAGxy83VjMEou8Rx0Y8Vs-ioVz7TluXPGNKwaOQXeS54nZ31zOoJ5w06AkARlAzYHGEYZ9w6NosTLkHpGkr1PxrvZD?auto=format&w=1000
+  type: community
+  creator: Logic_Bots (logicbeach)
+  date: 2022-07-30
+- link: https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/1498634130824965807760549356634015713101449331146104764185934649923024715777
+  title: "Logic_Bots #002"
+  img_url: https://i.seadn.io/gae/g8_HT35ipBNo999XnmK3vEIuQ9hF-X21tqzqpnDXeIlTbbV8AoKu3zZc_GMEpMN_OwlHpAslsmR2Rr3rNrrBJYvvTFTaq8_uKYek?auto=format&w=1000
+  type: community
+  creator: Logic_Bots (logicbeach)
+  date: 2022-07-28
+- link: https://opensea.io/collection/the-rocketeers
+  title: Rocketeer Collection
+  img_url: ./../assets/img/nfts/rocketeer.jpg
+  type: community
+  creator: Mentor, Unvetica.eth
+  date: 2021-10-30
+- link: https://opensea.io/assets/0x196f7e9c5769fc777909a3f1b9bd65959f3f64fb/13
+  title: Rocket Hoot
+  img_url: https://lh3.googleusercontent.com/i9MeMZT6BXFqmIc9jgQ3wa1P88fQESzkCvghcBa3ERVD9mPegG5n1PwnQmJvB7MDHOjzMSau19c-F23ebV6LkC9m_oeXjtm-4UCxPg=w600
+  type: community
+  creator: CryptoHoots
+  date: 2021-10-02
+- link: https://fractional.art/vaults/0x21d722c340839751d23a4fb5b6d5e593f8cc82eb
+  title: The Rocket Pool Investment Thesis
+  img_url: https://lh3.googleusercontent.com/un5IUNVgvBvlzflZuQhd-e7XqxO3xV6nStDue_PuTUBLhnAm0UTuR3L5ymd96UliiJJNJ4xoJ1Rw0Cukkb_dEPbXuwlzxJVMQ1jHHg
+  type: community
+  creator: Xer0.eth
+  date: 2021-09-19
+- link: https://opensea.io/assets/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405/86982
+  title: Rocketpool Launch
+  img_url: https://lh3.googleusercontent.com/xO6kRrjyftHhYtmlrtLv0C45LWLIG8Lbsqn11qsb50VN1lWDZU03QGHVVZ6QTVU08HdzNSTumkEQA_Ss8p1UVrsQBQsg0EroLuGELQ=w600
+  type: community
+  creator:  0xaa03...9cbb
+  date: 2021-09-17
+- link: https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/96129998969912462137778268587289341497735997200391530094332860963756145901578
+  title: POOL OF ROCKETS
+  img_url: https://openseauserdata.com/files/d40c4474035213e6a41a876c618001e3.mp4#t=0.001
+  type: community
+  creator: CRYPTO MEDALLIONS (relic)
+  date: 2021-09-09
+- link: https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/96129998969912462137778268587289341497735997200391530094332860964855657529354
+  title: ROCKET OF POOLS
+  img_url: https://openseauserdata.com/files/cbd8e501631fb83fd6a7912918fd91b0.mp4#t=0.001
+  type: community
+  creator: CRYPTO MEDALLIONS (relic)
+  date: 2021-09-09
+- link: https://nifty.ink/ink/QmVv1YwzRrebLbqtnF4g4EU7HuegvEv6cc3BazHDZj1U6d
+  title: rc7 notes
+  img_url: https://ipfs.io/ipfs/QmXwb2AnUUidXTUurGzAWotP1nmwJfCRNoZE69CWeaKs3m
+  type: community
+  creator:  danielyse.eth
+  date: 2021-08-28
+- link: https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/114827276430744365964080031798046095258594516027999004825097402771873365753857/
+  title: RPL TO DA MOON!
+  img_url: https://lh3.googleusercontent.com/ljyRv3vEwvDwCjHU12EzvGqZGqs8LbbAhF360tcXIUNBJAbGnsS5xU-GY6quQHrUHQghA6clW0jXstJ6sc3FEaFnNsv1nGCmfQaaJA=w600
+  type: community
+  creator: UndertakerW
+  date: 2021-08-24
+- link: https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:616546
+  img_url: https://lh3.googleusercontent.com/FgTOWTW2A4oqbFZbrl1JCOMcctmW4WaRxUWMjBu0jGDlIg5CMvcZ6lGHnqT-vg2pOZ4x730P9N9yPKk1MT3kNIGWGs7pOQHjfRA62zE=s1000
+  title: Rocket Pool Decentralization Poster
+  type: community
+  creator: RavenFromIvo, Unvetica.eth
+  date: 2021-06-17
+- link: https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:935328?tab=details
+  title: RPL Moon Mission
+  img_url: https://lh3.googleusercontent.com/7ydy0VVS0_hJ3VhFfBVO_excB-x2GUjfIHmCA7xmFcJcJnDeoBJlH8aJU_Da8AfZV_4yZkb2qiRQP4rgd1ynxs44n7dOo8f4C1oC_w
+  type: community
+  creator: logicbeach.eth
+  date: 2021-05-03
+- link: https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:189173
+  title: Rocketsocks
+  img_url: https://assets.raribleuserdata.com/prod/v1/image/t_image_big/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1WeHRpV2t5OENXa3hvNmtUUVp1aWR0OFJFeDJqYkRvTHREOVlWcmRvd2RIOC9pbWFnZS5wbmc=
+  type: community
+  creator: Rocketsocks # 0xPenguin0X
+  date: 2021-03-02

@@ -1,0 +1,26 @@
+# Read about configuration here: https://jekyllrb.com/docs/configuration/options/
+title: Rocket Pool Community Site
+description: A community site for useful links, info, tools, and resources.
+keywords: rocketpool, community, rocket, pool, rpl, staking, eth, ethereum
+url: https://rocketpool.community
+permalink: pretty # Do not change this, it will break all links
+timezone: America/New_York
+markdown: kramdown
+livereload: true
+port: 4400
+
+# Plugins
+plugins: 
+- jekyll-sitemap
+- liquify
+
+
+# Links
+discord_invite: https://discord.gg/rocketpool
+repo: https://github.com/etheralpha/rocketpool-community
+general_form: https://docs.google.com/forms/d/e/1FAIpQLSc_QzKzh1jzgl3MkcvvFpBq5dMUUAMW9LiMvJuZQkXpYPQTHw/viewform
+feedback_form: https://docs.google.com/forms/d/1nSgZo-c3XsJ-WoDuiCWM1jMCn3rFgQoomnFTxzJUaBA/viewform
+
+# Buy RPL
+matcha: https://matcha.xyz/markets/1/0xb4efd85c19999d84251304bda99e90b92300bd93/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+uniswap: https://app.uniswap.org/#/swap?outputCurrency=0xb4efd85c19999d84251304bda99e90b92300bd93

@@ -1,0 +1,53 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-md-center" id="navbarSupportedContent">
+      <ul class="navbar-nav mms-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link me-3" href="/">Home</a>
+        </li>
+        <li class="nav-item dropdown me-3">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Menu
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            {%- for page in site.html_pages -%}
+              {%- assign base_page = page.permalink | split: "/" | size -%}
+              {%- if base_page == 2 and page.permalink != "/404/" -%}
+                {%- assign page_name = page.permalink | remove: "/" | replace: "-", "% " -%}
+                {%- assign words = page_name | split: ' ' -%}
+                {%- capture titlecase -%}
+                  {%- for word in words -%}
+                    {{ word | capitalize }}
+                  {%- endfor -%}
+                {%- endcapture -%}
+                <li><a class="dropdown-item" href="{{page.permalink}}">{{titlecase | replace: "Poap", "POAP" | replace: "Nft", "NFT" | replace: "Rpl", "RPL" | replace: "%", " "}}</a></li>
+              {%- endif -%}
+            {%- endfor -%}
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link me-3" href="/contribute">Contribute</a>
+        </li>
+        <li class="nav-item dropdown me-3">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Follow
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="{{site.discord_invite}}">Discord</a></li>
+            <li><a class="dropdown-item" href="https://twitter.com/Rocket_Pool">Twitter</a></li>
+            <li><a class="dropdown-item" href="https://medium.com/rocket-pool">Medium</a></li>
+            <!-- <li><a class="dropdown-item" href="https://t.me/rocketpoolnews">Telegram</a></li> -->
+            <li><a class="dropdown-item" href="https://www.reddit.com/r/rocketpool">Reddit</a></li>
+            <li><a class="dropdown-item" href="https://t.me/rocketpoolnews">Telegram</a></li>
+            <li><a class="dropdown-item" href="https://github.com/rocket-pool/rocketpool">Github</a></li>
+            <li><a class="dropdown-item" href="https://dao.rocketpool.net/">Forum</a></li>
+          </ul>
+        </li>
+      </ul>
+      <a class="btn btn-dark" href="{{site.discord_invite}}">Chat</a>
+    </div>
+  </div>
+</nav>

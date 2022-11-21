@@ -1,0 +1,43 @@
+# # type options = official, community
+# # date = dd-Mon-yyyy
+
+# Template to copy for new entries
+# - link: 
+#   title: 
+#   author: 
+#   date: 
+
+
+# Post new entries at the top of the list
+- link: https://mirror.xyz/jasperthefriendlyghost.eth/pnaLyH6W4j58vfypsOKHciF_BM5HFvTkouTd9uThesM
+  title: How rETH Will Flip stETH
+  author: jasperthefriendlyghost.eth
+  date: 11-Nov-2022
+- link: https://mirror.xyz/0x04BEE613690e98A1959F236c38AbAa5f2439B14a/CvGJPdUZ7Fnnpa8DsEXtL-W4FxoBoublwsmN-Im0kfg
+  title: The Rocket Pool Layer Zero Bull Case
+  author: jasperthefriendlyghost.eth
+  date: 03-Oct-2022
+- link: https://drive.google.com/file/d/1JXXM-QjGMXItLujUOjSb8q7pBzb6C7Md/view
+  title: Accelerating Validator Returns Using Rocket Pool
+  author: Evan Jones
+  date: 01-Apr-2022
+- link: https://www.reddit.com/r/ethfinance/comments/qwbb8w/rocket_pool_investment_thesis_20/
+  title: Rocket Pool Investment Thesis 2.0
+  author: Xer0.eth
+  date: 17-Nov-2021
+- link: https://tokenomicsexplained.com/rpl/
+  title: LogrisTheBard RPL Tokenomics
+  author: LogrisTheBard
+  date: 17-Nov-2021
+- link: /thesis/boodle
+  title: The Rocket Pool Investment Thesis, Round 3
+  author: boodle
+  date: 13-Mar-2021
+- link: /thesis/PSY_TWEAK
+  title: Rocket Pool Investment Thesis, Speculative Edition
+  author: PSY_TWEAK
+  date: 13-Mar-2021
+- link: /thesis/Xer0
+  title: The Rocket Pool Investment Thesis
+  author: Xer0.eth
+  date: 12-Mar-2021

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+  {%- include partials/head.html -%}
+  <body class="d-flex flex-column h-100">
+    {%- include partials/notification.html -%}
+    {%- include partials/nav.html -%}
+    {{ content }}
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <!-- Custom JS -->
+    <script src="/assets/js/main.js" type="application/javascript"></script>
+  </body>
+</html>

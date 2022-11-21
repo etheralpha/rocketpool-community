@@ -1,0 +1,226 @@
+/*html {
+  position: relative;
+}
+html::before {
+  content: "";
+  background-image: url("/assets/img/other/bg-pattern.png");
+  background-repeat: repeat;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.04;
+} 
+body {
+  position: relative;
+}
+blockquote {
+  margin: 10px;
+  padding-left: 1.15rem;
+  border-left: 5px solid #dadada;
+  font-size: 1rem !important;
+}
+footer {
+  background: none;
+}*/
+
+
+
+.trans-grid-bg {
+  width: 100%;
+  height: 100%;
+  background-image: repeating-linear-gradient(#eee 0 8px, transparent 0 16px), repeating-linear-gradient(90deg, #eee 0 8px, transparent 0 16px);
+    background-blend-mode: screen;
+}
+
+
+.bg-orange {
+  background-color: #f97316;
+}
+.bg-baby-blue {
+  background-color: #89CFF0;
+}
+.bg-baby-pink {
+  background-color: #f8b9d4;
+}
+.bg-balancer {
+  background-color: #384AFF;
+}
+.bg-bankless {
+  background-color: #ff0000;
+}
+.bg-dailygwei {
+  background-color: plum;
+}
+.bg-ethstaker {
+  background-color: deeppink;
+}
+.bg-poap {
+  /*background-color: slateblue;*/
+  background-color: #8076fa;
+}
+.bg-rari {
+  background-color: #41c345;
+}
+.bg-sushi {
+  /*background-color: violet;*/
+  background-color: #B93CF6;
+}
+.bg-reddit {
+  background-color: #ff4500;
+}
+.bg-zapper {
+  background-color: #784ffe;
+}
+.bg-bancor {
+  background-color: #10bbd5;
+}
+.bg-tally {
+  background-color: #ef9c32;
+}
+.bg-gitpoap {
+  background-color: #1971c2;
+}
+.bg-ens {
+  background-color: #5298FF;
+}
+
+
+.border-pink {
+  border: 5px solid #f8b9d4;
+  border-radius: 100%;
+}
+.border-blue {
+  border: 5px solid #89CFF0;
+  border-radius: 100%;
+}
+
+
+.btn-primary {
+  background-color: #f97316;
+  border-color: #f97316;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #e87526;
+  border-color: #e87526;
+}
+
+.btn-outline-primary {
+  background-color: #fff;
+  border-color: #f97316 !important;
+  color: #f97316;
+}
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  border-color: #e87526 !important;
+  background-color: #e87526;
+  color: #fff;
+}
+
+.btn-outline-thirdary {
+  background-color: #fff;
+  color: #6c757d;
+  border-color: #6c757d;
+}
+.btn-outline-thirdary:hover,
+.btn-outline-thirdary:focus {
+  border-color: #e87526 !important;
+  background-color: #e87526;
+  color: #fff;
+}
+
+
+
+.link-disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+  color: currentColor;
+  display: inline-block;  /* For IE11/ MS Edge bug */
+  pointer-events: none;
+  text-decoration: none;
+}
+
+
+.placeholder-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+  width: 12rem;
+}
+
+
+
+#notification {
+  position: fixed;
+  z-index: 101;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #f8f9fa;
+  color: #000;
+  text-align: center;
+  overflow: hidden;
+  box-shadow: 0 0 5px rgba(100, 100, 100, 0.5);
+  display: none;
+}
+#notificationClose {
+  position: absolute;
+  right: 10px;
+  height: 100%;
+  top: 50%;
+  transform: translateY(-18%);
+  cursor: pointer;
+}
+#notification a {
+  color: #000;
+}
+
+
+
+#pets .owner {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.leaderboard-table {
+  max-width: 400px;
+  margin: auto;
+}
+.leaderboard-table {
+}
+.leaderboard-table tr:hover {
+  /*background-color: #f8f9fa;*/
+}
+
+
+
+/*
+#comparisons table thead tr th:nth-child(2),
+#comparisons table tbody tr td:nth-child(2) {
+  background-color: rgb(249, 130, 48, 0.4) !important;
+  background-color: rgba(180, 242, 157, 0.3) !important;
+}
+#comparisons table .row-header {
+  background-color: rgba(136, 136, 136, 0.1);
+}
+#comparisons .compare-x {
+  color: red;
+  font-size: 0.7em;
+}
+#comparisons .compare-check {
+  color: green;
+}
+#comparisons .compare-qmark {
+  color: grey;
+}
+*/
+
+
+
+
+
