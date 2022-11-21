@@ -106,7 +106,6 @@ permalink: /memes/
             <img id="modalImg" src="" class="card-img-top mx-auto" style="max-width: auto; object-fit: contain; display: none">
             <video id="modalVid" style="height: 12rem; object-fit: contain; display: none" controls>
               <source id="modalVidSrc" src="" type="video/mp4">
-                <!-- http://localhost:4400/assets/img/memes/videos/2021-02-21--contraband--a.mp4 -->
             </video>
           </div>
           <div class="mb-3">
