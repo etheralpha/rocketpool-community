@@ -11,7 +11,7 @@ buttons:
 ---
 
 
-RPL is only accessible on decentralized exchanges (DEXes). This guide will show you the best ways to go about purchasing RPL while getting the best price.
+While RPL can be bought on a CEX like [Kraken](https://www.kraken.com/prices/rocket-pool?quote=usd) and [MEXC](https://www.mexc.com/tokens/RPL), we like to encourage users to be self-sovereign and buy through a DEX. This guide will show you the best ways to go about purchasing RPL on a DEX while getting the best price.
 
 
 
