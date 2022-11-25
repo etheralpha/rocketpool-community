@@ -22,7 +22,7 @@ layout: default
       <a href="arcade" class="btn btn-outline-dark btn-lg px-4 m-1">Arcade</a>
       <a href="bookmarks" class="btn btn-outline-dark btn-lg px-4 m-1">Bookmarks</a>
       <a href="raffles" class="btn btn-outline-dark btn-lg px-4 m-1">Raffles</a>
-      <a href="videos" class="btn btn-outline-dark btn-lg px-4 m-1 link-disabled">Videos</a>
+      <a href="videos" class="btn btn-outline-dark btn-lg px-4 m-1">Videos</a>
       <a href="pets" class="btn btn-outline-dark btn-lg px-4 m-1">Pets</a>
       <a href="audits" class="btn btn-outline-dark btn-lg px-4 m-1">Audits</a>
   </div>

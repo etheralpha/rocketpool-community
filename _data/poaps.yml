@@ -21,6 +21,16 @@
 
 
 # Post new entries at the top of the list
+- id: 84799
+  link: https://poap.gallery/event/84799
+  img_url: https://assets.poap.xyz/oasis-twitter-space-w2frocket-pool-and-makerdao-2022-logo-1669208591841.png
+  title: Oasis Twitter Space w/Rocket Pool and MakerDAO
+  description: rETH is now accepted as collateral on MakerDAO. You can access it through Oasis.app!
+  desc_url: https://oasis.app/#multiply
+  date: 23-Nov-2022
+  supply: 46
+  creator: Oasis
+  type: oasis
 - id: 84325
   link: https://poap.gallery/event/84325
   img_url: https://assets.poap.xyz/rocket-pool-celebrates-one-year-on-mainnet-2022-logo-1668907383272.png
@@ -28,7 +38,7 @@
   description: Rocket Pool launched on November 8, 2021 after several years of development and exhaustive audits. A year later, Rocket Pool is still the only open source, trustless, decentralized, open source, and permissionless staking platform available in the Ethereum ecosystem. Rocket Pool is widely regarded as the fractional staking platform that is most closely aligned with the core values of Ethereum and we're all looking forward to a successful future! POAP image by designatum.eth#8180 through popapathon.com, poap developed by superphiz. Recipients of this POAP are known Rocket Pool community members who contributed $5 to the Rocket Pool Grants and Bounties management committee.
   desc_url: https://medium.com/rocket-pool/rocket-pool-our-first-birthday-8c40e12240c4
   date: 08-Nov-2022
-  supply: 30
+  supply: 168
   creator: designatum.eth
   type: community
 - id: 139862
@@ -48,7 +58,7 @@
   description: After a hard week and the first truly contentious vote in the RP community, which included losing a well liked member, we all needed a reminder of who we are and what we're about. Just when we needed a hero, instead LookingForOwls returned to remind us to be excellent to each other and not take some of these things too personally or seriously, like we were in the olden days before launch.
   desc_url: 
   date: 01-Nov-2022
-  supply: 57
+  supply: 59
   creator: DrDoofus
   type: community
 - id: 73812
@@ -58,7 +68,7 @@
   description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
   desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
   date: 08-Oct-2022
-  supply: 0
+  supply: 3
   creator: mao
   type: community
 - id: 73811
@@ -68,7 +78,7 @@
   description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
   desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
   date: 08-Oct-2022
-  supply: 0
+  supply: 1
   creator: mao
   type: community
 - id: 73810
@@ -78,7 +88,7 @@
   description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
   desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
   date: 08-Oct-2022
-  supply: 0
+  supply: 1
   creator: mao
   type: community
 - id: 73809
@@ -88,7 +98,7 @@
   description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
   desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
   date: 08-Oct-2022
-  supply: 0
+  supply: 1
   creator: mao
   type: community
 - id: 73808
@@ -98,7 +108,7 @@
   description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
   desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
   date: 08-Oct-2022
-  supply: 0
+  supply: 1
   creator: mao
   type: community
 - id: 73807
@@ -108,7 +118,7 @@
   description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
   desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
   date: 08-Oct-2022
-  supply: 0
+  supply: 1
   creator: mao
   type: community
 - id: 73806
@@ -118,7 +128,7 @@
   description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
   desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
   date: 08-Oct-2022
-  supply: 0
+  supply: 1
   creator: mao
   type: community
 - id: 73803
@@ -128,7 +138,7 @@
   description: "Thanks for bringing out your node with Rocket Pool!<br><br>This is part of a series of ten #BringOutYourNodes commemorative POAPs"
   desc_url: https://medium.com/rocket-pool/rocket-pool-bring-out-your-nodes-9d67ebca70bd
   date: 08-Oct-2022
-  supply: 0
+  supply: 1
   creator: mao
   type: community
 - id: 70517
