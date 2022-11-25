@@ -8,6 +8,12 @@
 
 
 # Post new entries at the top of the list
+- name: Koshka
+  img_url: assets/img/pets/0xmeek.eth-koshka.png
+  owner: 0xmeek.eth
+  sex: male
+  type: cat
+  breed: Domestic Shorthair
 - name: Ruby
   img_url: assets/img/pets/cvjoint-ruby.png
   owner: CVJoint

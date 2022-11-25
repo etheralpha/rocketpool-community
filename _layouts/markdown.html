@@ -2,7 +2,12 @@
 <html lang="en" class="h-100">
   {%- include partials/head.html -%}
   <body class="d-flex flex-column h-100">
-    {%- include partials/notification.html -%}
+    {%- if site.enableNotification == true -%}
+      {%- include partials/notification.html -%}
+    {%- endif -%}
+    {%- if site.enableToast == true -%}
+      {%- include partials/toast.html -%}
+    {%- endif -%}
   	{%- include partials/nav.html -%}
 
 
@@ -65,17 +70,26 @@
   	<script src="/assets/js/main.js" type="application/javascript"></script>
     {%- case page.name -%}
       {%- when "revenue.md" -%}
-         <script src="/assets/js/revenue.js" type="application/javascript"></script>
+        <script src="/assets/js/revenue.js" type="application/javascript"></script>
       {%- when "poaps.md" -%}
-         <script src="/assets/js/poaps.js" type="application/javascript"></script>
+        <script src="/assets/js/poaps.js" type="application/javascript"></script>
       {%- when "memes.md" -%}
-         <script src="/assets/js/memes.js" type="application/javascript"></script>
+        <script src="/assets/js/memes.js" type="application/javascript"></script>
+      {%- when "videos.md" -%}
+        <script src="/assets/js/memes.js" type="application/javascript"></script>
       {%- when "poap-graveyard.md" -%}
         <script src="/assets/js/poap-graveyard.js" type="application/javascript"></script>
       {%- when "bookmarks.md" -%}
         <script src="/assets/js/bookmarks.js" type="application/javascript"></script>
+      {%- when "resources.md" -%}
+        <script src="/assets/js/resources.js" type="application/javascript"></script>
       {%- when "contests.md" -%}
-         <!-- <script src="/assets/js/contests.js" type="application/javascript"></script> -->
+        <!-- <script src="/assets/js/contests.js" type="application/javascript"></script> -->
+      {%- when "memory.md" -%}
+        <script src="/assets/js/memory.js" type="application/javascript"></script>
+      {%- when "invader.md" -%}
+        <script src="/assets/js/invader-engine.js" type="application/javascript"></script>
+        <script src="/assets/js/invader-game.js" type="application/javascript"></script>
       {%- else -%}
     {%- endcase -%}
   </body>

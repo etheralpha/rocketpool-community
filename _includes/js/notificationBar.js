@@ -2,11 +2,9 @@ window.onload = showNotification();
 
 // Loads/shows notification bar if users hasn't closed it yet
 function showNotification() {
-  const close = document.getElementById("notificationClose");
-  const notificationId = close.getAttribute("data-notification-id");
-  const notificationName = "notification-" + notificationId;
-  const hide = localStorage.getItem(notificationName);
-  if (hide != "true") {
+  const notificationName = "notification-{{site.notificationMsgId}}";
+  const hideNotification = localStorage.getItem(notificationName);
+  if (hideNotification != "true") {
     const notification = document.getElementById("notification");
     notification.style.display = "block";
   }
@@ -15,8 +13,6 @@ function showNotification() {
 function hideNotification() {
   const notification = document.getElementById("notification");
   notification.style.display = "none";
-  const close = document.getElementById("notificationClose");
-  const notificationId = close.getAttribute("data-notification-id");
-  const notificationName = "notification-" + notificationId;
+  const notificationName = "notification-{{site.notificationMsgId}}";
   localStorage.setItem(notificationName, "true");
 }

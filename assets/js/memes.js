@@ -4,20 +4,20 @@
 var detailsModal = document.getElementById('detailsModal');
 const modal = new bootstrap.Modal(detailsModal);
 detailsModal.addEventListener('show.bs.modal', function (event) {
+  enablePlaceholder()
+
   // Button that triggered the modal
-  var button = event.relatedTarget;
+  let button = event.relatedTarget;
   // Extract info from data-bs-* attributes
-  var link = button.getAttribute('data-bs-link');
-  var title = link.split("memes/").pop();
+  let link = button.getAttribute('data-bs-link');
+  let title = link.split("memes/").pop();
   title = title.split("videos/").pop();
-  var date = button.getAttribute('data-bs-date');
-  var user = button.getAttribute('data-bs-user');
+  let date = button.getAttribute('data-bs-date');
+  let user = button.getAttribute('data-bs-user');
 
   document.getElementById("modalTitle").innerHTML = title;
   document.getElementById("modalDate").innerHTML = date;
   document.getElementById("modalUser").innerHTML = user;
-  // document.getElementById("modalRandom").innerHTML = "";
-
 
   if (link.includes(".mp4") || link.includes(".mov")) {
     document.getElementById("modalImg").src = "";
@@ -32,17 +32,15 @@ detailsModal.addEventListener('show.bs.modal', function (event) {
     document.getElementById("modalImg").src = link;
     document.getElementById("modalImg").style.display = "block";
   }
-})
 
-
-// Stop video when exiting modal
-detailsModal.addEventListener('hide.bs.modal', function (event) {
-  document.getElementById("modalVid").pause();
+  disablePlaceholder()
 })
 
 
 
 function showRandom() {
+  enablePlaceholder()
+
   // file.path item example: /assets/img/memes/2021-07-12--rsmall.zloty--b.jpg
   const siteUrl = "{{site.url}}";
   const file = fileArray[Math.floor(Math.random()*fileArray.length)];
@@ -55,7 +53,6 @@ function showRandom() {
   document.getElementById("modalTitle").innerHTML = filename;
   document.getElementById("modalDate").innerHTML = date;
   document.getElementById("modalUser").innerHTML = user;
-  // document.getElementById("modalRandom").innerHTML = `<a class="btn btn-dark" onclick="showRandom()">Random</a>`;
 
   if (path.includes(".mp4")) {
     document.getElementById("modalImg").src = "";
@@ -69,5 +66,30 @@ function showRandom() {
     document.getElementById("modalImg").style.display = "block";
   }
 
+  disablePlaceholder()
   modal.show();
+}
+
+
+
+// Stop video when exiting modal
+detailsModal.addEventListener('hide.bs.modal', function (event) {
+  document.getElementById("modalVid").pause();
+})
+
+
+
+function enablePlaceholder() {
+  document.getElementById("modalTitle").classList.add("placeholder");
+  document.getElementById("modalImg").classList.add("placeholder");
+  document.getElementById("modalVid").classList.add("placeholder");
+  document.getElementById("modalDateWrapper").classList.add("placeholder");
+  document.getElementById("modalUserWrapper").classList.add("placeholder");
+}
+function disablePlaceholder() {
+  document.getElementById("modalTitle").classList.remove("placeholder");
+  document.getElementById("modalImg").classList.remove("placeholder");
+  document.getElementById("modalVid").classList.remove("placeholder");
+  document.getElementById("modalDateWrapper").classList.remove("placeholder");
+  document.getElementById("modalUserWrapper").classList.remove("placeholder");
 }

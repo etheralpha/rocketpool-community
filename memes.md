@@ -95,7 +95,7 @@ permalink: /memes/
 <!-- Modal -->
 <div class="modal fade" id="detailsModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
-    <div class="modal-content">
+    <div id="modalContent" class="modal-content placeholder-glow">
       <div class="modal-header">
         <h5 id="modalTitle" class="modal-title"></h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -109,10 +109,10 @@ permalink: /memes/
             </video>
           </div>
           <div class="mb-3">
-            <p class="card-subtitle lh-1 text-muted"><small>Date: </small><small id="modalDate"></small></p>
+            <p id="modalDateWrapper" class="card-subtitle lh-1 text-muted"><small>Date: </small><small id="modalDate"></small></p>
           </div>
           <div class="mb-3">
-            <p class="card-subtitle lh-1 text-muted"><small>By: </small><small id="modalUser"></small></p>            
+            <p id="modalUserWrapper" class="card-subtitle lh-1 text-muted"><small>By: </small><small id="modalUser"></small></p>            
           </div>
         </form>
       </div>
