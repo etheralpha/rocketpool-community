@@ -2,7 +2,12 @@
 <html lang="en" class="h-100">
   {%- include partials/head.html -%}
   <body class="d-flex flex-column h-100">
-    {%- include partials/notification.html -%}
+    {%- if site.enableNotification == true -%}
+      {%- include partials/notification.html -%}
+    {%- endif -%}
+    {%- if site.enableToast == true -%}
+      {%- include partials/toast.html -%}
+    {%- endif -%}
   	{%- include partials/nav.html -%}
   	{{content}}
     {%- if page.permalink contains "arcade" -%}

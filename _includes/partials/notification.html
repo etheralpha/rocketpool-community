@@ -1,13 +1,12 @@
 <!-- Notification Bar -->
 <div id="notification" class="p-2 pe-4">
   <!-- 
-    When creating  new notification you must increase 
-    the "data-notification-id" value so it will show 
-    again for users that previously closed it 
+    When creating new notification you must increase 
+    the config.yml "notificationMsgId" value so it 
+    will show again for users that previously closed it 
   -->
   <span class="pe-2">
-    This is a community site.<br>
-    You can view official site <a href="https://rocketpool.net">here</a>.
+    {{site.notificationMsg}}
   </span>
-  <span id="notificationClose" data-notification-id="1" class="my-auto" onclick="hideNotification()">✕</span>
+  <span id="notificationClose" class="my-auto" onclick="hideNotification()">✕</span>
 </div>

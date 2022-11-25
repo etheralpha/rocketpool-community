@@ -24,3 +24,17 @@ feedback_form: https://docs.google.com/forms/d/1nSgZo-c3XsJ-WoDuiCWM1jMCn3rFgQoo
 # Buy RPL
 matcha: https://matcha.xyz/markets/1/0xb4efd85c19999d84251304bda99e90b92300bd93/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 uniswap: https://app.uniswap.org/#/swap?outputCurrency=0xb4efd85c19999d84251304bda99e90b92300bd93
+
+# Notification
+enableNotification: true
+notificationMsgId: 1 # must increment when creating a new message
+notificationMsg: This is a community site. <br>You can view official site <a href="https://rocketpool.net">here</a>.
+notificationExpiration: 3000000000 # epoch time in seconds
+
+# Toast
+enableToast: true
+toastMsgId: 1 # must increment when creating a new message
+toastTitle: Live Raffle!
+toastMsg: Did you claim a Rocket Pool Anniversary POAP? You might be eligible for an amazing raffle courtesy of the POAP team with 475 RPL in prizes! 🎉 
+toastLink: https://poap.fun/1938 # Optional, leave blank to omit
+toastExpiration: 1671127200 # epoch time in seconds
