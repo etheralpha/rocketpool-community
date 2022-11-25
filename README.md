@@ -122,3 +122,8 @@ This has been deprecated.
 
 
 
+
+## Site Setup
+This site is deployed from Netlify (account owned by hanniabu) whenever the main branch has new commits/PRs. 
+
+
