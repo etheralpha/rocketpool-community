@@ -40,6 +40,22 @@ permalink: /videos/
     <small>Did we miss one? <a href="{{site.general_form}}">Submit here</a></small>
   </p>
   <div class="row row-cols-auto justify-content-center">
+    {%- for video in site.data.resources | where: -%}
+      {%- assign description = video.description | downcase -%}
+      {%- if video.categories contains 'video' and video.categories contains "entertainment" and description contains "meme" and video.link contains "watch?v=" -%}
+        <div class="col d-flex align-items-stretch">
+          <div class="card mb-3" style="width: 12rem;">
+            {%- assign video_link = video.link | replace: "watch?v=", "embed/" -%}
+            <iframe width="190" height="192" src="{{video_link}}" title="YouTube video player" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-body d-flex align-items-start flex-column">
+              <a href="{{video.link}}" target="_blank">
+                <p class="card-subtitle lh-1 mt-2 text-muted mb-auto text-break"><small>{{video.description}}</small></p>
+              </a>
+            </div>
+          </div>
+        </div>
+      {%- endif -%}
+    {%- endfor -%}
     {%- assign months = site.data.months -%}
     {%- assign files_by_title = fileArray | sort_natural: "basename" | reverse -%}
     {%- for file in files_by_title -%}
