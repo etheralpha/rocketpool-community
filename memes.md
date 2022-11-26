@@ -44,6 +44,17 @@ permalink: /memes/
     {%- assign months = site.data.months -%}
     {%- assign files_by_title = fileArray | sort_natural: "basename" | reverse -%}
     {%- for file in files_by_title -%}
+        {%- assign pathSplit = file.basename -%}
+        {%- assign filename = pathSplit | split: "--" -%}
+        {%- assign date = filename[0] -%}
+        {%- assign date_split = date | split: "-" -%}
+        {%- assign date_year = date_split[0] | split: "--" -%}
+        {%- capture date_month_num -%}{{date_split[1] | split: "--"}}{%- endcapture -%}
+        {%- assign date_month_data = months | where: "month_num", date_month_num -%}
+        {%- capture date_month -%}{%- for month in date_month_data -%}{{ month.name_short }}{%- endfor -%}{%- endcapture -%}
+        {%- assign date_day = date_split[2] | split: "--" -%}
+        {%- capture date_readable -%}{{ date_day }}-{{ date_month }}-{{ date_year }}{%- endcapture -%}
+        {%- assign user = filename[1] | replace: "-", " "  -%}
         <div class="col d-flex align-items-stretch">
           <div class="card mb-3" style="width: 12rem;">
             {%- if file.extname == ".mp4" -%}
@@ -60,17 +71,6 @@ permalink: /memes/
                 data-bs-user="{{user}}">
             {%- endif -%}
             <div class="card-body d-flex align-items-start flex-column">
-              {%- assign pathSplit = file.basename -%}
-              {%- assign filename = pathSplit | split: "--" -%}
-              {%- assign date = filename[0] -%}
-              {%- assign date_split = date | split: "-" -%}
-              {%- assign date_year = date_split[0] | split: "--" -%}
-              {%- capture date_month_num -%}{{date_split[1] | split: "--"}}{%- endcapture -%}
-              {%- assign date_month_data = months | where: "month_num", date_month_num -%}
-              {%- capture date_month -%}{%- for month in date_month_data -%}{{ month.name_short }}{%- endfor -%}{%- endcapture -%}
-              {%- assign date_day = date_split[2] | split: "--" -%}
-              {%- capture date_readable -%}{{ date_day }}-{{ date_month }}-{{ date_year }}{%- endcapture -%}
-              {%- assign user = filename[1] | replace: "-", " "  -%}
               <p class="card-subtitle lh-1 mt-1 text-muted"><small>{{date_readable}}</small></p>
               <p class="card-subtitle lh-1 mt-2 text-muted mb-auto text-break"><small>{{user}}</small></p>
               <div>

@@ -4,7 +4,7 @@
 var detailsModal = document.getElementById('detailsModal');
 const modal = new bootstrap.Modal(detailsModal);
 detailsModal.addEventListener('show.bs.modal', function (event) {
-  enablePlaceholder()
+  enablePlaceholder();
 
   // Button that triggered the modal
   let button = event.relatedTarget;
@@ -33,13 +33,22 @@ detailsModal.addEventListener('show.bs.modal', function (event) {
     document.getElementById("modalImg").style.display = "block";
   }
 
-  disablePlaceholder()
+  let img = document.getElementById("modalImg");
+  if (img.complete) {
+    disablePlaceholder();
+  } else {
+    img.addEventListener('load', disablePlaceholder);
+    img.addEventListener('error', function() {
+      disablePlaceholder();
+      console.log('error loading image');
+    });
+  }
 })
 
 
 
 function showRandom() {
-  enablePlaceholder()
+  enablePlaceholder();
 
   // file.path item example: /assets/img/memes/2021-07-12--rsmall.zloty--b.jpg
   const siteUrl = "{{site.url}}";
@@ -66,7 +75,17 @@ function showRandom() {
     document.getElementById("modalImg").style.display = "block";
   }
 
-  disablePlaceholder()
+
+  let img = document.getElementById("modalImg");
+  if (img.complete) {
+    disablePlaceholder();
+  } else {
+    img.addEventListener('load', disablePlaceholder);
+    img.addEventListener('error', function() {
+      disablePlaceholder();
+      console.log('error loading image');
+    });
+  }
   modal.show();
 }
 
