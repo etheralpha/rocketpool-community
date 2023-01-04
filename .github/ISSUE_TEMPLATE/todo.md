@@ -1,5 +1,5 @@
 ---
-name: _todo.md
+name: todo
 about: List of items that need to be added/updated
 title: todo - mmm dd, yyyy
 labels: ''
