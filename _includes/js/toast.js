@@ -6,7 +6,8 @@ showtoast()
 function showtoast() {
   const toastName = "toast-{{site.toastMsgId}}";
   const hideToast = localStorage.getItem(toastName);
-  if (hideToast != "true") {
+  const timestamp = Math.round(Date.now()/10000)*10;
+  if (hideToast != "true" && timestamp < {{site.toastExpiration}}) {
     toast.show();
   }
 }

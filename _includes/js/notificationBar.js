@@ -4,7 +4,8 @@ window.onload = showNotification();
 function showNotification() {
   const notificationName = "notification-{{site.notificationMsgId}}";
   const hideNotification = localStorage.getItem(notificationName);
-  if (hideNotification != "true") {
+  const timestamp = Math.round(Date.now()/10000)*10;
+  if (hideNotification != "true" && timestamp < {{site.notificationExpiration}}) {
     const notification = document.getElementById("notification");
     notification.style.display = "block";
   }
