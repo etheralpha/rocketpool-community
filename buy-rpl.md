@@ -20,6 +20,7 @@ Exchange    | Pair
 ------------|------------
 Binance     | [RPL/USDT](https://www.binance.com/en/trade/RPL_USDT?theme=dark&type=spot)
 Coinbase    | [RPL/USD](https://pro.coinbase.com/trade/RPL-USD)
+Crypto.com  | [RPL](https://crypto.com)
 Gate.io     | [RPL/USDT](https://www.gate.io/trade/RPL_USDT)
 Huobi       | [RPL/USDT](https://www.huobi.com/en-us/exchange/rpl_usdt)
 Kraken      | [RPL/USD](https://www.kraken.com/prices/rocket-pool?quote=usd)
