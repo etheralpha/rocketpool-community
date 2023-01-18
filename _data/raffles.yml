@@ -10,10 +10,20 @@
 
 
 # Post new entries at the top of the list
+- title: Binance RPL Raffle
+  link: https://poap.fun/raffle/2004
+  date: 2023-01-18T06:11
+  winner: https://etherscan.io/address/0x77068d440cdfb76500152e4a8be4e1d8e58076d5
+  ens: wallmann.eth
+- title: Rocket Fuel's 100th Episode Celebration
+  link: https://poap.fun/raffle/1936
+  date: 2022-12-19T20:00
+  winner: https://etherscan.io/address/0xe7b69c2263932289748b322a597ebf93208b61ed
+  ens: woh.eth
 - title: Rocket Pool 1 Year Anniversary POAP Giveaway
   link: https://poap.fun/raffle/1938
   date: 2022-12-15T18:00
-  winner: 
+  winner: https://etherscan.io/address/0x071381a500e332812d4597623c1d080529d1d363
   ens: 
 - title: Rocket Pool Launch Pixel Placer Raffle
   link: https://poap.fun/raffle/821
