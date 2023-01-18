@@ -13,11 +13,17 @@ buttons:
 
 While RPL can be bought on a CEX like those listed below, we like to encourage users to be self-sovereign and buy through a DEX. This guide will show you the best ways to go about purchasing RPL on a DEX while getting the best price.
 
-- [Binance - RPL/USDT](https://www.binance.com/en/trade/RPL_USDT?theme=dark&type=spot)
-- [Coinbase - RPL/USD](https://pro.coinbase.com/trade/RPL-USD)
-- [Gate.io - RPL/USDT](https://www.gate.io/trade/RPL_USDT)
-- [Kraken - RPL/USD](https://www.kraken.com/prices/rocket-pool?quote=usd)
-- [MEXC](https://www.mexc.com/tokens/RPL)
+*Please evaluate each CEX independently and use at your own risk.*
+
+{:class="table" style="max-width: 350px"}
+Exchange    | Pair
+------------|------------
+Binance     | [RPL/USDT](https://www.binance.com/en/trade/RPL_USDT?theme=dark&type=spot)
+Coinbase    | [RPL/USD](https://pro.coinbase.com/trade/RPL-USD)
+Gate.io     | [RPL/USDT](https://www.gate.io/trade/RPL_USDT)
+Huobi       | [RPL/USDT](https://www.huobi.com/en-us/exchange/rpl_usdt)
+Kraken      | [RPL/USD](https://www.kraken.com/prices/rocket-pool?quote=usd)
+MEXC        | [RPL](https://www.mexc.com/tokens/RPL)
 
 
 
