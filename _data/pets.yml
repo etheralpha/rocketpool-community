@@ -8,6 +8,12 @@
 
 
 # Post new entries at the top of the list
+- name: Ozzie
+  img_url: assets/img/pets/kushim-ozzie.png
+  owner: Kushim
+  sex: male
+  type: dog
+  breed: Australian Shepherd
 - name: Koshka
   img_url: assets/img/pets/0xmeek.eth-koshka.png
   owner: 0xmeek.eth
