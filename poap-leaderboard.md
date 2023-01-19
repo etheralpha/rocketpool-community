@@ -13,17 +13,31 @@ buttons:
 ---
 
 
-{%- assign all_creators = site.data.poaps | map: "creator" | uniq -%}
+{%- assign all_creators = "..." -%}
+{%- for poap in site.data.poaps -%}
+  {%- assign creator = poap.creator | split: "," | first | remove: "POAPathon Commission by " -%}
+  {%- assign all_creators = all_creators | append: ", " | append: creator -%}
+{%- endfor -%}
+{%- assign all_creators = all_creators | remove: "..., " | split: ", " | uniq -%}
+
+
 {%- assign leaderboard = "..." -%}
-{%- for creator in all_creators -%}
-  {%- assign count = site.data.poaps | where: "creator", creator | size -%}
+{%- for each_creator in all_creators -%}
+  {%- assign count = 0 -%}
+  {%- for poap in site.data.poaps -%}
+    {%- assign creator = poap.creator | split: "," | first | remove: "POAPathon Commission by " -%}
+    {%- if creator == each_creator -%}
+      {%- assign count = count | plus: 1 -%}
+    {%- endif -%}
+  {%- endfor -%}
   {%- if count < 10 -%}
     {%- assign count = "0" | append: count -%}
   {%- endif -%}
-  {%- assign entry =  count | append: "--" | append: creator -%}
+  {%- assign entry =  count | append: "--" | append: each_creator -%}
   {%- assign leaderboard = leaderboard | append: ", " | append: entry -%}
 {%- endfor -%}
 {%- assign leaderboard = leaderboard | remove: "..., " | split: ", " | sort_natural | reverse -%}
+
 
 
 {:class="table table-sm table-hover leaderboard-table"}
