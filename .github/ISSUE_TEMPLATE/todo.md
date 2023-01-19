@@ -8,18 +8,24 @@ assignees: ''
 ---
 
 - [ ] update memes
-- [ ] add poaps: 
-- [ ] add graveyard poaps: 
+- [ ] fix bugs:
   - [ ] 
-- [ ] add resources
+- [ ] add to poaps: 
+- [ ] add to graveyard poaps: 
+  - [ ] 
+- [ ] add to resources
   - [ ] 
 - [ ] add to asset library:
   - [ ] 
-- [ ] add projects:
+- [ ] add to projects:
   - [ ] 
-- [ ] add pets:
+- [ ] add to pets:
   - [ ] 
-- [ ] add raffles:
+- [ ] add to raffles:
   - [ ] 
-- [ ] add updates:
-  - [ ]
+- [ ] add to updates:
+  - [ ] 
+- [ ] add to exchanges:
+  - [ ] 
+- [ ] add to bookmarks:
+  - [ ] 
