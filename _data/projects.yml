@@ -24,6 +24,22 @@
   repo_url: https://github.com/superphiz/awesome-rocketpool
   donate_url: 
   status: live
+- title: Defi Opportunities
+  owner: "@Val#5027 (Discord)"
+  description: A maintained list of defi opportunities for RPL and rETH.
+  link: https://docs.google.com/document/d/1XiOPWMjG5_BBxF5G5MafZc9Cde24y9jp-iKWKZsJxpk/
+  contact_url: https://discord.gg/gGWXF2BkUb
+  repo_url: 
+  donate_url: 
+  status: live
+- title: Discord RPL-bot
+  owner: "@vacalaranja#8816 (Discord)"
+  description: A Discord bot that shows RPL ratio and trades on Uniswap v3 and other functionality.
+  link: 
+  contact_url: https://discord.gg/gGWXF2BkUb
+  repo_url: 
+  donate_url: https://etherscan.io/address/0x8de90ADBd431Dfdae0cd81937fc1156031D50f19
+  status: live
 - title: Doofies
   owner: "@DrDoofus#5790 (Discord)"
   description: A place for world class artists (so not RPLgrime or GreyWizard) to make generitive Rocket Pool art.
@@ -32,6 +48,14 @@
   repo_url: https://github.com/jasonjkasper/donate/
   donate_url: https://www.paypal.com/donate/?hosted_button_id=TQ665L9MCWW6W
   status: development
+- title: Geographic Minipool & Node Data
+  owner: "@Hodja#0746 (Discord)"
+  description: Interactive maps and charts of Rocket Pool nodes and minipools global decentralization.
+  link: https://0xhodja.netlify.app/posts/rocketpool_node_distribution
+  contact_url: https://discord.gg/gGWXF2BkUb
+  repo_url: https://github.com/0xHodja/viz-data-rocketpool-node-distribution-map
+  donate_url: https://etherscan.io/address/0xhodja.eth
+  status: live
 - title: Rocket Arb
   owner: "@ramana#2626 (Discord)"
   description: Arbitrage rETH mint/burn with minipool deposit/withdrawal.
@@ -39,6 +63,14 @@
   contact_url: https://discord.gg/gGWXF2BkUb
   repo_url: https://github.com/xrchz/rocketarb
   donate_url: https://etherscan.io/address/ramana.eth
+  status: live
+- title: Rocket Arb Watch
+  owner: "@Hodja#0746 (Discord)"
+  description: Stats on rETH arbitrage rETH using Rocket Arb.
+  link: https://rocketarb-watch.netlify.app/
+  contact_url: https://discord.gg/gGWXF2BkUb
+  repo_url: https://github.com/0xHodja/rocket-arb-watch
+  donate_url: https://etherscan.io/address/0xhodja.eth
   status: live
 - title: Rocket Fuel
   owner: "@waqwaqattack#7706 (Discord)"
@@ -56,6 +88,14 @@
   repo_url: 
   donate_url: 
   status: live
+- title: Rocket Pool Merch
+  owner: "@Mentor#0001 (Discord)"
+  description: A Rocket Pool merch store for hoodies, mugs, and stickers.
+  link: https://store.palokaj.co/rocketpool/
+  contact_url: https://discord.gg/gGWXF2BkUb
+  repo_url: 
+  donate_url: 
+  status: live
 - title: Rocket Pool Metrics Dashboard
   owner: "@VGR (Discord)"
   description: A dashboard providing Rocket Pool stakeholders a bird's eye view of the network.
@@ -64,6 +104,14 @@
   repo_url: https://github.com/VGR-GIT/rp-community-metrics-dashboard
   donate_url: https://etherscan.io/address/rp-metrics-dashboard.eth
   status: deprecated
+- title: Rocket Pool POAP Stickers
+  owner: "@Vail#5913 (Discord)"
+  description: Print your favorite Rocket Pool POAPs, customized and on-demand.
+  link: https://sites.google.com/view/proofof/home
+  contact_url: https://discord.gg/gGWXF2BkUb
+  repo_url: 
+  donate_url: 
+  status: development
 - title: Rocket Pool Shirts
   owner: "@RPLgrime#6980 (Discord)"
   description: A Threadless shop where you can add Rocket Pool graphics to different merch.
@@ -144,6 +192,14 @@
   repo_url: https://github.com/colin-1833/rocket-stake
   donate_url: 
   status: abandoned
+- title: Rocket Track
+  owner: "@ramana#2626 (Discord)"
+  description: A tool to track rETH staking yield.
+  link: https://github.com/xrchz/rockettrack
+  contact_url: https://discord.gg/gGWXF2BkUb
+  repo_url: https://github.com/xrchz/rockettrack
+  donate_url: https://etherscan.io/address/ramana.eth
+  status: live
 - title: Rocket Watch
   owner: "@InvisibleSymbol#2788 (Discord)"
   description: A Discord bot that tracks Rocket Pool events like proposals, oDAO activity, minipool activity, and deposits.
@@ -192,14 +248,14 @@
   repo_url: 
   donate_url: https://etherscan.io/address/rpl.eth
   status: live
-- title: Uniswap v3 Discord RPL Bot
-  owner: "@vacalaranja#8816 (Discord)"
-  description: A Discord bot that shows RPL ratio and trades on Uniswap v3.
-  link: 
-  contact_url: https://discord.gg/gGWXF2BkUb
+- title: StakeRocketPool.xyz
+  owner: "@FeelinGoodFeelinGreat#0529 (Discord)"
+  description: 
+  link: https://stakerocketpool.xyz/
+  contact_url: https://twitter.com/StakeRocketPool
   repo_url: 
-  donate_url: https://etherscan.io/address/0x8de90ADBd431Dfdae0cd81937fc1156031D50f19
-  status: live
+  donate_url: 
+  status: development
 - title: ZigZag rETH/ETH Market Maker Bot
   owner: "@Hitsuzen.eth#8529  (Discord)"
   description: Market making bot using on-chain rETH ratio to provide liquidity on ZkSync L2 thanks to ZigZag Exchange.

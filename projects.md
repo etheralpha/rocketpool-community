@@ -25,7 +25,7 @@ permalink: /projects/
   </p>
   {%- assign projects_by_title = site.data.projects | sort_natural: "title" -%}
   {%- for project in projects_by_title -%}
-    <div class="row justify-content-center">
+    <div id="{{project.title | replace: ' ', '' | replace: '.', '}}" class="row justify-content-center">
         <div class="col col-lg-6 col-md-8">
           <div class="card mb-3">
             <div class="card-body">
