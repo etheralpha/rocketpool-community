@@ -15,9 +15,11 @@ buttons:
 
 - Consensys Diligence: 
   - <https://consensys.net/diligence/audits/2021/04/rocketpool/>{:class="text-break"}
+  - <https://rocketpool.net/files/consensys-audit-redstone.pdf>{:class="text-break"}
 - Sigma Prime: 
   - <https://rocketpool.net/files/SigmaPrimeAudit.pdf>{:class="text-break"}
   - <https://rocketpool.net/files/SigmaPrimeFixReview.pdf>{:class="text-break"}
+  - <https://rocketpool.net/files/sigma-prime-audit-redstone.pdf>{:class="text-break"}
 - Trail of Bits: 
   - <https://github.com/trailofbits/publications/blob/master/reviews/RocketPool.pdf>{:class="text-break"}
 
