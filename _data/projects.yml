@@ -254,7 +254,7 @@
   link: https://stakerocketpool.xyz/
   contact_url: https://twitter.com/StakeRocketPool
   repo_url: 
-  donate_url: 
+  donate_url: https://etherscan.io/address/stakerocketpool.eth
   status: development
 - title: ZigZag rETH/ETH Market Maker Bot
   owner: "@Hitsuzen.eth#8529  (Discord)"
