@@ -21,6 +21,36 @@
 
 
 # Post new entries at the top of the list
+- id: 98169
+  link: https://poap.gallery/event/98169
+  img_url: https://assets.poap.xyz/rocket-pool-hits-2000-node-operators-2023-logo-1674559248625.png
+  title: Rocket Pool Hits 2000 Node Operators
+  description: Rocket Pool hit a major milestone when the number of node operators reached 2000. This event is considered a huge success for the protocol and demonstrates its ability to maintain growth over time. The community celebrated this achievement as a sign of the protocol's strength and potential for future success. Community members, ramana and waqwaqattack were able to form a shrimp marriage to officially create the 2,000th node. This POAP was distributed via checkout, 100% of proceeds went to Rocket Pool's GMC wallet. POAP designed by ShfRyn.
+  desc_url: 
+  date: 24-Jan-2023
+  supply: 213
+  creator: ShfRyn
+  type: community
+- id: 98082
+  link: https://poap.gallery/event/98082
+  img_url: https://assets.poap.xyz/gitpoap3a-2023-rocket-rescue-node-contributor-2023-logo-1674509055336.png
+  title: "GitPOAP: 2023 Rocket Rescue Node Contributor"
+  description: You made at least one contribution to the Rocket Rescue Node project in 2023. Your contributions are greatly appreciated!
+  desc_url: https://github.com/Rocket-Rescue-Node/rescue-proxy
+  date: 01-Jan-2023
+  supply: 2
+  creator: GitPOAP
+  type: community
+- id: 98079
+  link: https://poap.gallery/event/98079
+  img_url: https://assets.poap.xyz/rocket-rescue-node-beta-tester-2023-logo-1674508211119.png
+  title: Rocket Rescue Node Beta Tester
+  description: Thank you for helping test the Rocket Rescue Node prior to its mainnet launch.
+  desc_url: https://www.gitpoap.io
+  date: 23-Jan-2023
+  supply: 13
+  creator: GitPOAP
+  type: community
 - id: 97627
   link: https://poap.gallery/event/97627
   img_url: https://assets.poap.xyz/hudson-sets-up-a-rocket-pool-node!-2023-logo-1674180418558.png
@@ -41,6 +71,16 @@
   supply: 67
   creator: woh
   type: community
+- id: 93461
+  link: https://poap.gallery/event/93461
+  img_url: https://assets.poap.xyz/rocket-pool-welcomes-anthony-sassano-to-the-odao-2022-logo-1671913822200.png
+  title: Rocket Pool welcomes Anthony Sassano to the ODAO
+  description: Anthony Sassano has been a long time supporter of the Rocket Pool mission, and he was voted onto the Rocket Pool DAO December 17, 2022 by Superphiz, Butta, Cryotomanufaktur, Bankless, and Rocket Pool. The Rocket Pool community is very excited to have Sassal's experience and leadership on our team! POAP development by Superphiz, POAP art by NimaNourani.
+  desc_url: https://twitter.com/sassal0x/status/1604119802850967552
+  date: 17-Dec-2022
+  supply: 102
+  creator: NimaNourani, POAPathon Commission by superphiz
+  type: community
 - id: 97128
   link: https://poap.gallery/event/97128
   img_url: https://assets.poap.xyz/rocket-pool-welcomes-kevin-owocki-as-a-node-operator-2023-logo-1673920419538.png
@@ -50,6 +90,16 @@
   date: 16-Jan-2023
   supply: 58
   creator: Shfryn
+  type: community
+- id: 96625
+  link: https://poap.gallery/event/96625
+  img_url: https://assets.poap.xyz/this-rocket-pool-odao-node-updated-to-rp-v172-2023-logo-1673548139958.png
+  title: This Rocket Pool ODAO node updated to RP v1.7.2
+  description: Every Rocket Pool oDAO node upgraded to watchtower v1.7.2 in time for the January 18, 2023 rewards tree generation. Each operator who updated their node received a mint link for this POAP to use as they wish. Art by ShfRyn#9497, development and distribution by Superphiz.
+  desc_url: https://dune.com/greywizard/rocket-pool-odao-stats
+  date: 12-Jan-2023
+  supply: 8
+  creator: ShfRyn
   type: community
 - id: 96545
   link: https://poap.gallery/event/96545
@@ -80,6 +130,16 @@
   date: 06-Jan-2023
   supply: 67
   creator: payjoe93, POAPathon Commission by superphiz
+  type: community
+- id: 95942
+  link: https://poap.gallery/event/95942
+  img_url: https://assets.poap.xyz/ramana-trades-hearts-for-rpl-2023-logo-1673197090161.png
+  title: Ramana Trades Hearts for RPL
+  description: "Ramana asked for #trading to respond to his comment with a heart emoji. He said that he would buy 42 rpl for each distinct heart emoji his comment was reacted with. He ended up with 21 distinct emoji hearts on his comment. He bought 882 rpl!<br><br>This POAP was created by Kane and distributed by waqwaqattack"
+  desc_url: https://discord.com/channels/405159462932971535/405163713063288832/1061067650576437258
+  date: 06-Jan-2023
+  supply: 1
+  creator: kanewallmann
   type: community
 - id: 95433
   link: https://poap.gallery/event/95433
