@@ -31,6 +31,10 @@
   title: Rocket Pool Github 
   description: The Rocket Pool Github and repositories.
   categories: official, general
+- link: "https://rocketpool.support"
+  title: Rocket Pool Support
+  description: Rocket Pool support self-help website.
+  categories: community, guides
 - link: ./../audits
   title: Rocket Pool Audits
   description: The results of the Rocket Pool contract audits.
